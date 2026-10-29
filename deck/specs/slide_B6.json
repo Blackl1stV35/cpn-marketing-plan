@@ -33,7 +33,7 @@
             },
             {
               "head": "Q4 What evidence supports the extra revenue?",
-              "text": "Not yet measured. Team assumptions (25% visit share for ages 18–29, +10% frequency, +5% lift) carry 79% of FY2028E uplift. The baseline and gates G2 to G4 test the frequency and lift; the 25% share is not measured directly, as K1 is the 20–29 share of visitors aged 20+.",
+              "text": "Not yet measured. Team assumptions (25% visit share for ages 18–29, +10% frequency, +5% lift) carry 79% of FY2028E uplift. Gates G2 and G3 test the lift and the active-member frequency (at least +5% each) and G4 the uplift they produce; the 25% share is not measured directly, as K1 is the 20–29 share of visitors aged 20+.",
               "tag": "Spkr 4"
             },
             {
@@ -49,7 +49,7 @@
             {
               "head": "Q7 What stops a loss-making FY2028 repeat?",
               "tag": "Spkr 5",
-              "text": "G4 requires ฿400m uplift and pass-through above 29% (tactics break-even); a miss limits FY2028 to tactics that passed. The full ฿560m needs ฿933m and 67%: reviewed, not required."
+              "text": "Gate G4, but only in part. It requires the tactics break-even (฿400m uplift, pass-through above 29%). The full ฿560m needs ฿933m uplift and 67% pass-through; G4 reports that test but does not require it, so a pass can release a repeat the base case does not repay (FY2028E uplift ฿696m). A miss limits FY2028 to the tactics that passed."
             }
           ]
         }
@@ -86,7 +86,7 @@
             },
             {
               "head": "Q13 How is Gen Z defined, and what consent age?",
-              "text": "Ages 18–29 (team definition). The survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29. DataReportal's 13–24 is a different band.",
+              "text": "Ages 18–29 (team definition). The survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29 (18–19 provisional). DataReportal's 13–24 is a different band.",
               "tag": "Spkr 4"
             }
           ]
@@ -94,7 +94,7 @@
       ]
     ]
   },
-  "notes": "Owners are suggested and can be swapped. Q1 (Spkr 6): It is a gated test, and the no-plan path also misses F1. Q2 (Spkr 4): No. On assumed uplift, the full 560 million a year is not repaid by FY2028E. Q3 (Spkr 5): Yes, our floor holds FY2025 one-offs; on the core test the margin passes, but growth still misses 7.0 percent. Q4 (Spkr 4): Not yet measured; our volume assumptions carry most of the uplift, and the baseline and gates test the frequency and lift; the 25% share is not measured directly, because K1 is the 20 to 29 share of visitors aged 20 and over. Q5 (Spkr 1): We do not know; CPN reports no separate marketing expense, so the 2,200 million is our assumption. Q6 (Spkr 5): 45 percent of the net-new money waits for a results test, at gate two or three; gates zero and one test readiness. Q7 (Spkr 5): G4 requires the tactics break-even, 400 million of uplift and pass-through above 29 percent; below that FY2028 is limited to the tactics that passed. The full 560 million needs 933 million and 67 percent, which G4 reviews but does not require. Q8 (Spkr 2): It is the Dow Jones Best-in-Class Indices, formerly DJSI, per CPN (9 Apr 2026); S&P's Sustainability Yearbook 2026 (S&P-sourced) lists CPN in the top 10% of CSA scores. Q9 (Spkr 6): We quote only the 50% cut in emissions intensity by 2034 against 2024. Q10 (Spkr 2): Central Retail's loyalty ecosystem has 23 million members in Thailand (Central Retail press release, 14 Aug 2026), which we read as The 1. Q11 (Spkr 3): The 1Q27 date comes from the 2Q26 MD&A, p. 7; launch spend follows a CPN filing (D1). Q12 (Spkr 5): 35.5% is our own calculation from CPN's two reported figures. Q13 (Spkr 4): Gen Z and young adults are ages 18 to 29; our survey reaches only respondents aged 20 and over, the age of majority, so it measures 20 to 29, and member data cover active members 18 to 29; younger respondents would need a guardian under the PDPA, which a Thai-law reader should confirm.",
+  "notes": "Owners are suggested and can be swapped. Q1 (Spkr 6): It is a gated test, and the no-plan path also misses F1. Q2 (Spkr 4): No. On assumed uplift, the full 560 million a year is not repaid by FY2028E. Q3 (Spkr 5): Yes, our floor holds FY2025 one-offs; on the core test the margin passes, but growth still misses 7.0 percent. Q4 (Spkr 4): Not yet measured; our volume assumptions carry most of the uplift, and gates two and three test the lift and the active-member frequency, gate four the uplift they produce; the 25% share is not measured directly, because K1 is the 20 to 29 share of visitors aged 20 and over. Q5 (Spkr 1): We do not know; CPN reports no separate marketing expense, so the 2,200 million is our assumption. Q6 (Spkr 5): 45 percent of the net-new money waits for a results test, at gate two or three; gates zero and one test readiness. Q7 (Spkr 5): Gate G4, but only in part. It requires the tactics break-even, 400 million of uplift and pass-through above 29 percent. If it is missed, FY2028 is limited to the tactics that passed. The full 560 million needs 933 million of uplift and 67 percent pass-through. G4 reports that test but does not require it, so a pass can release a repeat that the base case does not repay; its FY2028E uplift is 696 million. Q8 (Spkr 2): It is the Dow Jones Best-in-Class Indices, formerly DJSI, per CPN (9 Apr 2026); S&P's Sustainability Yearbook 2026 (S&P-sourced) lists CPN in the top 10% of CSA scores. Q9 (Spkr 6): We quote only the 50% cut in emissions intensity by 2034 against 2024. Q10 (Spkr 2): Central Retail's loyalty ecosystem has 23 million members in Thailand (Central Retail press release, 14 Aug 2026), which we read as The 1. Q11 (Spkr 3): The 1Q27 date comes from the 2Q26 MD&A, p. 7; launch spend follows a CPN filing (D1). Q12 (Spkr 5): 35.5% is our own calculation from CPN's two reported figures. Q13 (Spkr 4): Gen Z and young adults are ages 18 to 29; our survey reaches only respondents aged 20 and over, the age of majority, so it measures 20 to 29, and member data cover active members 18 to 29; younger respondents would need a guardian under the PDPA, which a Thai-law reader should confirm; The 1 data for ages 18 and 19 are aggregated and provisional until then.",
   "sources": [
     "Central Pattana, 2026a, 2026g (p. 7), 2026p, 2026t, n.d.-g (pp. 1, 5); Central Pattana Investor Relations, n.d.-c, 2026",
     "Central Retail Corporation, 2026; S&P Global, 2026",
@@ -175,7 +175,7 @@
       "cite": "team calculation"
     },
     {
-      "on_slide": "Q4: The baseline and gates G2 to G4 test them",
+      "on_slide": "Q4: Gates G2 and G3 test lift and active-member frequency; G4 tests the uplift they produce",
       "meaning": "The Section 4.5 baseline is due by 31 March 2027 (G1); G2 tests the The 1 BIZ lift (at least +5% against matched controls) and S7 revenue per baht; G3 tests Gen Z visits per active member (at least +5%); G4 tests the uplift run-rate and pass-through (K12)",
       "where": "ch6.md Table 6.2 rows G1 to G4; Table 6.3 rows K1, K2, K5 and K12",
       "cite": "team proposal"
@@ -259,7 +259,7 @@
       "cite": "team definition"
     },
     {
-      "on_slide": "Q13: the survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29",
+      "on_slide": "Q13: the survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29 (18–19 provisional)",
       "meaning": "The team uses the Civil Code majority of 20 as the PDPA consent age (decided 29 Oct 2026, replacing the earlier 18); the survey reaches respondents aged 20 and over, so K1 is the 20–29 share of visitors aged 20 and over and ages 18 and 19 are seen only in The 1 member data (K2, active members); the plan band stays ages 18–29 (decided 29 Oct 2026)",
       "where": "corrections.md Facts, Survey consent; ch4.md 4.5 age-band and PDPA paragraphs now say 20 (report fixed 29 Oct 2026)",
       "cite": "Personal Data Protection Act, B.E. 2562, 2019; team treatment"
@@ -277,8 +277,8 @@
       "cite": "S&P Global, 2026 (Sections 2-3 reference list)"
     },
     {
-      "on_slide": "Q7: G4 requires 400m uplift and pass-through above 29%; the full 560m needs 933m and 67%",
-      "meaning": "Table 6.2 G4 pass test is the tactics break-even (uplift run-rate at least 400 million, pass-through above 29%, K12); a failed G4 limits FY2028 to the tactics that passed; K12 also lists 933 million and 67% for all net-new spend, which G4 reviews with all Table 6.3 KPIs but does not require",
+      "on_slide": "Q7: Gate G4 only in part: tactics break-even (400m uplift, pass-through above 29%); the full 560m needs 933m uplift and 67% pass-through, reported, not required; the base case does not repay a repeat (FY2028E uplift 696m)",
+      "meaning": "Table 6.2 G4 pass test is the tactics break-even (uplift run-rate at least 400 million, pass-through above 29%, K12); a failed G4 limits FY2028 to the tactics that passed; K12 also lists 933 million and 67% for all net-new spend, which G4 reports beside the tactics test but does not require (Table 6.2 row G4 and K12 now say so; tightening to 933 million and 67% would fail the base case, whose FY2028E uplift is 696 million, and force a re-run of FY2028E)",
       "where": "ch6.md Table 6.2 row G4; Table 6.3 row K12; ch5.md section 5.1 and Table 5.4",
       "cite": "team proposal (Chapter 6 Table 6.2); team calculation (Chapter 5)"
     }

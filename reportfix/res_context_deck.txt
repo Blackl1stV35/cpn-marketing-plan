@@ -1,0 +1,851 @@
+DECK TEXT NOW (sketch PDF pages; each slide page = comp text, then speaker notes and the 'Text on the slide' list)
+
+===== PDF PAGE 1: OUTLINE PAGE =====
+CPN marketing plan: final deck outline
+10-minute slot: 12 core slides + 6 backup  ·  speech 8:30 + 5 handovers x 0:10 + 0:40 spare  ·  Q&A follows (5 to 10 min)
+Updated 29 Oct 2026
+Run of show
+600 s = 510 s speech + 50 s handovers + 40 s spare
+Open 0:55
+Recap 1:10
+Tactics 2:25
+Financials 1:50
+Controls 1:40
+Close 0:30
+S1
+S2
+0:45
+S3
+0:35
+S4
+0:35
+S5
+0:55
+S6
+0:55
+S7
+0:35
+S8
+0:55
+S9
+0:55
+S10
+0:50
+S11
+0:50
+S12
+0:30
+spare 0:40
+Spkr 1  0:55
+Spkr 2  1:10
+Spkr 3  1:50
+Spkr 4  1:30
+Spkr 5  1:45
+Spkr 6  1:20
+0:00
+1:00
+2:00
+3:00
+4:00
+5:00
+6:00
+7:00
+8:00
+9:00
+10:00
+handover 0:10 (x5)
+speaker block Spkr 1 to Spkr 6 (names assigned by the team)
+The 12 core slides
+headline = the sentence at the top of each slide (S1 has none; its row shows a one-line summary)
+S1
+Title
+Title
+Marketing plan for Central Pattana: what we propose for FY2027, what it costs
+and how we will control it.
+0:10
+Spkr 1 · 21 words
+NEW
+Title slide
+S2
+The plan in five numbers
+Executive summary
+We propose a ฿2,760 million gross ceiling for FY2027; the base case misses our
+financial objective (F1), and net-new money is released after each gate.
+0:45
+Spkr 1 · 76 words
+NEW
+5 key numbers
+S3
+Situation recap
+2.2, 2.6 · Situation analysis
+CPN's reach of 44 shopping centres at end-2025 and about 510 million visits a
+year is strong, but three issues need attention.
+0:35
+Spkr 2 · 67 words
+RECAP
+SWOT + 3 issues
+S4
+Strategy recap
+3.2–3.5 · Marketing strategy
+Six proposed objectives and four target tiers give Gen Z and young
+adults (ages 18–29) the largest share of new effort, under a Center of Life
+position.
+0:35
+Spkr 2 · 71 words
+RECAP
+3 columns
+S5
+Product + pricing
+4.1–4.2 · Marketing tactics
+Rental and services is 82.5% of FY2025 total revenue (team calculation), but the
+documents we reviewed give no CPN rents, so we propose rules, not rent levels.
+0:55
+Spkr 3 · 104 words
+NEW
+Table + figures
+S6
+Distribution + promotion
+4.3–4.4 · Marketing tactics
+Our proposed FY2027 gross ceiling is ฿2,760 million, 5.2% of FY2025 revenue,
+built around three dated openings and three flagship seasons.
+0:55
+Spkr 3 · 103 words
+NEW
+Channels + calendar
+S7
+Research and indicators
+4.5, 6.1 · Research and KPIs
+We propose to measure Gen Z and young adults by survey (ages 20–29) and
+member data (18–29), with baselines by 31 March 2027 to set targets against
+our data.
+0:35
+Spkr 4 · 75 words
+NEW
+Research + KPIs
+S8
+Break-even + sales forecast
+5.1–5.2 · Break-even and sales
+Base-case growth is 6.6% in FY2027E against the 7.0% goal, and the extra
+revenue does not repay the ฿560 million a year of net-new spend by FY2028E.
+0:55
+Spkr 4 · 103 words
+NEW
+Charts
+S9
+Expense forecast + profit
+5.3 · Expense forecast and profit
+The plan costs margin: base-case net margin is 34.6% in FY2027E against our
+35.5% floor, a ฿558 million shortfall, so F1 is not met.
+0:55
+Spkr 5 · 103 words
+NEW
+Charts
+S10
+Implementation + organization
+6.1–6.2 · Roadmap and organization
+We propose to release money in five gates from 15 December 2026, inside a
+฿560 million net-new cap a year; a failed gate holds or cuts the next release.
+0:50
+Spkr 5 · 103 words
+NEW
+Timeline + roles
+S11
+Contingency planning
+6.3 · Contingency planning
+If 2020 repeated, CPN's own 51.6% core profit fall would cut FY2027E profit by
+฿10.5bn, more than marketing can absorb, so credit is the constraint to watch.
+0:50
+Spkr 6 · 103 words
+NEW
+Risk map
+S12
+Three takeaways
+Conclusion · Q&A
+We propose ฿560 million of net-new marketing; the base case misses
+F1 (6.6% growth, 34.6% margin), and gates and a response ladder control the
+spend.
+0:30
+Spkr 6 · 55 words
+NEW
+3 takeaways
+Backup slides (not presented; ready for the Q&A)
+B1
+References
+The Chapters 4 to 6 reference list has 76 entries, mostly company disclosures (40) and news items (17); letter
+suffixes follow first use, not strict APA order.
+B2
+Situation backup
+The backup shows the SWOT detail, five named rivals plus Mega Bangna, and the team's BCG and nine-box views;
+malls rank first and offices sit at Low x Low.
+B3
+Tactics backup
+The proposed FY2027 ceilings total ฿2,760 million over 11 lines, 5.2% of FY2025 revenue, a team proposal and
+not CPN guidance.
+B4
+Model assumptions
+In FY2027E the base case misses F1 (growth 6.6% against 7.0%; margin 34.6% against our 35.5% floor); only the
+optimistic case meets it.
+B5
+Full risk register
+All ten risks in Table 6.6 have a likelihood, an impact, a numeric trigger and a response; four are rated High
+impact (risks 2, 6, 7 and 10).
+B6
+Q&A cards
+We answer the 13 likely questions plainly, with a suggested speaker for each: the base case misses F1 and the
+extra revenue is our assumption.
+Build checklist
+Tap a slide row above, or use the bookmarks, to jump to its page. Each page has the comp, the
+speaker notes and the slide text to copy; page 2 is the build
+key (frame, colours, type and chart rules).
+Canvas 1920 x 1080; palette maroon #8C1D28 and gold #C9A227 as in the 7 Sep deck, with that
+deck's fonts (the comps use Segoe UI as a stand-in); sources line at the foot of every slide except
+S1.
+Headlines are the full sentences shown. Keep caveats off the main slides; they sit in the B2
+footnote (The Central Phaholyothin date) and on the B6 cards.
+Build the charts on S8 and S9 as native, editable charts; their data, axes and colours are under
+'Text on the slide' on each page.
+Footer navigation (Situation, Strategy, Tactics, Financials, Controls) on S2 to S12; the current
+section is highlighted on S3 to S11 only.
+Paste the speaker notes into each slide's notes: 984 words written, about 1,119 spoken with
+numbers read aloud, which is 516 s at 130 words a minute against the 510 s budget. Backup
+pages carry short notes; B6 lists owners and first answers.
+Numbers and sources were checked against the report and the corrections log on 29 Oct 2026,
+and the report was aligned with the deck. B6 sources outside Chapters 4 to 6 (Central Retail, CPN
+9 Apr 2026, S&P Yearbook, CPN IR page) are in the Sections 2–3 list.
+Locked corrections: 23 provinces; Central Retail's loyalty ecosystem has 23M members in
+Thailand (we read it as The 1); 50% cut by 2034 vs 2024; Phaholyothin 1Q27; base case misses F1.
+
+===== PDF PAGE 4: S2 =====
+Executive summary
+NEW
+2 / 12
+We propose a ฿2,760 million gross ceiling for FY2027; the base case misses our
+financial objective (F1), and net-new money is released after each gate.
+Sources: Central Pattana, 2026a; team calculation
+Controls
+Financials
+Tactics
+Strategy
+Situation
+฿2,760m
+FY2027 gross
+ceiling
+[Proposed]; 5.2% of FY2025
+revenue (฿53,009m)
+฿560m
+Net-new spend,
+each year
+Other ฿2,200m assumed
+already in FY2026E costs
+฿328m
+Extra revenue,
+FY2027E base
+Team assumption; ฿696m
+FY2028E vs ฿933m needed
+6.6%
+FY2027E growth;
+goal is 7.0%
+Margin 34.6% vs our
+35.5% floor: also missed
+5 gates
+Money released if
+tests pass
+G0 15 Dec 2026 to G4
+31 Jan 2028
+Most new effort goes to Gen Z and young adults (18–29). The base case misses F1; only the
+optimistic target meets it.
+S2
+The plan in five numbers
+0:45  ·  Spkr 1  ·  5 key numbers  ·  NEW
+Say  ·  76 words (99 spoken)  ·  0:45  ·  Spkr 1
+One: a proposed gross ceiling of 2,760 million baht. Two: net-new spend, 560 million a year. Three: our base case adds 328 million,
+then 696 million; repaying 560 million a year needs 933 million. Four: growth of 6.6 percent against 7.0 and margin of 34.6 against
+our 35.5 floor miss our objective, F1. Only the optimistic case, a target by definition, meets it. Five: money is released after each
+gate. Our second speaker covers the situation.
+Text on the slide, in reading order (to copy)
+Section chip
+Executive summary
+Status chip
+NEW
+Headline
+We propose a ฿2,760 million gross ceiling for FY2027; the base case misses our financial objective (F1), and net-new money
+is released after each gate.
+Tile 1 (maroon #8C1D28)
+฿2,760m | FY2027 gross ceiling | [Proposed]; 5.2% of FY2025 revenue (฿53,009m)
+Tile 2 (golddark #855C00)
+฿560m | Net-new spend, each year | Other ฿2,200m assumed already in FY2026E costs
+Tile 3 (teal #1B6B5A)
+฿328m | Extra revenue, FY2027E base | Team assumption; ฿696m FY2028E vs ฿933m needed
+Tile 4 (slate #2F4B7C)
+6.6% | FY2027E growth; goal is 7.0% | Margin 34.6% vs our 35.5% floor: also missed
+Tile 5 (purple #5B3F8C)
+5 gates | Money released if tests pass | G0 15 Dec 2026 to G4 31 Jan 2028
+Banner (maroon, white text)
+Most new effort goes to Gen Z and young adults (18–29). The base case misses F1; only the optimistic target meets it.
+Sources line
+Sources: Central Pattana, 2026a; team calculation
+Page counter (top right)
+2 / 12
+Footer navigation
+Situation | Strategy | Tactics | Financials | Controls (no section highlighted)
+Back to outline
+
+===== PDF PAGE 10: S8 =====
+5.1–5.2 · Break-even and sales
+NEW
+8 / 12
+Base-case growth is 6.6% in FY2027E against the 7.0% goal, and the extra
+revenue does not repay the ฿560 million a year of net-new spend by FY2028E.
+Sources: team calculation; team proposal (Chapter 5 model); Central Pattana, 2026g; Central Pattana, 2026p
+Controls
+Financials
+Tactics
+Strategy
+Situation
+Extra revenue: needed vs base (60.0% kept)
+THB million a year
+Base-case extra revenue (M1 to M4)
+Needed to repay ฿240m of tactics: ฿400m
+Needed to repay all ฿560m: ฿933m
+0
+250
+500
+750
+1,000
+FY2027E
+328
+฿328m: under both break-even lines
+FY2028E
+696
+฿696m: over ฿400m, under ฿933m
+400
+933
+Total revenue growth by scenario vs 7.0% goal
+% a year
+Conservative
+Base
+Optimistic (target-met)
+7.0% goal
+0%
+2.5%
+5%
+7.5%
+10%
+FY2027E
+3.3%
+6.6%
+8.7%
+Base 6.6%: 0.4 points short
+FY2028E
+3.9%
+6.9%
+9.0%
+Base 6.9%: 0.1 point short
+7.0%
+29%
+FY2028E pass-through
+needed, ฿240m tactics
+67%
+FY2028E pass-through
+needed, all ฿560m
+Not met
+Base case: F1 revenue
+test, 7.0% both years
+Tactics: the ฿240m that earns modelled revenue, repaid in 1.2 years; the other ฿320m earns none. Pass-through assumed 50%.
+S8
+Break-even + sales forecast
+0:55  ·  Spkr 4  ·  Charts  ·  NEW
+Say  ·  103 words (121 spoken)  ·  0:55  ·  Spkr 4
+We add 560 million baht a year of net-new marketing. Only 60 percent of extra revenue is kept, so we need 933 million more a
+year. The tactics are the 240 million that earns modelled revenue; they need 400 million and repay in 1.2 years. The full 560 million
+a year does not. In 2028 it needs 67 percent of any gain to reach CPN's revenue; we assumed 50. The tactics need only 29 percent.
+Base-case growth is 6.6 percent in 2027 and 6.9 in 2028, short of 7. Only the optimistic case passes, by definition. Our fifth speaker
+covers expenses and profit.
+Text on the slide, in reading order (to copy)
+Section chip
+5.1–5.2 · Break-even and sales
+Status chip
+NEW
+Headline
+Base-case growth is 6.6% in FY2027E against the 7.0% goal, and the extra revenue does not repay the ฿560 million a year of
+net-new spend by FY2028E.
+Chart 1 title
+Extra revenue: needed vs base (60.0% kept)
+Chart 1 unit label (top right)
+THB million a year
+Chart 1 type
+clustered columns, plus dashed full-width reference lines for line series
+Chart 1 value axis
+0 to 1,000, gridlines every 250; starts at zero
+Chart 1 categories
+FY2027E | FY2028E
+Chart 1 series
+Base-case extra revenue (M1 to M4) | columns | maroon #8C1D28 | 328 | 696
+Chart 1 series
+Needed to repay ฿240m of tactics: ฿400m | dashed reference line, value at the right end | gold #C9A227 | 400 | 400
+Chart 1 series
+Needed to repay all ฿560m: ฿933m | dashed reference line, value at the right end | slate #2F4B7C | 933 | 933
+Chart 1 chip under FY2027E
+(pale yellow, gold outline)
+฿328m: under both break-even lines
+Chart 1 chip under FY2028E
+(pale yellow, gold outline)
+฿696m: over ฿400m, under ฿933m
+Chart 2 title
+Total revenue growth by scenario vs 7.0% goal
+Chart 2 unit label (top right)
+% a year
+Chart 2 type
+clustered columns, plus dashed full-width reference lines for line series
+Chart 2 value axis
+0% to 10%, gridlines every 2.5%; starts at zero
+Chart 2 categories
+FY2027E | FY2028E
+Chart 2 series
+Conservative | columns | gray #8A857B | 3.3% | 3.9%
+Chart 2 series
+Base | columns | maroon #8C1D28 | 6.6% | 6.9%
+Chart 2 series
+Optimistic (target-met) | columns | teal #1B6B5A | 8.7% | 9.0%
+Chart 2 series
+7.0% goal | dashed reference line, value at the right end | gold #C9A227 | 7.0% | 7.0%
+Chart 2 chip under FY2027E
+(pale yellow, gold outline)
+Base 6.6%: 0.4 points short
+Chart 2 chip under FY2028E
+(pale yellow, gold outline)
+Base 6.9%: 0.1 point short
+Callout 1 (good #1B6B5A)
+29% | FY2028E pass-through needed, ฿240m tactics
+Callout 2 (warn #B4531A)
+67% | FY2028E pass-through needed, all ฿560m
+Callout 3 (warn #B4531A)
+Not met | Base case: F1 revenue test, 7.0% both years
+Reading line
+Tactics: the ฿240m that earns modelled revenue, repaid in 1.2 years; the other ฿320m earns none. Pass-through assumed
+50%.
+Sources line
+Sources: team calculation; team proposal (Chapter 5 model); Central Pattana, 2026g; Central Pattana, 2026p
+Page counter (top right)
+8 / 12
+Footer navigation
+Situation | Strategy | Tactics | Financials | Controls (current section bold, underlined)
+Back to outline
+
+===== PDF PAGE 12: S10 =====
+6.1–6.2 · Roadmap and organization
+NEW
+10 / 12
+We propose to release money in five gates from 15 December 2026, inside a
+฿560 million net-new cap a year; a failed gate holds or cuts the next release.
+Sources: team proposal (Tables 6.1, 6.2, 6.4); Central Pattana, n.d.-c; Central Pattana Investor Relations, 2026, pp. 62–63
+Controls
+Financials
+Tactics
+Strategy
+Situation
+Timeline and gates
+Q4 26
+Q1 27
+Q2 27
+Q3 27
+Q4 27
+Q1 28
+Data-law (PDPA)
+set-up (S1)
+Baseline research (S2–S6)
+Opening launches
+The 1 BIZ pilot (P5)
+Gen Z and tourist
+programmes
+Year-end season
+G0 15 Dec 2026
+First ฿155m (of ฿310m)
+G1 31 Mar 2027
+฿105m Gen Z, CENTRAL X
+G2 30 Jun 2027
+฿50m tourist programme
+G3 30 Sep 2027
+Year-end ฿800m gross
+G4 31 Jan 2028
+Decides FY2028 repeat
+Who does what
+CPN chief marketing officer (CMO),
+plan sponsor [Proposed]
+Plan Office
+Owns the dashboard and the gates
+Six squads
+Own the objectives, one function leads
+Finance
+Owns F1; reruns model in 5 working days
+Marketing Council
+Monthly; moves money in a control state
+Risk Management Committee
+Existing CPN body; quarterly readings
+S10
+Implementation + organization
+0:50  ·  Spkr 5  ·  Timeline + roles  ·  NEW
+Say  ·  103 words (110 spoken)  ·  0:50  ·  Spkr 5
+We propose releasing money in five gates from 15 December 2026. Net-new spend is capped at 560 million baht. A failed gate
+holds or cuts the next release. Gates zero and one test readiness: set-up and baseline. From gate two, we test results. Gate zero
+releases the first 155 million baht for Gen Z, tourist and CENTRAL X programmes. Gates one and two release the second half; gate
+three, the year-end season. Gate four, on 31 January 2028, decides the 2028 repeat. A proposed Plan Office under CPN's chief
+marketing officer owns the dashboard and the gates. Our sixth speaker covers the risks.
+Text on the slide, in reading order (to copy)
+Section chip
+6.1–6.2 · Roadmap and organization
+Status chip
+NEW
+Headline
+We propose to release money in five gates from 15 December 2026, inside a ฿560 million net-new cap a year; a failed gate
+holds or cuts the next release.
+Timeline scale
+6 equal columns (Q4 26, Q1 27, Q2 27, Q3 27, Q4 27, Q1 28); position 0 is the left edge of the first column and 6 the right
+edge of the last; column k spans k-1 to k
+Bar 1 (slate #2F4B7C)
+Data-law (PDPA) set-up (S1) | 67% into Q4 26 to 33% into Q1 27 | positions 0.67 to 1.33
+Bar 2 (teal #1B6B5A)
+Baseline research (S2–S6) | start of Q1 27 to end of Q1 27 | positions 1.0 to 2.0
+Bar 3 (gold #C9A227)
+Opening launches | start of Q1 27 to end of Q2 27 | positions 1.0 to 3.0
+Bar 4 (slate #2F4B7C)
+The 1 BIZ pilot (P5) | start of Q1 27 to end of Q2 27 | positions 1.0 to 3.0
+Bar 5 (maroon #8C1D28)
+Gen Z and tourist programmes | start of Q2 27 to end of Q4 27 | positions 2.0 to 5.0
+Bar 6 (maroon #8C1D28)
+Year-end season | start of Q4 27 to end of Q4 27 | positions 4.0 to 5.0
+Gate G0 (maroon)
+G0 15 Dec 2026 | dashed vertical line at position 0.82 (82% into Q4 26) | release chip: First ฿155m (of ฿310m)
+Gate G1 (maroon)
+G1 31 Mar 2027 | dashed vertical line at position 2.0 (start of Q2 27) | release chip: ฿105m Gen Z, CENTRAL X
+Gate G2 (maroon)
+G2 30 Jun 2027 | dashed vertical line at position 3.0 (start of Q3 27) | release chip: ฿50m tourist programme
+Gate G3 (maroon)
+G3 30 Sep 2027 | dashed vertical line at position 4.0 (start of Q4 27) | release chip: Year-end ฿800m gross
+Gate G4 (maroon)
+G4 31 Jan 2028 | dashed vertical line at position 5.33 (33% into Q1 28) | release chip: Decides FY2028 repeat
+Roles top box (maroon)
+CPN chief marketing officer (CMO), plan sponsor [Proposed]
+Role 1 (golddark)
+Plan Office | Owns the dashboard and the gates
+Role 2 (teal)
+Six squads | Own the objectives, one function leads
+Role 3 (slate)
+Finance | Owns F1; reruns model in 5 working days
+Role 4 (purple)
+Marketing Council | Monthly; moves money in a control state
+Role 5 (grey outline, not linked
+to the sponsor)
+Risk Management Committee | Existing CPN body; quarterly readings
+Sources line
+Sources: team proposal (Tables 6.1, 6.2, 6.4); Central Pattana, n.d.-c; Central Pattana Investor Relations, 2026, pp. 62–63
+Other text on the comp
+(headings, axis titles, labels)
+Timeline and gates
+Who does what
+Page counter (top right)
+10 / 12
+Footer navigation
+Situation | Strategy | Tactics | Financials | Controls (current section bold, underlined)
+Back to outline
+
+===== PDF PAGE 19: B5 =====
+Backup · 6.3 Table 6.6
+BACKUP
+B5
+All ten risks in Table 6.6 have a likelihood, an impact, a numeric trigger and a
+response; four are rated High impact (risks 2, 6, 7 and 10).
+Sources: Nation Thailand, 2026i; Central Pattana, 2026g; Personal Data Protection Act, B.E. 2562, 2019; team judgement
+Table 6.6: ten risks (team judgement)
+Risk
+Likelihood
+Impact
+Trigger (thresholds [Proposed])
+Response
+1. E-commerce and social-commerce
+share gain
+High
+Medium
+Online share up over 2 points in a year; K4 not above Q1 baseline by Q3
+Experience-led zones (P1); CENTRAL X as front door (D4)
+2. Household debt and consumer
+slowdown
+High
+High
+Debt over 88% of GDP; BoT 2027 growth under 1.5%; R&S growth 4.3% or less
+Amber/Red ladder; capped vouchers (R4); CPN already delays some
+residential launches
+3. Tourism volatility, China
+High
+Medium
+Arrivals down over 8% year to date (down 4.12% to 17 Oct 2026)
+Line 6 in tranches; mix toward India, the Gulf and Europe (M2)
+4. Bangkok saturation and tenant
+bargaining power
+Medium
+Medium
+Quarterly occupancy under 90% (K13); 91% in 2Q26
+Renewal rule R1 (2–3% escalators, non-rent concessions first)
+5. Overseas execution
+Medium
+Low
+Intl. revenue under ฿720 million; Vietnam spend before a definitive agreement
+No FY2027 Vietnam budget; Malaysia limited to the D5 pilot
+6. PDPA and data privacy
+Medium
+High
+Confirmed breach or leak; unreported in 72 hours; consent not live 31 Jan 2027
+S1 set-up; aggregated extracts only; S4 survey ages 20+ only;
+count-only counters
+7. Sustainability-claim exposure
+Medium
+High
+Headroom to bond carbon path under 10% (18% in 2025); free space under
+2.7%
+Claims traced to CPN documents (K7); bond never said to fund the
+฿110bn plan
+8. Capex and execution overrun
+High
+Medium
+Opening over a quarter late; finance cost over ฿4,149m; net debt/equity >0.60x
+Launch spend follows CPN confirmation (D1); model rerun at every
+release
+9. Dependence on one-off gains
+High
+Medium
+Reported minus core net margin over 1.5 points (3.2 in FY2025)
+F1 on reported and core margin (K8); no credit for FX gains or
+CPNREIT sublease
+10. Gen Z disengagement (thesis risk)
+Medium
+High
+Gen Z visits per active member under +5% at G3; K1 gain under its threshold
+(3.1 points at a 25% base) at Q4
+Format zones (P1); creator briefs tied to CENTRAL X; move money to
+best format
+Scales and terms
+Likelihood: High above 50%, Medium 20% to 50%, Low below 20%. Impact: High if FY2027E net profit would move by more than 5% (฿1,022 million of ฿20,430 million) or an objective would be out of reach; Medium 1% to
+5%; Low below 1%. These are team judgements. R&S is rental and services revenue; BoT is the Bank of Thailand.
+B5
+Full risk register
+Backup · 6.3 Table 6.6  ·  NEW
+Speaker note (backup slide, not presented)
+Backup slide, not presented. The ten risks, ratings, triggers and responses are shortened from Table 6.6; the full wording and
+sources are in Chapter 6, section 6.3.
+Text on the slide, in reading order (to copy)
+Section chip
+Backup · 6.3 Table 6.6
+Status chip
+BACKUP
+Headline
+All ten risks in Table 6.6 have a likelihood, an impact, a numeric trigger and a response; four are rated High impact (risks 2, 6,
+7 and 10).
+Table 6.6: ten risks (team
+judgement)
+Risk | Likelihood | Impact | Trigger (thresholds [Proposed]) | Response
+1. E-commerce and social-commerce share gain | High | Medium | Online share up over 2 points in a year; K4 not above Q1
+baseline by Q3 | Experience-led zones (P1); CENTRAL X as front door (D4)
+2. Household debt and consumer slowdown | High | High | Debt over 88% of GDP; BoT 2027 growth under 1.5%; R&S growth
+4.3% or less | Amber/Red ladder; capped vouchers (R4); CPN already delays some residential launches
+3. Tourism volatility, China | High | Medium | Arrivals down over 8% year to date (down 4.12% to 17 Oct 2026) | Line 6 in
+tranches; mix toward India, the Gulf and Europe (M2)
+4. Bangkok saturation and tenant bargaining power | Medium | Medium | Quarterly occupancy under 90% (K13); 91% in
+2Q26 | Renewal rule R1 (2–3% escalators, non-rent concessions first)
+5. Overseas execution | Medium | Low | Intl. revenue under ฿720 million; Vietnam spend before a definitive agreement | No
+FY2027 Vietnam budget; Malaysia limited to the D5 pilot
+6. PDPA and data privacy | Medium | High | Confirmed breach or leak; unreported in 72 hours; consent not live 31 Jan 2027 |
+S1 set-up; aggregated extracts only; S4 survey ages 20+ only; count-only counters
+7. Sustainability-claim exposure | Medium | High | Headroom to bond carbon path under 10% (18% in 2025); free space
+under 2.7% | Claims traced to CPN documents (K7); bond never said to fund the ฿110bn plan
+8. Capex and execution overrun | High | Medium | Opening over a quarter late; finance cost over ฿4,149m; net debt/equity
+>0.60x | Launch spend follows CPN confirmation (D1); model rerun at every release
+9. Dependence on one-off gains | High | Medium | Reported minus core net margin over 1.5 points (3.2 in FY2025) | F1 on
+reported and core margin (K8); no credit for FX gains or CPNREIT sublease
+10. Gen Z disengagement (thesis risk) | Medium | High | Gen Z visits per active member under +5% at G3; K1 gain under its
+threshold (3.1 points at a 25% base) at Q4 | Format zones (P1); creator briefs tied to CENTRAL X; move money to best format
+Table 6.6: ten risks (team
+judgement): column widths
+19% / 8% / 8% / 35% / 30% (maroon header, zebra rows, first column bold maroon)
+Scales and terms
+Likelihood: High above 50%, Medium 20% to 50%, Low below 20%. Impact: High if FY2027E net profit would move by more
+than 5% (฿1,022 million of ฿20,430 million) or an objective would be out of reach; Medium 1% to 5%; Low below 1%. These
+are team judgements. R&S is rental and services revenue; BoT is the Bank of Thailand.
+Sources line
+Sources: Nation Thailand, 2026i; Central Pattana, 2026g; Personal Data Protection Act, B.E. 2562, 2019; team judgement
+Other text on the comp
+(headings, axis titles, labels)
+B5
+Table 6.6: ten risks (team judgement)
+Scales and terms
+Back to outline
+
+===== PDF PAGE 20: B6 =====
+Backup · Likely questions
+BACKUP
+B6
+We answer the 13 likely questions plainly, with a suggested speaker for each: the
+base case misses F1 and the extra revenue is our assumption.
+Sources: Central Pattana, 2026a, 2026g (p. 7), 2026p, 2026t, n.d.-g (pp. 1, 5); Central Pattana Investor Relations, n.d.-c, 2026; Central Retail Corporation, 2026;
+S&P Global, 2026; Personal Data Protection Act, B.E. 2562, 2019; DataReportal, 2025; team calculation and proposal (Chapter 5 model; Table 6.2)
+Plan and numbers
+Q1 Why back a plan that misses F1 and
+does not repay?
+Spkr 6
+A gated test. The no-plan path also misses F1 (6.0%
+growth, 35.2% margin). Only ฿240m of tactics repay;
+benefits after FY2028E are not valued.
+Q2 Does the plan pay for itself?
+Spkr 4
+No. On assumed uplift, ฿560m a year is not repaid by
+FY2028E (needs 67% pass-through). ฿240m of tactics repay
+in 1.2 years; ฿320m earns none.
+Q3 Isn't our 35.5% floor inflated by
+one-offs? Is F1 missed on core?
+Spkr 5
+Yes: FY2025 held ฿2,119m of Rama 2 one-offs (3.2 points).
+On the K8 core test, base 33.9% clears a 32.3% floor, but
+growth of 6.6% still misses 7.0%.
+Q4 What evidence supports the extra
+revenue?
+Spkr 4
+Not yet measured. Team assumptions (25% visit share for
+ages 18–29, +10% frequency, +5% lift) carry 79% of
+FY2028E uplift. Gates G2 and G3 test the lift and the
+active-member frequency (at least +5% each) and G4 the
+uplift they produce; the 25% share is not measured directly,
+as K1 is the 20–29 share of visitors aged 20+.
+Q5 How do you know ฿2,200m is
+already in costs?
+Spkr 1
+We do not. CPN reports no separate marketing expense, so
+฿2,200m is our assumption. Each ฿100m not in the base
+cuts FY2027E margin by 0.14 points.
+Q6 How much of the money really
+depends on results?
+Spkr 5
+45% of net-new (฿250m of ฿560m) waits for a results test,
+at G2 or G3. G0 and G1 test readiness; ฿310m (55%) is due
+by 30 Jun.
+Q7 What stops a loss-making FY2028
+repeat?
+Spkr 5
+Gate G4, but only in part. It requires the tactics break-even
+(฿400m uplift, pass-through above 29%). The full ฿560m
+needs ฿933m uplift and 67% pass-through; G4 reports that
+test but does not require it, so a pass can release a repeat
+the base case does not repay (FY2028E uplift ฿696m). A
+miss limits FY2028 to the tactics that passed.
+Sustainability, data and definitions
+Q8 What is the ESG index called, and is
+FTSE4Good confirmed?
+Spkr 2
+The Dow Jones Best-in-Class Indices (formerly DJSI):
+World 8 years, Emerging Markets 12, per CPN, 9 Apr 2026.
+FTSE4Good: per CPN, unconfirmed.
+Q9 Which emissions target do you
+quote?
+Spkr 6
+One only: a 50% cut in emissions intensity by 2034 against
+a 2024 base, the target in CPN's latest (2025) climate
+summary.
+Q10 How many members does The 1
+have?
+Spkr 2
+Central Retail's loyalty ecosystem: 23 million members in
+Thailand (press release, 14 Aug 2026). It does not name the
+programme; we read it as The 1.
+Q11 Where does the 1Q27 date for The
+Central Phaholyothin come from?
+Spkr 3
+CPN's 2Q26 MD&A (p. 7) lists "The Central" at 1Q27, which
+we read as The Central Phaholyothin. Spend waits for a
+CPN filing (D1); other dates on B2.
+Q12 Which net margin is right: 35.5% or
+33.1%?
+Spkr 5
+35.5% is our calculation (18,841 / 53,009). CPN publishes
+33.1% (IR page), about 35.6% (MD&A) and
+36% (One Report). We never call 35.5% CPN's figure.
+Q13 How is Gen Z defined, and what
+consent age?
+Spkr 4
+Ages 18–29 (team definition). The survey reaches only
+people aged 20+ (age of majority; younger people would
+need a guardian on our reading of PDPA s.20), so it
+measures 20–29; member data cover active members
+18–29 (18–19 provisional). DataReportal's 13–24 is a
+different band.
+B6
+Q&A cards
+Backup · Likely questions  ·  NEW
+Speaker note (backup slide, not presented)
+Owners are suggested and can be swapped. Q1 (Spkr 6): It is a gated test, and the no-plan path also misses F1. Q2 (Spkr 4): No. On
+assumed uplift, the full 560 million a year is not repaid by FY2028E. Q3 (Spkr 5): Yes, our floor holds FY2025 one-offs; on the core
+test the margin passes, but growth still misses 7.0 percent. Q4 (Spkr 4): Not yet measured; our volume assumptions carry most of
+the uplift, and gates two and three test the lift and the active-member frequency, gate four the uplift they produce; the 25% share
+is not measured directly, because K1 is the 20 to 29 share of visitors aged 20 and over. Q5 (Spkr 1): We do not know; CPN reports
+no separate marketing expense, so the 2,200 million is our assumption. Q6 (Spkr 5): 45 percent of the net-new money waits for a
+results test, at gate two or three; gates zero and one test readiness. Q7 (Spkr 5): Gate G4, but only in part. It requires the tactics
+break-even, 400 million of uplift and pass-through above 29 percent. If it is missed, FY2028 is limited to the tactics that passed. The
+full 560 million needs 933 million of uplift and 67 percent pass-through. G4 reports that test but does not require it, so a pass can
+release a repeat that the base case does not repay; its FY2028E uplift is 696 million. Q8 (Spkr 2): It is the Dow Jones Best-in-Class
+Indices, formerly DJSI, per CPN (9 Apr 2026); S&P's Sustainability Yearbook 2026 (S&P-sourced) lists CPN in the top 10% of CSA
+scores. Q9 (Spkr 6): We quote only the 50% cut in emissions intensity by 2034 against 2024. Q10 (Spkr 2): Central Retail's loyalty
+ecosystem has 23 million members in Thailand (Central Retail press release, 14 Aug 2026), which we read as The 1. Q11 (Spkr 3):
+The 1Q27 date comes from the 2Q26 MD&A, p. 7; launch spend follows a CPN filing (D1). Q12 (Spkr 5): 35.5% is our own
+calculation from CPN's two reported figures. Q13 (Spkr 4): Gen Z and young adults are ages 18 to 29; our survey reaches only
+respondents aged 20 and over, the age of majority, so it measures 20 to 29, and member data cover active members 18 to 29;
+younger respondents would need a guardian under the PDPA, which a Thai-law reader should confirm; The 1 data for ages 18 and
+19 are aggregated and provisional until then.
+Text on the slide, in reading order (to copy)
+Section chip
+Backup · Likely questions
+Status chip
+BACKUP
+Headline
+We answer the 13 likely questions plainly, with a suggested speaker for each: the base case misses F1 and the extra revenue
+is our assumption.
+Plan and numbers
+Q1 Why back a plan that misses F1 and does not repay? | A gated test. The no-plan path also misses F1 (6.0% growth, 35.2%
+margin). Only ฿240m of tactics repay; benefits after FY2028E are not valued. | Spkr 6
+Q2 Does the plan pay for itself? | No. On assumed uplift, ฿560m a year is not repaid by FY2028E (needs 67% pass-through).
+฿240m of tactics repay in 1.2 years; ฿320m earns none. | Spkr 4
+Q3 Isn't our 35.5% floor inflated by one-offs? Is F1 missed on core? | Yes: FY2025 held ฿2,119m of Rama 2 one-offs (3.2
+points). On the K8 core test, base 33.9% clears a 32.3% floor, but growth of 6.6% still misses 7.0%. | Spkr 5
+Q4 What evidence supports the extra revenue? | Not yet measured. Team assumptions (25% visit share for ages 18–29, +10%
+frequency, +5% lift) carry 79% of FY2028E uplift. Gates G2 and G3 test the lift and the active-member frequency (at least
++5% each) and G4 the uplift they produce; the 25% share is not measured directly, as K1 is the 20–29 share of visitors aged
+20+. | Spkr 4
+Q5 How do you know ฿2,200m is already in costs? | We do not. CPN reports no separate marketing expense, so ฿2,200m is
+our assumption. Each ฿100m not in the base cuts FY2027E margin by 0.14 points. | Spkr 1
+Q6 How much of the money really depends on results? | 45% of net-new (฿250m of ฿560m) waits for a results test, at G2 or
+G3. G0 and G1 test readiness; ฿310m (55%) is due by 30 Jun. | Spkr 5
+Q7 What stops a loss-making FY2028 repeat? | Gate G4, but only in part. It requires the tactics break-even (฿400m uplift,
+pass-through above 29%). The full ฿560m needs ฿933m uplift and 67% pass-through; G4 reports that test but does not
+require it, so a pass can release a repeat the base case does not repay (FY2028E uplift ฿696m). A miss limits FY2028 to the
+tactics that passed. | Spkr 5
+Sustainability, data and
+definitions
+Q8 What is the ESG index called, and is FTSE4Good confirmed? | The Dow Jones Best-in-Class Indices (formerly DJSI): World
+8 years, Emerging Markets 12, per CPN, 9 Apr 2026. FTSE4Good: per CPN, unconfirmed. | Spkr 2
+Q9 Which emissions target do you quote? | One only: a 50% cut in emissions intensity by 2034 against a 2024 base, the
+target in CPN's latest (2025) climate summary. | Spkr 6
+Q10 How many members does The 1 have? | Central Retail's loyalty ecosystem: 23 million members in Thailand (press
+release, 14 Aug 2026). It does not name the programme; we read it as The 1. | Spkr 2
+Q11 Where does the 1Q27 date for The Central Phaholyothin come from? | CPN's 2Q26 MD&A (p. 7) lists "The Central" at
+1Q27, which we read as The Central Phaholyothin. Spend waits for a CPN filing (D1); other dates on B2. | Spkr 3
+Q12 Which net margin is right: 35.5% or 33.1%? | 35.5% is our calculation (18,841 / 53,009). CPN publishes 33.1% (IR page),
+about 35.6% (MD&A) and 36% (One Report). We never call 35.5% CPN's figure. | Spkr 5
+Q13 How is Gen Z defined, and what consent age? | Ages 18–29 (team definition). The survey reaches only people aged 20+
+(age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data
+cover active members 18–29 (18–19 provisional). DataReportal's 13–24 is a different band. | Spkr 4
+Sources line
+Sources: Central Pattana, 2026a, 2026g (p. 7), 2026p, 2026t, n.d.-g (pp. 1, 5); Central Pattana Investor Relations, n.d.-c, 2026;
+Central Retail Corporation, 2026; S&P Global, 2026; Personal Data Protection Act, B.E. 2562, 2019; DataReportal, 2025; team
+calculation and proposal (Chapter 5 model; Table 6.2)
+Other text on the comp
+(headings, axis titles, labels)
+B6
+Plan and numbers
+Sustainability, data and definitions
+Back to outline

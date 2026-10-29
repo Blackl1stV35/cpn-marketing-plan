@@ -97,7 +97,7 @@
               "10. Gen Z disengagement (thesis risk)",
               "Medium",
               "High",
-              "Gen Z visits per active member under +5% at G3; Q4 gain under 3.1 points",
+              "Gen Z visits per active member under +5% at G3; K1 gain under its threshold (3.1 points at a 25% base, 3.6 at 50%) at Q4",
               "Format zones (P1); creator briefs tied to CENTRAL X; move money to best format"
             ]
           ]
@@ -246,7 +246,7 @@
     },
     {
       "on_slide": "Risk 10: +5% at G3; 3.1 points",
-      "meaning": "Gen Z visits per active member below +5% at G3 (target +10%); K1 gain (the 20–29 share of visitors aged 20 and over) below the 3.1-point detection limit at the Q4 wave",
+      "meaning": "Gen Z visits per active member below +5% at G3 (target +10%); K1 gain from the baseline to the Q4 wave (the 20–29 share of visitors aged 20 and over) below the significance threshold (about 3.1 points at a 25% base share, 3.6 at 50%)",
       "where": "ch6.md Table 6.6 row 10",
       "cite": "team proposal"
     },

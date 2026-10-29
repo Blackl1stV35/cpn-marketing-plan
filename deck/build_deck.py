@@ -264,7 +264,7 @@ def make_outline(core, back, comps, path):
     items = [
         "Tap a slide row above, or use the bookmarks, to jump to its page. Each page has the comp, the speaker notes and the slide text to copy; page 2 is the build key (frame, colours, type and chart rules).",
         "Canvas 1920 x 1080; palette maroon #8C1D28 and gold #C9A227 as in the 7 Sep deck, with that deck's fonts (the comps use Segoe UI as a stand-in); sources line at the foot of every slide except S1.",
-        "Headlines are the full sentences shown. Keep caveats off the main slides; the only one (The Central Phaholyothin date) sits in the B2 footnote.",
+        "Headlines are the full sentences shown. Keep caveats off the main slides; they sit in the B2 footnote (The Central Phaholyothin date) and on the B6 cards.",
         "Build the charts on S8 and S9 as native, editable charts; their data, axes and colours are under 'Text on the slide' on each page.",
         "Footer navigation (Situation, Strategy, Tactics, Financials, Controls) on S2 to S12; the current section is highlighted on S3 to S11 only.",
         "Paste the speaker notes into each slide's notes: %s words written, about %s spoken with numbers read aloud, which is %d s at 130 words a minute against the 510 s budget. Backup pages carry short notes; B6 lists owners and first answers." % ("{:,}".format(tot_words), "{:,}".format(tot_spoken), round(tot_spoken / 130.0 * 60)),
