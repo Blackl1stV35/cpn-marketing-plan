@@ -1,0 +1,163 @@
+transaction: 5189793056746744487
+
+=== PAGE id=PBLZpPWcNYZ8MCqH type=fixed elements=4 ===
+- PBLZpPWcNYZ8MCqH-LB2qhbdN3zzS5Tlg rect t369 l108 w342 h342 :: [media MAHTeA28ltw]
+- PBLZpPWcNYZ8MCqH-LBt8sGPX56z0Lh5m group t308 l577 w1235 h542 :: 
+  - PBLZpPWcNYZ8MCqH-LBt8sGPX56z0Lh5m-LBqQ5MjXKbj6kbV0 text t308 l577 w1235 h310 :: Situation Analysis \nand Marketing Strategy \n | for Central Pattana PCL.
+  - PBLZpPWcNYZ8MCqH-LBt8sGPX56z0Lh5m-LBBmpk0bBCsPGxR4 text t698 l577 w1235 h76 :: Presented by  | Group 2
+  - PBLZpPWcNYZ8MCqH-LBt8sGPX56z0Lh5m-LBPNfHyG7XQPWsLm text t774 l577 w1235 h76 :: On Monday 7 | th |  September, 2026
+- PBLZpPWcNYZ8MCqH-LBCkMHG1ggqTvFN7 text t230 l577 w1235 h51 :: Update Progression:
+- PBLZpPWcNYZ8MCqH-LBMRJwWlndZBDbc1 line t281 l577 w131 h6 :: 
+
+=== PAGE id=PBMzS3yKw1slJGxS type=fixed elements=3 ===
+- PBMzS3yKw1slJGxS-LBDXDXdfGFTLl7HR rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBMzS3yKw1slJGxS-LBHcKRDYfD7cw774 text t228 l108 w1704 h76 :: Our works, we found that ...
+- PBMzS3yKw1slJGxS-LBCqsMwzp0Stq7np text t344 l108 w1704 h356 :: Central Pattana Group PCL has recently leveraging their capital reserves to  | capture Gen–Z share through sustainable positioning | .
+
+=== PAGE id=PBLrmCBBGBhghc0W type=fixed elements=3 ===
+- PBLrmCBBGBhghc0W-LBqpcBzr8fYRQTKM rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBLrmCBBGBhghc0W-LBzVhW8sLpjG29zY text t228 l108 w1704 h76 :: Evidences: 
+- PBLrmCBBGBhghc0W-LBxJ8ns3wXwpMD9Q text t344 l108 w1704 h534 :: 110–120 THB bn |   | multi-year investment program financed via sustainability–linked bond\n | Net Zero 2050 | , DJSI Best–in–Class, “ | Center of Life | ” pillar\n | Gen–Z named explicit priority |  segment 
+
+=== PAGE id=PBGTTgjyKvSN7RFc type=fixed elements=23 ===
+- PBGTTgjyKvSN7RFc-LBbMMPGFrzLP2VDF rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBGTTgjyKvSN7RFc-LBxwlZn5kvM9S74K line t278 l35 w1841 h2 :: 
+- PBGTTgjyKvSN7RFc-LBgCrP20XjP2jZ8s rect t304 l360 w349 h657 :: [media MAHTgHMb2Vk]
+- PBGTTgjyKvSN7RFc-LBrlG8KGgkLKgznC line t675 l838 w605 h2 :: 
+- PBGTTgjyKvSN7RFc-LBNvc8MJ41T5xG9c text t313 l1168 w709 h51 :: Target Segments
+- PBGTTgjyKvSN7RFc-LBkXvRZcCQQKQwNM line t363 l1168 w156 h7 :: 
+- PBGTTgjyKvSN7RFc-LBN27ckWhBp3xyTz text t52 l35 w1715 h76 :: Market Summary and CPN’s Targets
+- PBGTTgjyKvSN7RFc-LBfYmdQBly1Nqftd text t151 l35 w1841 h102 :: A |  20-province, 44-mall network positions CPN to prioritize Gen-Z as a named target segment.
+- PBGTTgjyKvSN7RFc-LBrFRZSsGjjhVCLx text t1020 l589 w298 h38 :: Situation Analysis
+- PBGTTgjyKvSN7RFc-LBGfgXLmqlTqNC1g text t1020 l1012 w311 h38 :: Marketing  Strategy
+- PBGTTgjyKvSN7RFc-LBYFlFSxkQj6FY8J text t313 l673 w412 h60 :: Dual–sided 
+- PBGTTgjyKvSN7RFc-LB1wSNYqC4RgvrGd text t373 l688 w398 h44 ::  B2C/B2B model
+- PBGTTgjyKvSN7RFc-LBjfWL286ylB1D84 text t457 l730 w412 h60 :: 44
+- PBGTTgjyKvSN7RFc-LBn6rByqXZ8pTDBf text t517 l730 w398 h44 :: shopping centers
+- PBGTTgjyKvSN7RFc-LBZt3nCmMJ7KtRYZ text t621 l681 w412 h60 :: 16
+- PBGTTgjyKvSN7RFc-LBL2PRmVqRLZb6B3 text t681 l681 w398 h44 :: community malls
+- PBGTTgjyKvSN7RFc-LBLSj32cmgxCpNtl text t765 l632 w412 h60 :: ~510M
+- PBGTTgjyKvSN7RFc-LB06r2wLQcDttwhn text t825 l632 w398 h88 :: visits/year\n*70M international 
+- PBGTTgjyKvSN7RFc-LBjfhYmdSfXPL3nW text t476 l35 w301 h129 :: 20
+- PBGTTgjyKvSN7RFc-LBCLHQ9wXNY8Hft2 text t431 l35 w301 h51 :: Covering
+- PBGTTgjyKvSN7RFc-LBlqpq23L7G5WTyP text t600 l35 w301 h102 :: Province Nationalwide
+- PBGTTgjyKvSN7RFc-LBq7frFqB5G9LjXX text t953 l35 w1107 h28 :: Reference: POSITIONING 2024
+- PBGTTgjyKvSN7RFc-LBSFyp4Mvx5NGC7Q text t403 l1168 w709 h396 :: [NAMED PRIORITY] Gen–Z/Young adults\n | Families\nWorking–age consumers\nLocal consumers\nMiddle–upper income\nTourists\nTenants/Partners\nMixed–use customers
+
+=== PAGE id=PBfJC96w59F4y0MC type=fixed elements=13 ===
+- PBfJC96w59F4y0MC-LBYVVNY0QX2jp1bD rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBfJC96w59F4y0MC-LBtHnkgDSF4nwT2w line t278 l35 w1841 h2 :: 
+- PBfJC96w59F4y0MC-LB7RFdwKdM9rkp3m text t52 l35 w1715 h76 :: Keys to Success and Critical Issues
+- PBfJC96w59F4y0MC-LBWDgGBKt1M81wkH text t151 l35 w1841 h102 :: W | inning ahead means data and ESG leadership, while managing e-commerce and debt risk.
+- PBfJC96w59F4y0MC-LBsQGH4Ht6g9ycc0 text t1020 l589 w298 h38 :: Situation Analysis
+- PBfJC96w59F4y0MC-LBfSmBtHjf1ryl8S text t1020 l1012 w311 h38 :: Marketing  Strategy
+- PBfJC96w59F4y0MC-LBM3p3Jc8wCHxhrf line t640 l648 w585 h2 :: 
+- PBfJC96w59F4y0MC-LBWZQmVhkHWHGyMs shape t349 l256 w669 h585 :: 
+- PBfJC96w59F4y0MC-LB8D8z0bdNL9xFz1 shape t349 l956 w669 h585 :: 
+- PBfJC96w59F4y0MC-LBxDZJTJ3Q6QvhR8 text t312 l256 w669 h37 :: Pursue
+- PBfJC96w59F4y0MC-LB86Q7kcsN8gxql8 text t312 l956 w669 h37 :: Avoid
+- PBfJC96w59F4y0MC-LB6401D76WSKmlW6 text t369 l286 w608 h233 :: Strengthen  | financial health\n | Prioritize |   | prime locations\n | Build  | tenant relationships\n | Leverage  | data–driven marketing\n | Formalize  | ESG leadership
+- PBfJC96w59F4y0MC-LBfnZ08g9rqX1qHj text t374 l986 w608 h331 :: Mitigate  | e–commerce erosion\n | Buffer |   | against household debt and weak consumer confidence\n | Diversify |   | beyond Bangkok saturation\n | Optimize  | mega–project captial intensity
+
+=== PAGE id=PBnwpWD1KPZXPmsh type=fixed elements=34 ===
+- PBnwpWD1KPZXPmsh-LB7K5JpnbynDvhBk rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBnwpWD1KPZXPmsh-LBDzjljVlyybf3VP line t278 l35 w1841 h2 :: 
+- PBnwpWD1KPZXPmsh-LBPZBzC8zXgsVrdv line t363 l-2 w82 h8 :: 
+- PBnwpWD1KPZXPmsh-LB4RPdhM7gcfNNT9 line t363 l941 w82 h8 :: 
+- PBnwpWD1KPZXPmsh-LBkz1Yz1gjfMyzXC line t669 l633 w605 h2 :: 
+- PBnwpWD1KPZXPmsh-LBDqrRzmflRGLWJH shape t377 l627 w147 h384 :: 
+- PBnwpWD1KPZXPmsh-LBMqYHGBpGdtq89g line t496 l26 w866 h4 :: 
+- PBnwpWD1KPZXPmsh-LBzr7xw3mH8w8Hbn line t668 l26 w835 h4 :: 
+- PBnwpWD1KPZXPmsh-LBlz2xfDgfHXtzkY shape t509 l620 w161 h354 :: 
+- PBnwpWD1KPZXPmsh-LBcPDJHRJV7bm23k shape t663 l635 w131 h296 :: 
+- PBnwpWD1KPZXPmsh-LBhTYHwzQZ0WDlkt line t849 l26 w674 h4 :: 
+- PBnwpWD1KPZXPmsh-LBdk8w2x1bG6Ztzz shape t429 l971 w906 h461 :: 
+- PBnwpWD1KPZXPmsh-LBzTJ9Rx5kMPRkcZ rect t526 l1037 w210 h231 :: [media MAHThBRZQQc]
+- PBnwpWD1KPZXPmsh-LBMY89WYjwPKJ8yp shape t757 l971 w347 h134 :: 
+- PBnwpWD1KPZXPmsh-LBNyCPgtkBzDxL3D line t757 l971 w347 h4 :: 
+- PBnwpWD1KPZXPmsh-LBFV1dyWHq11LwMQ rect t598 l1490 w360 h122 :: [media MAHThB2lAfw]
+- PBnwpWD1KPZXPmsh-LBcFzBNNmKHl9bQT rect t741 l1720 w130 h105 :: [media MAHThHH9SG0]
+- PBnwpWD1KPZXPmsh-LBHCsYNxc0Ds40pc rect t741 l1347 w360 h105 :: [media MAHThCrfPvg]
+- PBnwpWD1KPZXPmsh-LBVLNqdL19PkFZnZ rect t867 l1599 w252 h132 :: [media MAHThAyTpn8]
+- PBnwpWD1KPZXPmsh-LB3bF4TTH9TY224D text t52 l35 w1715 h76 :: Target Markets and Positioning
+- PBnwpWD1KPZXPmsh-LBsbsQDHWwbYJV4K text t151 l35 w1841 h51 :: G | en-Z is CPN’s fastest-growing segment, backed by DJSI and MSCI ESG recognition.
+- PBnwpWD1KPZXPmsh-LBG3wtpkTKByytXT text t1020 l598 w280 h38 :: Situation Analysis
+- PBnwpWD1KPZXPmsh-LBDRS1D9X3dctVfx text t1020 l1005 w326 h38 :: Marketing  Strategy
+- PBnwpWD1KPZXPmsh-LBmBy3x97nJv6Mlv text t326 l62 w843 h82 :: Priority\nFunnel
+- PBnwpWD1KPZXPmsh-LBypsWM7nRVgQRx5 text t326 l1006 w870 h82 :: Executive Vision\nand Validation
+- PBnwpWD1KPZXPmsh-LBxCP2FmM6FPfFR5 text t451 l35 w435 h44 :: Primary
+- PBnwpWD1KPZXPmsh-LB2RqshlzV5YcF8c text t518 l26 w444 h76 :: Urban middle–upper income adults/families
+- PBnwpWD1KPZXPmsh-LBmKkW9NhN716WQZ text t624 l35 w435 h44 :: Secondary
+- PBnwpWD1KPZXPmsh-LBJmSSpSR4HJjND2 text t690 l26 w444 h76 :: Gen–Z/young adults\n* | fastest growing
+- PBnwpWD1KPZXPmsh-LBJxcVcCTjS0j3tK text t805 l35 w435 h44 :: Tertiary
+- PBnwpWD1KPZXPmsh-LBQM4hxqBKVXGhMk text t872 l26 w444 h38 :: Tourists
+- PBnwpWD1KPZXPmsh-LBJlhNSNVpf9ywhr text t783 l982 w314 h28 :: Ms. Naparat Sriwanwit
+- PBnwpWD1KPZXPmsh-LBW5l9D70DvNvqgF text t820 l982 w314 h52 :: CFO and President, Hotel and Office
+- PBnwpWD1KPZXPmsh-LB32f6BBRKNp6cLQ text t473 l1219 w617 h78 :: “Reinforcing Central Pattana’s role as  | Thailand’s leading place maker | ”
+
+=== PAGE id=PBsSyx0lwf5vcVZ8 type=fixed elements=15 ===
+- PBsSyx0lwf5vcVZ8-LBNnlxWfZg9sKTky rect t49 l1794 w82 h82 :: [media MAHTeA28ltw]
+- PBsSyx0lwf5vcVZ8-LB4gKvz14ZkPnbLP text t76 l76 w1704 h50 :: List of references, 
+- PBsSyx0lwf5vcVZ8-LBwRpC2nlc2pBSXj text t191 l76 w852 h51 :: Corporate and Financial Reports
+- PBsSyx0lwf5vcVZ8-LBMp2qs1Vnl5SSK0 line t242 l76 w190 h4 :: 
+- PBsSyx0lwf5vcVZ8-LBtsGrMCx721DtnX text t268 l76 w852 h228 :: Central Pattana Offical Reports and Fillings | : 56–1 Filing, 2022–2026 Strategic Plan, CFO Commentary\n | Financial Press Coverage | : Cross-reference FY2025 financial metrics from Khaosod, Kaohoon, PropNewsTime, GlobeNewswire, Bloomberg
+- PBsSyx0lwf5vcVZ8-LBLR9ghzYM7CpNXc text t561 l76 w852 h93 :: Credit Rating and Market Intelligence Agencies
+- PBsSyx0lwf5vcVZ8-LB9r8kWSv9bG3psk line t655 l76 w190 h29 :: 
+- PBsSyx0lwf5vcVZ8-LBD84wfP02RygDPH text t685 l76 w852 h114 :: Fitch Ratings | : CPN’s market status and credit/debt profile\n | CBR Thailand | : Bangkok leasable retail stock 2025
+- PBsSyx0lwf5vcVZ8-LBN1dGv4XRVZmlqb text t191 l992 w852 h93 :: National Demographic and Macroeconomic Statistics
+- PBsSyx0lwf5vcVZ8-LBgp3tDjbszzdy5N line t286 l992 w190 h29 :: 
+- PBsSyx0lwf5vcVZ8-LBBhGLwZwfSPRs38 text t311 l992 w852 h304 :: National Satistical Office (NSO) of Thailand | : Statistical Yearbook 2025 and regional household income datasets\n | National Economic and Social Development Council (NESDC) | : Thai GDP growth rates 2025–2026\n | Tourism Authority of Thailand (TAT) | : Tourism statistics 2024–2026 
+- PBsSyx0lwf5vcVZ8-LBMttybJYv5vNZgb text t657 l992 w852 h93 :: E–commerce and Retail Industry Studies
+- PBsSyx0lwf5vcVZ8-LBXzzkcZ5XqNgDcT line t751 l992 w190 h4 :: 
+- PBsSyx0lwf5vcVZ8-LBdWWphkqcq5yPDN text t776 l992 w852 h76 :: E–commerce Market Reports | : Thai e–commerce growth and platform market share breakdowns
+- PBsSyx0lwf5vcVZ8-LB1Kxv1NCTn0NF1k line t593 l582 w755 h2 :: 
+
+=== PAGE id=PBBv5ZVGpnLbqvLd type=fixed elements=37 ===
+- PBBv5ZVGpnLbqvLd-LBYnQNP4NckTDxG5 line t147 l35 w1852 h2 :: 
+- PBBv5ZVGpnLbqvLd-LBvZ6v2bfw70S7kC group t204 l985 w902 h44 :: 
+  - PBBv5ZVGpnLbqvLd-LBvZ6v2bfw70S7kC-LB8SFcFGQVPYdfnc text t204 l996 w892 h44 :: GE-Mckinsey 9–box Matrix
+  - PBBv5ZVGpnLbqvLd-LBvZ6v2bfw70S7kC-LB84p5mSHrpcpF1G line t224 l965 w44 h4 :: 
+- PBBv5ZVGpnLbqvLd-LBXwHjv0TzJQMyqs group t204 l35 w902 h44 :: 
+  - PBBv5ZVGpnLbqvLd-LBXwHjv0TzJQMyqs-LBt1n74CNS7Lfhn8 text t204 l46 w892 h44 :: BCG Growth–Share Matrix
+  - PBBv5ZVGpnLbqvLd-LBXwHjv0TzJQMyqs-LB1ZRWkCyL4q3HpV line t224 l15 w44 h4 :: 
+- PBBv5ZVGpnLbqvLd-LBLn7Q4VVjQPrM8y line t548 l639 w645 h2 :: 
+- PBBv5ZVGpnLbqvLd-LBX3ggSFCCjzpcpf line t561 l779 w450 h35 :: 
+- PBBv5ZVGpnLbqvLd-LBd64VStbC0gcbZR text t834 l985 w48 h25 :: High
+- PBBv5ZVGpnLbqvLd-LBF136cY23pDVhhG line t841 l1045 w767 h35 :: 
+- PBBv5ZVGpnLbqvLd-LB1qPL03Bk4njJBq shape t354 l1045 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBKR7F7MW0DNQYPS shape t516 l1045 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBnnnLvqZrYVBkQK shape t678 l1045 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBNKsG2J5qQyvTCV shape t354 l1305 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBLPrQfPlVB64rxJ shape t516 l1305 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBnp4xVnXW0THcBp shape t678 l1305 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBNShFBG2bftZQ2N shape t354 l1564 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBfmjY4xx4VgMDdw shape t516 l1564 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LBD0pZpzHRc23V65 shape t678 l1564 w248 h152 :: 
+- PBBv5ZVGpnLbqvLd-LB6DkCQmKQ7nZt47 line t561 l-154 w450 h4 :: 
+- PBBv5ZVGpnLbqvLd-LBxxf2KYwMpB0JfF text t834 l35 w48 h25 :: High
+- PBBv5ZVGpnLbqvLd-LByZP0hqt4NzR05Q line t857 l94 w785 h4 :: 
+- PBBv5ZVGpnLbqvLd-LBb4fnCyyB6fNfXb shape t602 l495 w385 h238 :: 
+- PBBv5ZVGpnLbqvLd-LBZwhhsQJ27HwbNC shape t602 l100 w385 h238 :: 
+- PBBv5ZVGpnLbqvLd-LBT0HnFx0d2c8fkt rect t579 l655 w64 h64 :: [media MAHUfUbL5MA]
+- PBBv5ZVGpnLbqvLd-LB1KPvXkrlxyWPQh rect t579 l261 w64 h64 :: [media MAHUfR2fwUw]
+- PBBv5ZVGpnLbqvLd-LBfhsrhCj3x9Bsdm text t40 l35 w1852 h37 :: Appendix:
+- PBBv5ZVGpnLbqvLd-LBqFfq5WFWVzXvG0 text t89 l35 w1852 h44 :: Side–by–side Framework Comparison: BCG Growth–Share Matrix & GE–Mckinsey 9–box Matrix
+- PBBv5ZVGpnLbqvLd-LBSMWZJVHCdClJF9 text t320 l985 w48 h25 :: High
+- PBBv5ZVGpnLbqvLd-LB57KT4w9ZJ3HYTk text t846 l1847 w40 h25 :: Low
+- PBBv5ZVGpnLbqvLd-LBCvnQD70vMgHG6m text t1027 l35 w1852 h25 :: Source: CBRE Thailand (2026); Central Pattana (2026a); Central Retail Corporation (2025); PS Global Consulting (2026); Inside Retail Asia (2026a); Bangkok Post (2026a)
+- PBBv5ZVGpnLbqvLd-LBzc55TPslWQBYYW text t320 l35 w48 h25 :: High
+- PBBv5ZVGpnLbqvLd-LB3hnz03zdXpRKyK text t846 l897 w40 h25 :: Low
+- PBBv5ZVGpnLbqvLd-LBSL0W4tqB5WXmGp group t332 l495 w385 h260 :: 
+  - PBBv5ZVGpnLbqvLd-LBSL0W4tqB5WXmGp-LBP76F4VwmDfqDn5 shape t354 l495 w385 h238 :: 
+  - PBBv5ZVGpnLbqvLd-LBSL0W4tqB5WXmGp-LB36pTt92NMj0Tqh text t332 l673 w29 h64 :: ?
+  - PBBv5ZVGpnLbqvLd-LBSL0W4tqB5WXmGp-LBkTVL966l3VpG9l text t396 l521 w331 h162 :: Hotels:\n | Strongest growth, small embedded footprint\n | Residential:\n | 93% sell–through\nLow shares vs. specialists
+- PBBv5ZVGpnLbqvLd-LBYbV2TB7954zjpJ group t332 l100 w385 h260 :: 
+  - PBBv5ZVGpnLbqvLd-LBYbV2TB7954zjpJ-LBbYzKzCMBCFlCwx shape t354 l100 w385 h238 :: 
+  - PBBv5ZVGpnLbqvLd-LBYbV2TB7954zjpJ-LBmYfrXhwV3XpmSw rect t332 l261 w64 h64 :: [media MAHUfVm_uFE]
+  - PBBv5ZVGpnLbqvLd-LBYbV2TB7954zjpJ-LB6Yd530ByWT3X4l text t396 l127 w331 h28 :: Retail Malls
+  - PBBv5ZVGpnLbqvLd-LBYbV2TB7954zjpJ-LBm1xwr4BfmbPKXC text t437 l127 w331 h84 :: ~9% CAGR\nNo rival matches national breath
+- PBBv5ZVGpnLbqvLd-LBHjlv86LsmG0yNr text t654 l126 w331 h28 :: Offices
+- PBBv5ZVGpnLbqvLd-LBpRSmC3HfrrRP15 text t695 l126 w331 h56 :: Steady land–use–driven
+- PBBv5ZVGpnLbqvLd-LBbgc9jn7zRlRXsR text t953 l35 w1852 h35 :: Findings:  | Both frameworks independently converge to the same identical answer, ...  | prioritize mall-first capital allocation | .
+- PBBv5ZVGpnLbqvLd-LBDlDvVy71wnYDwK text t810 l35 w40 h25 :: Low
+- PBBv5ZVGpnLbqvLd-LB03f14mpZdGBhWY text t810 l985 w40 h25 :: Low

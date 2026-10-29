@@ -1,0 +1,169 @@
+{
+  "n": 5,
+  "id": "S5",
+  "kind": "core",
+  "layout": "table_side",
+  "title": "Product + pricing",
+  "section": "4.1–4.2 · Marketing tactics",
+  "status": "NEW",
+  "seconds": 55,
+  "presenter": "P3",
+  "headline": "Rental and services is 82.5% of FY2025 total revenue (team calculation), but the documents we reviewed give no CPN rents, so we propose rules, not rent levels.",
+  "body": {
+    "table": {
+      "title": "Four of the proposed tactics for FY2027",
+      "cols": [
+        "ID",
+        "Tactic",
+        "Objective",
+        "Timing"
+      ],
+      "rows": [
+        [
+          "P1",
+          "[Proposed] Gen Z format zone at CenTRal cENtrAL: sport, racket sport, fitness, creator pop-ups",
+          "M1, F1",
+          "Decision Q4 2026 (gate G0)"
+        ],
+        [
+          "P4",
+          "[Proposed] LEAD Year 9 favours Gen Z categories and sustainability; track pop-up-to-lease",
+          "M1, M4",
+          "Applications Q1; sandbox Q3"
+        ],
+        [
+          "R1",
+          "[Proposed] Renewal: yearly rent rises inside TRIS Rating's 2–3% band; non-rent concessions first",
+          "F1",
+          "Rolling; quarterly review"
+        ],
+        [
+          "R4",
+          "[Proposed] Gen Z event access earned via CENTRAL X receipts, as State Your Style; cap vouchers",
+          "M1, M3",
+          "From Q1"
+        ]
+      ],
+      "widths": [
+        0.08,
+        0.56,
+        0.16,
+        0.2
+      ]
+    },
+    "side": {
+      "title": "Pricing and rent figures",
+      "items": [
+        {
+          "value": "฿43,721m",
+          "label": "Rental and services revenue, 2025"
+        },
+        {
+          "value": "82.5%",
+          "label": "of 2025 total revenue (team calculation)"
+        },
+        {
+          "value": "฿3,769/m²",
+          "label": "Bangkok prime asking rent/mo, Q3 2026; not CPN's"
+        },
+        {
+          "value": "8.9%",
+          "label": "Voucher rate, 400 per 4,500 baht (team calculation)"
+        }
+      ]
+    }
+  },
+  "notes": "Four of our proposed tactics: a Gen Z format zone, LEAD Year 9 favouring Gen Z categories, a renewal rule keeping rent rises inside TRIS Rating's band, and Gen Z event access through CENTRAL X receipts. State Your Style gave a 400 baht voucher per 4,500 baht spent, 8.9 percent by our calculation; vouchers are capped. Rental and services was 43,721 million baht in 2025, 82.5 percent of total revenue by our calculation. In the documents we reviewed CPN publishes no rents, so we propose no rent levels. The 3,769 baht is a Bangkok prime asking rent per square metre a month, not CPN's.",
+  "sources": [
+    "Central Pattana Investor Relations, 2026, p. 15",
+    "Cushman & Wakefield, 2026, p. 1",
+    "Central Pattana, 2026a, 2026j; team calculation",
+    "TRIS Rating, 2026"
+  ],
+  "facts": [
+    {
+      "on_slide": "82.5%",
+      "meaning": "Rental and services revenue as a share of FY2025 total revenue; team calculation, not a CPN figure",
+      "where": "ch4.md section 4.2, paragraph 2",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "FY2025",
+      "meaning": "Fiscal year of the rental and services revenue and total revenue (THB 53,009 million)",
+      "where": "ch4.md section 4.2, paragraph 2",
+      "cite": "Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "฿43,721m / 43,721 million baht",
+      "meaning": "Rental and services revenue in 2025 (THB 43,721 million)",
+      "where": "ch4.md section 4.2, paragraph 2",
+      "cite": "Central Pattana Investor Relations, 2026, p. 15"
+    },
+    {
+      "on_slide": "no CPN rents / no rent levels",
+      "meaning": "In the One Report, 2Q26 MD&A and releases reviewed (a team text search) CPN publishes no rent per sq m, so the team proposes no rent levels",
+      "where": "ch4.md section 4.2, paragraph 2",
+      "cite": "team text search; Central Pattana Investor Relations, 2026"
+    },
+    {
+      "on_slide": "฿3,769/m²; Bangkok prime asking rent/mo, Q3 2026; not CPN's",
+      "meaning": "Prime retail average asking rent per sq m a month in Bangkok's Central Retail District, Q3 2026, stable on Q2; a market figure, not a CPN rent (the side label gives the monthly unit and says not CPN's; the quarter and 'stable on Q2' are not on the slide)",
+      "where": "ch4.md section 4.2, paragraph 2; cw_q3 report text, p. 1",
+      "cite": "Cushman & Wakefield, 2026, p. 1"
+    },
+    {
+      "on_slide": "8.9%; Voucher rate, 400 per 4,500 baht (team)",
+      "meaning": "Effective rate of State Your Style's capped voucher: ฿400 per ฿4,500 of cumulative spend is 8.9% (400 / 4,500); team calculation",
+      "where": "ch4.md section 4.2, paragraph 3; budget table line 7",
+      "cite": "Central Pattana, 2026j; team calculation"
+    },
+    {
+      "on_slide": "400 baht / 4,500 baht / 9,800 vouchers",
+      "meaning": "State Your Style offered a ฿400 e-voucher per ฿4,500 of cumulative spend, limited to 9,800 vouchers",
+      "where": "ch4.md section 4.2, paragraph 3",
+      "cite": "Central Pattana, 2026j"
+    },
+    {
+      "on_slide": "2–3% band",
+      "meaning": "Annual rental-rate growth band that TRIS Rating assumes (third-party assumption); basis of the proposed renewal rule R1, shown on the slide as yearly rent rises inside TRIS Rating's 2–3% band",
+      "where": "ch4.md section 4.2, table row R1",
+      "cite": "TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "Four of the proposed tactics for FY2027 (table title); Four of our proposed tactics (notes)",
+      "meaning": "The table shows four of the 13 proposed product and pricing tactics (P1 to P7 and R1 to R6), not the whole set",
+      "where": "ch4.md section 4.1 table (P1 to P7) and section 4.2 table (R1 to R6)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "P1: Gen Z format zone at CenTRal cENtrAL; Decision Q4 2026 (gate G0); M1, F1",
+      "meaning": "Proposed tactic P1, objectives M1 and F1; decision in Q4 2026 at gate G0 (15 Dec 2026)",
+      "where": "ch4.md section 4.1 table row P1; ch6.md Table 6.1 and Table 6.2 row G0",
+      "cite": "Central Pattana, 2026e, 2026f"
+    },
+    {
+      "on_slide": "P4: LEAD Year 9; Applications Q1; sandbox Q3; M1, M4",
+      "meaning": "Proposed tactic P4, objectives M1 and M4; applications Q1, sandbox Q3",
+      "where": "ch4.md section 4.1 table row P4",
+      "cite": "Central Pattana, 2025e"
+    },
+    {
+      "on_slide": "R1: Rolling; quarterly review; F1",
+      "meaning": "Proposed renewal rule, objective F1; non-rent concessions first",
+      "where": "ch4.md section 4.2 table row R1",
+      "cite": "TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "R4: From Q1; M1, M3",
+      "meaning": "Proposed Gen Z event access through CENTRAL X receipts, every voucher capped by quantity; objectives M1 and M3",
+      "where": "ch4.md section 4.2 table row R4",
+      "cite": "Central Pattana, 2026j"
+    },
+    {
+      "on_slide": "FY2027",
+      "meaning": "Plan year, 1 January to 31 December 2027",
+      "where": "ch4.md chapter introduction",
+      "cite": "team plan"
+    }
+  ]
+}

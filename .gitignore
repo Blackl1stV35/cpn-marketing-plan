@@ -1,0 +1,28 @@
+# Track sources and tooling only. Generated images, document dumps and QA folders stay out.
+/*
+!/.gitignore
+!/README.md
+!/deck/
+/deck/*
+!/deck/*.py
+!/deck/*.js
+!/deck/specs/
+!/deck/src/
+!/deck/package/
+!/ch456/
+/ch456/*
+!/ch456/*.md
+!/ch456/*.py
+!/ch456/*.txt
+!/ch456/publish/
+/ch456/publish/*
+!/ch456/publish/final_tab.md
+!/ch456/publish/refs.md
+!/reportfix/
+/reportfix/*
+!/reportfix/*.py
+!/reportfix/*.md
+!/reportfix/*.txt
+!/reportfix/req_*.json
+# downloaded third-party source documents
+/deck/src/cw_q3/in/

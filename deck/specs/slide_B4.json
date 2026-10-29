@@ -1,0 +1,80 @@
+{
+  "n": 16,
+  "id": "B4",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "Model assumptions",
+  "section": "Backup · Chapter 5 model",
+  "status": "NEW",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "In FY2027E the base case misses F1 (growth 6.6% against 7.0%; margin 34.6% against our 35.5% floor); only the optimistic case meets it.",
+  "body": {
+    "columns": [
+      [
+        {"type": "table", "title": "Table 5.2: main assumptions (team)", "cols": ["ID", "Assumption", "Conservative", "Base", "Optimistic"], "widths": [0.07, 0.34, 0.15, 0.30, 0.14], "rows": [
+          ["B1", "R&S growth, 2H26E y/y", "5.0%", "7.5%", "9.0%"],
+          ["B2", "R&S organic growth, FY2027E / FY2028E", "4.0% / 4.0%", "6.5% / 6.0%", "8.0% / 7.5%"],
+          ["C1", "M1 Gen Z visits (ages 18 to 29): share x frequency x yield", "as base", "25% x +10% x 50% = 1.25%", "as base"],
+          ["C2", "M2 international visits: share x uplift x yield", "as base", "13.7% x +4% x 100% = 0.55%", "as base"],
+          ["C4", "M4 The 1 BIZ stores: share x sales lift", "as base", "16.7% x +5% = 0.83%", "as base"],
+          ["C5", "Pass-through to CPN revenue", "as base", "50% (1.32% run-rate effect)", "as base"],
+          ["C6", "Delivery of the assumed programme gain", "0.5x", "1.0x", "1.5x"],
+          ["D2", "R&S cost ratio change, FY2027E / FY2028E (points)", "+1.0 / +0.5", "+0.5 / +0.0", "-0.3 / -0.2"],
+          ["D4", "SG&A growth, FY2027E / FY2028E", "6.0% / 6.0%", "5.0% / 5.0%", "4.0% / 4.0%"],
+          ["D5", "Net-new marketing, FY2027E and FY2028E", "as base", "฿560 million a year", "as base"],
+          ["D6", "Contribution margin for the break-even test", "42.6%", "60.0%", "86.3%"]
+        ]},
+        {"type": "text", "title": "How to read the assumptions", "text": "All are team assumptions. R&S is rental and services revenue. Two unsourced assumptions (rows C1 and C4) carry the case: M1 supplies 47% of the FY2028E uplift and M1 plus M4 supply 79%. Chapter 6 adopts the +10% and +5% as [Proposed] targets; they are set equal to the assumptions and are not evidence for them."}
+      ],
+      [
+        {"type": "table", "title": "Scenario results, Tables 5.8 and 5.11 (team)", "cols": ["Scenario", "Net profit FY27E (THB m)", "Revenue growth FY27E / FY28E", "Net margin FY27E / FY28E", "Meets F1?"], "widths": [0.17, 0.17, 0.24, 0.22, 0.20], "rows": [
+          ["Conservative", "18,473", "+3.3% / +3.9%", "32.8% / 32.0%", "No"],
+          ["Base", "20,430", "+6.6% / +6.9%", "34.6% / 34.8%", "No"],
+          ["Optimistic", "21,915", "+8.7% / +9.0%", "35.9% / 36.8%", "Yes, by definition"]
+        ]},
+        {"type": "table", "title": "Pass-through and sensitivities (team)", "cols": ["Test", "Result", "Reading"], "widths": [0.46, 0.22, 0.32], "rows": [
+          ["Pass-through assumed (row C5)", "50%", "Team assumption"],
+          ["FY2028E break-even pass-through, ฿240m tactics", "29%", "Team calculation"],
+          ["FY2028E break-even pass-through, all ฿560m", "67%", "Above the 50% assumed"],
+          ["Base uplift, FY2027E / FY2028E", "฿328m / ฿696m", "Base case"],
+          ["Base uplift if the 25% visit share were 14.7%", "฿264m / ฿560m", "Stand-in: ages 13–24 population share; FY2027E growth 0.1 point lower"],
+          ["Each ฿100m of marketing that earns no revenue", "-0.14 points", "Net margin"],
+          ["Each 10% fall in international visits", "฿342m", "Revenue lost, about"]
+        ]},
+        {"type": "text", "title": "Reading the margin result", "text": "Our 35.5% floor is the team's calculation, 18,841 / 53,009 = 35.54%, rounded. It holds ฿2,119 million of after-tax one-off Rama 2 gains (3.2 points); on KPI K8's core test the base path is 33.9% against a [Proposed] core floor of 32.3%. Without the plan the base margin would be 35.2% in FY2027E, so the organic path already sits below the floor. Base-case FY2027E profit is ฿558 million short of it (rounded floor)."}
+      ]
+    ]
+  },
+  "notes": "Backup slide, not presented. Table 5.2 lists the main team assumptions; the scenario table combines Tables 5.8 and 5.11. The base case misses both F1 tests in FY2027E and only the optimistic case, which is defined as target-met, passes.",
+  "sources": ["Central Pattana, 2026g", "Central Pattana, 2026p", "DataReportal, 2025", "team calculation"],
+  "facts": [
+    {"on_slide": "6.6% growth vs 7.0%; 34.6% margin vs our 35.5% floor (headline)", "meaning": "Base-case FY2027E total revenue growth is 6.6% against the 7.0% low end of high single digit; net margin 34.6% against our 35.5% floor (the team's calculation, not a CPN figure); F1 not met in the base case", "where": "ch5.md Table 5.8 row Base; Table 5.10 and 5.11 row Base", "cite": "team proposal"},
+    {"on_slide": "Only the optimistic case meets F1; Yes, by definition", "meaning": "Optimistic is defined as target-met, not a forecast", "where": "ch5.md 5.2 after Table 5.8; 5.3 after Table 5.11", "cite": "team proposal"},
+    {"on_slide": "B1 row: 5.0% / 7.5% / 9.0%", "meaning": "R&S growth 2H26E y/y by scenario", "where": "ch5.md Table 5.2 row B1", "cite": "team assumption"},
+    {"on_slide": "B2 row: 4.0% / 4.0%; 6.5% / 6.0%; 8.0% / 7.5%", "meaning": "R&S organic growth FY2027E / FY2028E by scenario", "where": "ch5.md Table 5.2 row B2", "cite": "team assumption"},
+    {"on_slide": "C1 row: 25% x +10% x 50% = 1.25%", "meaning": "M1 Gen Z and young-adult visits (ages 18 to 29): share, frequency and yield are team assumptions; same in all scenarios", "where": "ch5.md Table 5.2 row C1", "cite": "team assumption"},
+    {"on_slide": "C2 row: 13.7% x +4% x 100% = 0.55%", "meaning": "M2 international visits (70 of 510 million, both reported as 'over'); uplift and yield are team assumptions", "where": "ch5.md Table 5.2 row C2", "cite": "Central Pattana, 2026a; team assumption"},
+    {"on_slide": "C4 row: 16.7% x +5% = 0.83%", "meaning": "M4 The 1 BIZ partner stores, store-count proxy (over 3,000 of over 18,000 stores); lift is a team assumption", "where": "ch5.md Table 5.2 row C4", "cite": "Central Pattana, 2026a, 2026m; team assumption"},
+    {"on_slide": "C5 row: 50% pass-through; 1.32% run-rate effect", "meaning": "50% of a gain in visits or tenant sales reaches CPN's revenue", "where": "ch5.md Table 5.2 row C5", "cite": "team assumption"},
+    {"on_slide": "C6 row: 0.5x / 1.0x / 1.5x", "meaning": "Delivery of the assumed programme gain by scenario; ramp 50% in FY2027E and 100% in FY2028E", "where": "ch5.md Table 5.2 row C6", "cite": "team assumption"},
+    {"on_slide": "D2 row: +1.0 / +0.5; +0.5 / +0.0; -0.3 / -0.2", "meaning": "R&S cost ratio change in points, FY2027E / FY2028E", "where": "ch5.md Table 5.2 row D2", "cite": "team assumption"},
+    {"on_slide": "D4 row: 6.0% / 6.0%; 5.0% / 5.0%; 4.0% / 4.0%", "meaning": "SG&A growth FY2027E / FY2028E", "where": "ch5.md Table 5.2 row D4", "cite": "team assumption"},
+    {"on_slide": "D5 row: ฿560 million a year (Base column; 'as base' in the other two)", "meaning": "Net-new marketing in FY2027E and again in FY2028E, so a yearly amount, all assumed borne by CPN", "where": "ch5.md Table 5.2 row D5; Table 5.9", "cite": "team assumption"},
+    {"on_slide": "D6 row: 42.6% / 60.0% / 86.3%", "meaning": "Contribution-margin ratio for the break-even test (low / base / high)", "where": "ch5.md Table 5.2 row D6", "cite": "Central Pattana, 2026p; team calculation"},
+    {"on_slide": "47% and 79%; unsourced rows C1 and C4", "meaning": "M1 supplies 47% of the FY2028E uplift and M1 plus M4 79%, so two unsourced team assumptions carry the case", "where": "ch5.md 5.2 paragraph after Table 5.6", "cite": "team calculation"},
+    {"on_slide": "+10% and +5% adopted as [Proposed] targets, set equal to the assumptions", "meaning": "Chapter 6 adopts the +10% frequency (K2) and +5% lift (K5) as targets, not evidence", "where": "ch5.md Table 5.2 rows C1 and C4; ch6.md Table 6.3 K2, K5", "cite": "team proposal"},
+    {"on_slide": "Scenario table: net profit 18,473 / 20,430 / 21,915", "meaning": "FY2027E net profit to parent by scenario, THB million", "where": "ch5.md Table 5.11 column FY2027E", "cite": "team proposal"},
+    {"on_slide": "Revenue growth +3.3% / +3.9%; +6.6% / +6.9%; +8.7% / +9.0%", "meaning": "Total revenue growth FY2027E / FY2028E by scenario", "where": "ch5.md Table 5.8", "cite": "team proposal"},
+    {"on_slide": "Net margin 32.8% / 32.0%; 34.6% / 34.8%; 35.9% / 36.8%", "meaning": "Net margin FY2027E / FY2028E by scenario", "where": "ch5.md Table 5.11 and Table 5.10", "cite": "team proposal"},
+    {"on_slide": "฿558 million short of the floor (text block 'Reading the margin result')", "meaning": "Base FY2027E profit above the 35.5% floor is -558 THB million, using the rounded floor", "where": "ch5.md Table 5.11 last column and note", "cite": "team calculation"},
+    {"on_slide": "FY2028E break-even pass-through: 29% (฿240m tactics) and 67% (all ฿560m)", "meaning": "Break-even pass-through, computed on the FY2028E gain before pass-through, is 29% for the ฿240 million of programme tactics and 67% for all ฿560 million a year of net-new spend, against the 50% assumed", "where": "ch5.md 5.1 paragraph after Table 5.4 ('Break-even pass-through is the required revenue over the FY2028E gain before pass-through ... 29% ... 67%'); model_out.txt p_be_a = 29%, p_be = 67%", "cite": "team calculation"},
+    {"on_slide": "฿328m / ฿696m base uplift", "meaning": "Base-case programme uplift FY2027E and FY2028E", "where": "ch5.md Table 5.6 and 5.7", "cite": "team proposal"},
+    {"on_slide": "Base uplift if the 25% visit share were 14.7%: ฿264m / ฿560m; ages 13–24 population share; 0.1 point lower growth", "meaning": "If the assumed 25% visit share were 14.7%, the base-case uplift would be ฿264 million in FY2027E and ฿560 million in FY2028E, and FY2027E revenue growth 0.1 point lower; 14.7% is DataReportal's population share of ages 13 to 24, a different band used only as a stand-in comparator", "where": "ch5.md Table 5.2 row C1, Source column", "cite": "DataReportal, 2025; team calculation"},
+    {"on_slide": "-0.14 points per ฿100m", "meaning": "Each ฿100 million of marketing that earns no revenue lowers the margin by about 0.14 points", "where": "ch5.md 5.1 paragraph 3; 5.3 after Table 5.11", "cite": "team calculation"},
+    {"on_slide": "฿342m per 10% fall in international visits", "meaning": "Each 10% fall in international visits costs about ฿342 million of revenue", "where": "ch6.md Table 6.6 row 3, Mitigation", "cite": "team calculation, Table 5.2 rows C2 and C5"},
+    {"on_slide": "Our 35.5% floor = 18,841 / 53,009 = 35.54%, team calculation", "meaning": "Floor is the quotient rounded to 35.5%; the MD&A prints 35.6%; the shortfalls use the rounded floor", "where": "ch5.md Table 5.2 row V2; 5.3 paragraph after Table 5.10", "cite": "team calculation"},
+    {"on_slide": "It holds ฿2,119 million of after-tax one-off Rama 2 gains (3.2 points); on KPI K8's core test the base path is 33.9% against a [Proposed] core floor of 32.3%", "meaning": "FY2025's reported margin, which sets the floor, held ฿2,119 million of after-tax one-off Rama 2 gains (3.2 points of margin; core margin 32.3%). KPI K8 reads the floor on a core basis too: core floor 32.3% [Proposed], base path 33.9% core in FY2027E", "where": "ch5.md chapter introduction (฿1,234 million and ฿1,415 million before tax, ฿2,119 million after tax) and Section 5.3 paragraph after Table 5.10 ('FY2025's 35.5% held ฿2,119 million of one-off profit (core margin 32.3%)'; 'FY2025's one-offs (3.2 points)'); ch6.md Table 6.3 row K8; model_out.txt oneoff_pts = 3.2", "cite": "Central Pattana, 2026p; team calculation; team proposal"},
+    {"on_slide": "35.2% without the plan in FY2027E", "meaning": "Base-case net margin without the plan; the organic path already sits below the floor", "where": "ch5.md Table 5.10 row Net margin without the plan; 5.3 paragraph after Table 5.10", "cite": "team proposal"}
+  ]
+}

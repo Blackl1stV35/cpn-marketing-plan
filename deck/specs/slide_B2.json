@@ -1,0 +1,295 @@
+{
+  "n": 14,
+  "id": "B2",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "Situation backup",
+  "section": "Backup · Sections 2.2–2.3",
+  "status": "RECAP",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "The backup shows the SWOT detail, five named rivals plus Mega Bangna, and the team's BCG and nine-box views; malls rank first and offices sit at Low x Low.",
+  "body": {
+    "columns": [
+      [
+        {
+          "type": "cards",
+          "title": "SWOT detail (Section 2.2)",
+          "items": [
+            {
+              "head": "Strengths",
+              "text": "Center of Life brand; 44 centres (FY2025; 45 by Q2 2026), 16 community malls, 23 provinces; about 510 million visits a year; The 1 data; events.",
+              "tag": "S"
+            },
+            {
+              "head": "Weaknesses (team observations, not cited)",
+              "text": "Reliance on physical retail; cost of a premium experience; uneven needs by location; scale versus agility; high expectations.",
+              "tag": "W"
+            },
+            {
+              "head": "Opportunities",
+              "text": "Tourism beyond China; experience economy; The 1 personalisation; Net Zero by 2050 and the sustainability-linked bond; mixed use; Thai SMEs; creators.",
+              "tag": "O"
+            },
+            {
+              "head": "Threats",
+              "text": "E-commerce, social commerce; Siam Piwat, The Mall Group; household debt 85.9% of GDP (Q1 2026); China arrivals -33.55% in 2025, +16.05% Jan–Aug 2026.",
+              "tag": "T"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Five rivals, plus Mega Bangna (CPN-linked)",
+          "cols": [
+            "Competitor",
+            "Positioning",
+            "Note"
+          ],
+          "widths": [
+            0.24,
+            0.4,
+            0.36
+          ],
+          "rows": [
+            [
+              "Siam Piwat",
+              "Ultra-premium and luxury; tourist and Gen Z focus",
+              "About 70% of luxury spend, single-source estimate"
+            ],
+            [
+              "The Mall Group",
+              "Upper-middle to premium; entertainment-anchored",
+              "Private; building The Bangkok Mall"
+            ],
+            [
+              "Seacon Development",
+              "Family and mass market; upgrading to a more affluent catchment",
+              "Single-metro focus, eastern Bangkok"
+            ],
+            [
+              "Terminal 21 (L&H Property)",
+              "Experiential, tourist and youth focus",
+              "Small and private; competes on novelty"
+            ],
+            [
+              "Index Living Mall",
+              "Furniture and home category killer",
+              "About 35 branches; often a tenant in CPN malls"
+            ],
+            [
+              "Mega Bangna",
+              "Ikano Centres with Siam Future Development",
+              "Siam Future Development is a CPN subsidiary"
+            ]
+          ]
+        }
+      ],
+      [
+        {
+          "type": "table",
+          "title": "BCG and nine-box (team assessment)",
+          "cols": [
+            "Segment",
+            "BCG quadrant",
+            "Nine-box: attractiveness x strength",
+            "Action"
+          ],
+          "widths": [
+            0.2,
+            0.22,
+            0.34,
+            0.24
+          ],
+          "rows": [
+            [
+              "Retail malls",
+              "Star",
+              "High x High",
+              "Invest / Grow"
+            ],
+            [
+              "Hotels",
+              "Question Mark",
+              "High x Low",
+              "Selectivity"
+            ],
+            [
+              "Residential",
+              "Question Mark",
+              "Medium x Medium",
+              "Selectivity"
+            ],
+            [
+              "Offices",
+              "Cash Cow (modest)",
+              "Low x Low (bottom-right)",
+              "Harvest / Divest"
+            ]
+          ]
+        },
+        {
+          "type": "bullets",
+          "title": "Reading the two views",
+          "items": [
+            "Both are portfolio tools (which business line to fund), so they sit in backup, not in the core deck.",
+            "Both are team assessments, not CPN statements.",
+            "Malls are the only Star and the only High x High cell; hotels and residential sit in the Selectivity band.",
+            "Offices sit at Low x Low (bottom-right): a stable earnings line and the lowest capital priority of the four."
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Prime retail market, Q3 2026",
+          "text": "Central Retail District, prime: average asking rent ฿3,769 per sq m a month, stable on Q2; vacancy 3.63%, down from 3.98% in Q2; rental growth 1.40% y/y. These are market figures, not CPN rents."
+        },
+        {
+          "type": "text",
+          "title": "Footnote: The Central Phaholyothin date",
+          "text": "CPN's October 2025 release targeted Q4 2026 and the One Report (p. 30) lists December 2026. The 2Q26 MD&A (p. 7) lists \"The Central\" at 1Q27 with about 100,000 sq m, which the team reads as The Central Phaholyothin. Cushman & Wakefield's Q3 2026 report (p. 2) still lists \"The Central\" (152,000 sq m) for Q4 2026. The team uses 1Q27, its reading of the MD&A line."
+        }
+      ]
+    ]
+  },
+  "notes": "Backup slide, not presented. SWOT and rivals are from the Section 2 text as corrected on 29 Oct 2026; the Threats figures match Table 6.6 in Chapter 6: China arrivals fell 33.55% in 2025 and rose 16.05% in January to August 2026 (year-on-year changes, not a fall from the pre-pandemic peak, for which the report has no figure), and household debt was 85.9% of GDP at Q1 2026. BCG and nine-box views are team assessments from the Week 6 appendix; Offices sit at Low x Low (bottom-right). The footnote lists the dates CPN and Cushman & Wakefield give for The Central Phaholyothin.",
+  "sources": [
+    "Central Pattana, 2026g, pp. 2, 7; Central Pattana Investor Relations, 2026, p. 30",
+    "Cushman & Wakefield, 2026, pp. 1–2",
+    "Inside Retail Asia, 2026",
+    "Government Public Relations Department, 2026; Nation Thailand, 2026g, 2026l"
+  ],
+  "facts": [
+    {
+      "on_slide": "44 centres (FY2025; 45 by Q2 2026), 16 community malls, 23 provinces; about 510 million visits a year",
+      "meaning": "Footprint: 44 centres and 16 community malls at FY2025 year-end, 45 and 16 by Q2 2026 (MD&A 2Q26, p. 2); 23 provinces per CPN corporate presentation 4Q2025; visits reported by CPN",
+      "where": "sec23_final.txt 2.2.1 items 2-3; corrections.md Facts, Footprint",
+      "cite": "Central Pattana, 2026a; Central Pattana, 2026c; Central Pattana, 2026g, p. 2"
+    },
+    {
+      "on_slide": "Center of Life brand; The 1 data; events",
+      "meaning": "Strengths 1, 4 and 5 of Section 2.2.1 (tourist marketing, strength 7, is shown on the core SWOT slide)",
+      "where": "sec23_final.txt 2.2.1",
+      "cite": "Central Pattana, 2024a; Central Retail Corporation, 2025; Central Pattana, 2025b"
+    },
+    {
+      "on_slide": "Weaknesses: five points, team observations, not cited",
+      "meaning": "Section 2.2.2 says the weaknesses are the team's analytical observations and are not independently cited",
+      "where": "sec23_final.txt 2.2.2",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "Opportunities list (tourism beyond China, experience economy, personalisation, Net Zero by 2050, sustainability-linked bond, mixed use, Thai SMEs, creators)",
+      "meaning": "Seven opportunities of Section 2.2.3",
+      "where": "sec23_final.txt 2.2.3",
+      "cite": "Thai Examiner, 2026b; Inside Retail Asia, 2025; Accenture, 2021; Central Pattana, 2024b; Central Group, 2026"
+    },
+    {
+      "on_slide": "household debt 85.9% of GDP (Q1 2026)",
+      "meaning": "Thai household debt as a share of GDP at Q1 2026, the latest figure the team confirmed; a six-year low that SCB EIC attributes to restricted credit access, not to stronger household finances. Section 2 of the report gives the same 85.9%, with 86.7% at Q4 2025 in brackets. Economic slowdown threat",
+      "where": "ch6.md Table 6.6 risk 2; sec23_final.txt 2.2.4 items 3 and 4 (85.9% at Q1 2026; 86.7% at Q4 2025)",
+      "cite": "Nation Thailand, 2026l"
+    },
+    {
+      "on_slide": "China arrivals -33.55% in 2025, +16.05% Jan–Aug 2026",
+      "meaning": "China arrivals to Thailand fell 33.55% in 2025 (a year-on-year fall) and rose 16.05% in January–August 2026. Neither is a fall from the pre-pandemic peak, and the report gives no peak figure. Section 2 of the report now gives the same two figures (its earlier 'about 30% below peak' wording was replaced on 29 Oct 2026)",
+      "where": "ch6.md Table 6.6 risk 3 and Table 6.8 scenario W1; ch4.md Section 4.4",
+      "cite": "Government Public Relations Department, 2026; Nation Thailand, 2026g"
+    },
+    {
+      "on_slide": "Siam Piwat about 70% of luxury spend, single-source estimate",
+      "meaning": "Estimated around 70% of Thailand's luxury retail spend, a single-source estimate not independently corroborated",
+      "where": "sec23_final.txt 2.3 item 1",
+      "cite": "Inside Retail Asia, 2026"
+    },
+    {
+      "on_slide": "The Mall Group, Seacon Development, Terminal 21, Index Living Mall descriptions; about 35 branches",
+      "meaning": "Competitor descriptions as written in Section 2.3; Index Living Mall has around 35 branches",
+      "where": "sec23_final.txt 2.3 items 2-5",
+      "cite": "none in the report (team description)"
+    },
+    {
+      "on_slide": "Mega Bangna: Ikano Centres with Siam Future Development, a CPN subsidiary",
+      "meaning": "Section 2.3 presents Mega Bangna as a name tied to CPN, not an independent rival: jointly owned by IKEA's Ikano Centres and Siam Future Development, a CPN subsidiary",
+      "where": "sec23_final.txt 2.3 nuance paragraph",
+      "cite": "The Story Thailand, 2025; Wikipedia, 2026"
+    },
+    {
+      "on_slide": "BCG quadrants: malls Star; hotels and residential Question Mark; offices Cash Cow (modest)",
+      "meaning": "BCG growth-share read of CPN's four business lines",
+      "where": "appendix_week6.txt section 1, table and Bottom line",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "Nine-box: malls High x High; hotels High x Low; residential Medium x Medium; offices Low x Low (bottom-right)",
+      "meaning": "GE-McKinsey nine-box cells by attractiveness x strength; Offices cell at Low x Low per corrections",
+      "where": "appendix_week6.txt section 2 table; corrections.md Facts, CFO surname line",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "Invest / Grow; Selectivity; Harvest / Divest",
+      "meaning": "Recommended action by nine-box cell",
+      "where": "appendix_week6.txt section 2 table",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "BCG and nine-box sit in backup, not the core deck",
+      "meaning": "Portfolio frameworks (which business line to fund), not customer-positioning tools",
+      "where": "appendix_week6.txt opening note",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "฿3,769 per sq m a month, stable on Q2",
+      "meaning": "Prime Central Retail District average asking rent, Q3 2026",
+      "where": "cw_q3 bangkok_retail_q3_2026.txt page 1; corrections.md Facts, Cushman & Wakefield; ch4.md 4.2",
+      "cite": "Cushman & Wakefield, 2026, p. 1"
+    },
+    {
+      "on_slide": "vacancy 3.63%, down from 3.98% in Q2",
+      "meaning": "Overall prime CRD retail vacancy rate",
+      "where": "cw_q3 bangkok_retail_q3_2026.txt page 1; corrections.md Facts",
+      "cite": "Cushman & Wakefield, 2026, p. 1"
+    },
+    {
+      "on_slide": "rental growth 1.40% y/y",
+      "meaning": "Rental growth shown on the Cushman & Wakefield fundamentals panel",
+      "where": "cw_q3 bangkok_retail_q3_2026.txt page 1; corrections.md Facts",
+      "cite": "Cushman & Wakefield, 2026, p. 1"
+    },
+    {
+      "on_slide": "market figures, not CPN rents",
+      "meaning": "Report states the rent is a market figure, not a CPN rent",
+      "where": "ch4.md 4.2 paragraph 2",
+      "cite": "Cushman & Wakefield, 2026, p. 1"
+    },
+    {
+      "on_slide": "October 2025 release targeted Q4 2026",
+      "meaning": "CPN's October 2025 release targeted completion of The Central Phaholyothin in Q4 2026",
+      "where": "ch4.md 4.3 paragraph 1; ch6.md 6.1 paragraph 1; corrections.md Facts",
+      "cite": "Central Pattana, 2026b"
+    },
+    {
+      "on_slide": "One Report (p. 30) lists December 2026",
+      "meaning": "One Report lists December 2026",
+      "where": "ch4.md 4.3 paragraph 1; ch6.md 6.1; Table 6.3 K14",
+      "cite": "Central Pattana Investor Relations, 2026, p. 30"
+    },
+    {
+      "on_slide": "2Q26 MD&A (p. 7) lists \"The Central\" at 1Q27, about 100,000 sq m",
+      "meaning": "MD&A project named \"The Central\" with about 100,000 sq m of net leasable area, which the team reads as The Central Phaholyothin (team reading)",
+      "where": "ch4.md 4.3 paragraph 1; ch6.md 6.1 paragraph 1; corrections.md Facts, The Central Phaholyothin",
+      "cite": "Central Pattana, 2026g, p. 7"
+    },
+    {
+      "on_slide": "Cushman & Wakefield lists \"The Central\" (152,000 sq m) for Q4 2026",
+      "meaning": "Suburban shopping mall, Central Group, 152,000 sq m, completion Q4 2026, in the retail projects under construction table",
+      "where": "cw_q3 bangkok_retail_q3_2026.txt page 2; ch4.md 4.3; corrections.md Facts",
+      "cite": "Cushman & Wakefield, 2026, p. 2"
+    },
+    {
+      "on_slide": "The team uses 1Q27; CPN has not confirmed it",
+      "meaning": "Team decision of 29 Oct 2026 to state 1Q27 without CPN's confirmation of the date; caveat sits only in this backup footnote",
+      "where": "corrections.md Facts, The Central Phaholyothin",
+      "cite": "team decision"
+    }
+  ]
+}

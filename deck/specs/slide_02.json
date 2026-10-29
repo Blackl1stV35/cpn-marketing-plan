@@ -1,0 +1,151 @@
+{
+  "n": 2,
+  "id": "S2",
+  "kind": "core",
+  "layout": "kpi5",
+  "title": "The plan in five numbers",
+  "section": "Executive summary",
+  "status": "NEW",
+  "seconds": 45,
+  "presenter": "P1",
+  "headline": "We propose a ฿2,760 million gross ceiling for FY2027; the base case misses our financial objective (F1), and net-new money is released after each gate.",
+  "body": {
+    "tiles": [
+      {
+        "value": "฿2,760m",
+        "label": "FY2027 gross ceiling",
+        "note": "[Proposed]; 5.2% of FY2025 revenue (฿53,009m)"
+      },
+      {
+        "value": "฿560m",
+        "label": "Net-new spend, each year",
+        "note": "Other ฿2,200m assumed already in FY2026E costs"
+      },
+      {
+        "value": "฿328m",
+        "label": "Extra revenue, FY2027E base",
+        "note": "Team assumption; ฿696m FY2028E vs ฿933m needed"
+      },
+      {
+        "value": "6.6%",
+        "label": "FY2027E growth; goal is 7.0%",
+        "note": "Margin 34.6% vs our 35.5% floor: also missed"
+      },
+      {
+        "value": "5 gates",
+        "label": "Money released if tests pass",
+        "note": "G0 15 Dec 2026 to G4 31 Jan 2028"
+      }
+    ],
+    "ask": "Most new effort goes to Gen Z and young adults (18–29). The base case misses F1; only the optimistic target meets it."
+  },
+  "notes": "One: a proposed gross ceiling of 2,760 million baht. Two: net-new spend, 560 million a year. Three: our base case adds 328 million, then 696 million; repaying 560 million a year needs 933 million. Four: growth of 6.6 percent against 7.0 and margin of 34.6 against our 35.5 floor miss our objective, F1. Only the optimistic case, a target by definition, meets it. Five: money is released after each gate. Our second speaker covers the situation.",
+  "sources": [
+    "Central Pattana, 2026a",
+    "team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "฿2,760 million / ฿2,760m / 2,760 million baht (gross ceiling)",
+      "meaning": "[Proposed] FY2027 marketing spending ceiling, gross, lines 1 to 11. 'Gross ceiling' is the name used in Table 5.9; it is the whole ceiling, not the net-new cost",
+      "where": "ch4.md, Section 4.5 budget table, 'Total, lines 1 to 11'; ch5.md Table 5.9, gross ceiling row, FY2027E",
+      "cite": "team proposal; Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "5.2% of FY2025 revenue",
+      "meaning": "Ceiling over FY2025 total revenue",
+      "where": "ch4.md, Section 4.5 budget table, total row and paragraph above it; model_out.txt gross_pct25 = 5.2%",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "฿53,009m",
+      "meaning": "FY2025 total revenue",
+      "where": "ch5.md Table 5.1, 'Total revenue' FY2025A; sec23_final.txt Section 2.5",
+      "cite": "Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "฿560m (tile 2, label 'Net-new spend, each year'); 560 million a year (notes)",
+      "meaning": "Net-new spend charged to SG&A in FY2027E and again in FY2028E, so a yearly amount (team assumption that CPN bears all of it)",
+      "where": "ch5.md Table 5.2 row D5 ('฿560 million in FY2027E and again in FY2028E'); Table 5.9, 'Net-new spend' FY2027E; Table 5.4 caption 'Cost base (a year)'; ch6.md Section 6.1 release rules",
+      "cite": "team assumption; team calculation"
+    },
+    {
+      "on_slide": "฿2,200m / 2,200 million baht",
+      "meaning": "Part of the ceiling assumed already in the FY2026E cost base (flagships at latest disclosed editions, The 1 BIZ flat)",
+      "where": "ch5.md Section 5.1 and Table 5.9, 'Less: already in the FY2026E cost base'",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "฿328m / 328 million baht",
+      "meaning": "Base-case programme uplift (extra rental and services revenue from M1 to M4) in FY2027E; a team assumption resting on unsourced rows C1 and C4",
+      "where": "ch5.md Section 5.2 (text below Table 5.7), Table 5.6 and Table 5.7; model_out.txt upb27 = 328",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "฿696m / 696 million",
+      "meaning": "Base-case programme uplift in FY2028E",
+      "where": "ch5.md Section 5.2, Table 5.6 and Table 5.7; model_out.txt upb28 = 696",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "฿933m needed (tile 3 note); 'does not repay 560 million a year, which needs 933 million' (notes)",
+      "meaning": "At the base 60.0% contribution ratio the ฿560m of net-new spend, spent in each year, must earn ฿933m of extra revenue a year to cover its cost; the FY2028E base uplift of ฿696m is below it, and cumulative profit to FY2028E is -฿505m (payback not reached)",
+      "where": "ch5.md Section 5.1, Table 5.2 row D5, Table 5.3 (last row) and Table 5.4 (last row); model_out.txt req_b_base = 933",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "6.6%",
+      "meaning": "Base-case total revenue growth in FY2027E",
+      "where": "ch5.md Table 5.6, Table 5.7 and Table 5.8",
+      "cite": "team forecast"
+    },
+    {
+      "on_slide": "7.0% (goal is 7.0%; against 7.0)",
+      "meaning": "Lower end of the team's definition of high single digit (7.0% to 9.0%) in objective F1",
+      "where": "ch5.md Table 5.2 row V2; Table 5.8",
+      "cite": "team definition"
+    },
+    {
+      "on_slide": "34.6%",
+      "meaning": "Base-case net margin in FY2027E",
+      "where": "ch5.md Table 5.10 and Table 5.11",
+      "cite": "team forecast"
+    },
+    {
+      "on_slide": "our 35.5% floor",
+      "meaning": "Margin floor, FY2025 net profit over revenue, 18,841 / 53,009 = 35.54% rounded; a team calculation, not a CPN figure ('our' marks it as the team's)",
+      "where": "ch5.md Table 5.2 row V2; Section 5.3; corrections.md",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "our financial objective (F1) (headline: F1 is defined here, where it first appears); 'Base case misses F1; only the optimistic case, a target by definition, meets it' (banner); 'a target by definition' (notes)",
+      "meaning": "F1 is the team's [Proposed] financial objective: high-single-digit revenue growth (7.0% to 9.0%) and a net margin floor of 35.5% (both tests shown in tile 4; S4 states them in full). Verdict: the base case misses both tests; only the optimistic case passes, and it is defined as target-met (a target, not a forecast)",
+      "where": "ch5.md Table 5.2 row V2, Table 5.8, Table 5.11 and text below Table 5.11; sec23_final.txt 3.3",
+      "cite": "team proposal; team forecast"
+    },
+    {
+      "on_slide": "Led by Gen Z and young adults (18–29)",
+      "meaning": "Gen Z and young adults (Secondary segment) receive the largest share of incremental tactics; the 18-29 band is the plan's definition of the segment (a team definition); the survey measures its 20-29 part and The 1 member data (active members) the 18-29 band",
+      "where": "ch4.md opening paragraph (second paragraph) and Section 4.5 'Age bands, defined once for the plan'; corrections.md",
+      "cite": "team proposal; team definition"
+    },
+    {
+      "on_slide": "5 gates; G0 15 Dec 2026 to G4 31 Jan 2028",
+      "meaning": "[Proposed] stage gates G0 to G4 at which money is released",
+      "where": "ch6.md Table 6.1 (Gate column) and Table 6.2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Money released if tests pass; each only on a passed test",
+      "meaning": "[Proposed] release rule: 'Released if passed' / 'Held or cut if failed'",
+      "where": "ch6.md Table 6.2, columns 'Released if passed' and 'Held or cut if failed'",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "2027, FY2027, FY2027E, FY2026E, FY2028E, FY2025",
+      "meaning": "FY2027 is the plan year (1 Jan to 31 Dec 2027); FY2026E base year; FY2028E carry-over; E = estimate",
+      "where": "ch5.md opening paragraph; ch6.md opening paragraph",
+      "cite": "report"
+    }
+  ]
+}

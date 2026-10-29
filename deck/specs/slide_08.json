@@ -1,0 +1,266 @@
+{
+  "n": 8,
+  "id": "S8",
+  "kind": "core",
+  "layout": "chart",
+  "title": "Break-even + sales forecast",
+  "section": "5.1–5.2 · Break-even and sales",
+  "status": "NEW",
+  "seconds": 55,
+  "presenter": "P4",
+  "headline": "Base-case growth is 6.6% in FY2027E against the 7.0% goal, and the extra revenue does not repay the ฿560 million a year of net-new spend by FY2028E.",
+  "body": {
+    "charts": [
+      {
+        "type": "bars",
+        "title": "Extra revenue: needed vs base (60.0% kept)",
+        "unit": "THB million a year",
+        "categories": [
+          "FY2027E",
+          "FY2028E"
+        ],
+        "series": [
+          {
+            "name": "Base-case extra revenue (M1 to M4)",
+            "values": [
+              328,
+              696
+            ],
+            "color": "maroon",
+            "kind": "bar"
+          },
+          {
+            "name": "Needed to repay ฿240m of tactics: ฿400m",
+            "values": [
+              400,
+              400
+            ],
+            "color": "gold",
+            "kind": "line"
+          },
+          {
+            "name": "Needed to repay all ฿560m: ฿933m",
+            "values": [
+              933,
+              933
+            ],
+            "color": "slate",
+            "kind": "line"
+          }
+        ],
+        "annotations": [
+          {
+            "text": "฿328m: under both break-even lines",
+            "category": 0,
+            "series": 0
+          },
+          {
+            "text": "฿696m: over ฿400m, under ฿933m",
+            "category": 1,
+            "series": 0
+          }
+        ]
+      },
+      {
+        "type": "bars",
+        "title": "Total revenue growth by scenario vs 7.0% goal",
+        "unit": "% a year",
+        "categories": [
+          "FY2027E",
+          "FY2028E"
+        ],
+        "series": [
+          {
+            "name": "Conservative",
+            "values": [
+              3.3,
+              3.9
+            ],
+            "color": "gray",
+            "kind": "bar"
+          },
+          {
+            "name": "Base",
+            "values": [
+              6.6,
+              6.9
+            ],
+            "color": "maroon",
+            "kind": "bar"
+          },
+          {
+            "name": "Optimistic (target-met)",
+            "values": [
+              8.7,
+              9.0
+            ],
+            "color": "teal",
+            "kind": "bar"
+          },
+          {
+            "name": "7.0% goal",
+            "values": [
+              7.0,
+              7.0
+            ],
+            "color": "gold",
+            "kind": "line"
+          }
+        ],
+        "annotations": [
+          {
+            "text": "Base 6.6%: 0.4 points short",
+            "category": 0,
+            "series": 1
+          },
+          {
+            "text": "Base 6.9%: 0.1 point short",
+            "category": 1,
+            "series": 1
+          }
+        ]
+      }
+    ],
+    "callouts": [
+      {
+        "value": "29%",
+        "label": "FY2028E pass-through needed, ฿240m tactics",
+        "tone": "good"
+      },
+      {
+        "value": "67%",
+        "label": "FY2028E pass-through needed, all ฿560m",
+        "tone": "warn"
+      },
+      {
+        "value": "Not met",
+        "label": "Base case: F1 revenue test, 7.0% both years",
+        "tone": "warn"
+      }
+    ],
+    "note": "Tactics: the ฿240m that earns modelled revenue, repaid in 1.2 years; the other ฿320m earns none. Pass-through assumed 50%."
+  },
+  "notes": "We add 560 million baht a year of net-new marketing. Only 60 percent of extra revenue is kept, so we need 933 million more a year. The tactics are the 240 million that earns modelled revenue; they need 400 million and repay in 1.2 years. The full 560 million a year does not. In 2028 it needs 67 percent of any gain to reach CPN's revenue; we assumed 50. The tactics need only 29 percent. Base-case growth is 6.6 percent in 2027 and 6.9 in 2028, short of 7. Only the optimistic case passes, by definition. Our fifth speaker covers expenses and profit.",
+  "sources": [
+    "team calculation",
+    "team proposal (Chapter 5 model)",
+    "Central Pattana, 2026g",
+    "Central Pattana, 2026p"
+  ],
+  "facts": [
+    {
+      "on_slide": "6.6% (FY2027E growth) against 7.0%",
+      "meaning": "Base-case total revenue growth FY2027E against the 7.0% low end of high single digit (team definition); revenue half of F1 just missed",
+      "where": "ch5.md Table 5.6 and 5.8 (Base row); Table 5.2 row V2; 5.2 text",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "6.9% (FY2028E growth)",
+      "meaning": "Base-case total revenue growth FY2028E",
+      "where": "ch5.md Table 5.6, 5.7 and 5.8 (Base row)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "3.3% and 3.9%",
+      "meaning": "Conservative total revenue growth FY2027E and FY2028E",
+      "where": "ch5.md Table 5.6 and 5.8 (Conservative row)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "8.7% and 9.0%",
+      "meaning": "Optimistic total revenue growth FY2027E and FY2028E; optimistic is defined as target-met, not a forecast",
+      "where": "ch5.md Table 5.6 and 5.8 (Optimistic row); 5.2 text",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "7.0% goal",
+      "meaning": "Low end of high single digit (7.0% to 9.0%) that F1 asks for",
+      "where": "ch5.md Table 5.2 row V2; 5.2 text",
+      "cite": "team definition"
+    },
+    {
+      "on_slide": "0.4 points and 0.1 point short",
+      "meaning": "Base-case gap to 7.0% in FY2027E and FY2028E (-0.4 / -0.1)",
+      "where": "ch5.md Table 5.8 (Base row, gap column)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "฿560 million a year (headline); ฿560m (legend, callout, note line); 560 million baht a year (notes)",
+      "meaning": "Net-new marketing charged to SG&A in FY2027E and again in FY2028E, so a yearly amount (฿2,760 million ceiling less ฿2,200 million already in the FY2026E cost base)",
+      "where": "ch5.md 5.1 paragraph 2 and Table 5.2 row D5 ('฿560 million in FY2027E and again in FY2028E'); Table 5.9; Table 5.4 caption 'Cost base (a year)'",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "฿240m (legend, callout, note line); 240 million (notes)",
+      "meaning": "Programme tactics: the part of the ฿560 million a year that earns modelled M1 to M4 uplift (lines 4, 6, 7 and 9 less the ฿100 million line 1 cut). The other ฿320 million (opening launches, sustainability storytelling and research) earns no revenue credit",
+      "where": "ch5.md 5.1 paragraph 2; Table 5.3 and Table 5.4 (Programme tactics rows); model_out.txt tier_a = 240, support = 320",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "฿933m (legend; flat line in both years); 933 million baht a year (notes)",
+      "meaning": "Extra revenue needed each year to cover the ฿560 million a year of net-new spend at the base 60.0% contribution margin (a yearly threshold, drawn as a flat line)",
+      "where": "ch5.md Table 5.3 (All net-new spend, Base row); Table 5.4 (cost base is a year); model_out.txt req_b_base = 933",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "฿400m (legend; flat line in both years); 400 million (notes)",
+      "meaning": "Extra revenue needed each year to cover the ฿240 million of programme tactics at the base 60.0% contribution margin",
+      "where": "ch5.md Table 5.3 (Programme tactics, Base row); Table 5.4; model_out.txt req_a_base = 400",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "60.0% kept (60 baht of every 100 in notes)",
+      "meaning": "Base contribution-margin ratio for the break-even test (R&S gross margin): the share of each extra baht of revenue left after the costs that rise with it; not the net margin",
+      "where": "ch5.md Table 5.2 row D6; 5.1 text (notes: only 60 percent of extra revenue is kept)",
+      "cite": "Central Pattana, 2026p; team calculation"
+    },
+    {
+      "on_slide": "฿328m (FY2027E) and ฿696m (FY2028E)",
+      "meaning": "Base-case programme uplift (M1 to M4) in FY2027E and FY2028E",
+      "where": "ch5.md Table 5.5 (Base row); Table 5.6; Table 5.7",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "29% (callout 'FY2028E pass-through needed, ฿240m tactics'); 'The tactics need only 29 percent' (notes)",
+      "meaning": "Break-even pass-through to CPN revenue for the ฿240 million of programme tactics, computed on the FY2028E gain before pass-through (฿400m needed of ฿1,392m); the 50% assumed is stated in the note line",
+      "where": "ch5.md 5.1 paragraph after Table 5.4 ('Break-even pass-through is the required revenue over the FY2028E gain before pass-through ... ฿400 million for the tactics (29%)'); model_out.txt p_be_a = 29%, gain28 = 1,392",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "67% (callout 'FY2028E pass-through needed, all ฿560m'); 'In 2028 it needs 67 percent of any gain' (notes)",
+      "meaning": "Break-even pass-through to CPN revenue for all ฿560 million of net-new spend, computed on the FY2028E gain before pass-through (฿933m needed of ฿1,392m), against the 50% assumed",
+      "where": "ch5.md 5.1 paragraph after Table 5.4 ('... ฿933 million for all net-new spend (67%)'); model_out.txt p_be = 67%, gain28 = 1,392",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "We assume 50% pass-through (note line); 'we assumed 50' (notes)",
+      "meaning": "Share of a gain in visits or tenant sales that reaches CPN revenue",
+      "where": "ch5.md Table 5.2 row C5",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "1.2 years (note line, notes)",
+      "meaning": "Payback of the programme tactics (฿240 million a year; Table 5.4 repeats the cost each year)",
+      "where": "ch5.md Table 5.4 and 5.5 (Base row); 5.1 text",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "does not repay the ฿560 million a year ... by FY2028E (headline); 'the full 560 million a year does not' (notes); -505 not shown",
+      "meaning": "All net-new spend (฿560 million in each year): base-case contribution of ฿197 million (FY2027E) and ฿418 million (FY2028E) against ฿560 million spent in each of the two years, so cumulative profit to FY2028E is -฿505 million and payback is not reached",
+      "where": "ch5.md Table 5.4 (All net-new row)",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Not met (F1 revenue test)",
+      "meaning": "Base case does not meet the F1 revenue test (7.0% or more in both years); only the optimistic case does",
+      "where": "ch5.md Table 5.8 (Base: No; Optimistic: Yes); 5.2 text",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "2027 and 2028 in notes; FY2027E, FY2028E",
+      "meaning": "FY2027E is the plan year, FY2028E the carry-over",
+      "where": "ch5.md Chapter 5 intro; Table 5.2 row A1",
+      "cite": "team design"
+    }
+  ]
+}

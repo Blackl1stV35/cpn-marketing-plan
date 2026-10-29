@@ -1,0 +1,245 @@
+{
+  "n": 11,
+  "id": "S11",
+  "kind": "core",
+  "layout": "risk_matrix",
+  "title": "Contingency planning",
+  "section": "6.3 · Contingency planning",
+  "status": "NEW",
+  "seconds": 50,
+  "presenter": "P6",
+  "headline": "If 2020 repeated, CPN's own 51.6% core profit fall would cut FY2027E profit by ฿10.5bn, more than marketing can absorb, so credit is the constraint to watch.",
+  "body": {
+    "risks": [
+      {
+        "id": 1,
+        "name": "E-commerce, social-commerce gain",
+        "likelihood": "H",
+        "impact": "M"
+      },
+      {
+        "id": 2,
+        "name": "Household debt, slowdown",
+        "likelihood": "H",
+        "impact": "H"
+      },
+      {
+        "id": 3,
+        "name": "Tourism volatility, China",
+        "likelihood": "H",
+        "impact": "M"
+      },
+      {
+        "id": 4,
+        "name": "Bangkok saturation, tenant power",
+        "likelihood": "M",
+        "impact": "M"
+      },
+      {
+        "id": 5,
+        "name": "Overseas execution",
+        "likelihood": "M",
+        "impact": "L"
+      },
+      {
+        "id": 6,
+        "name": "PDPA and data privacy",
+        "likelihood": "M",
+        "impact": "H"
+      },
+      {
+        "id": 7,
+        "name": "Sustainability-claim exposure",
+        "likelihood": "M",
+        "impact": "H"
+      },
+      {
+        "id": 8,
+        "name": "Capex and execution overrun",
+        "likelihood": "H",
+        "impact": "M"
+      },
+      {
+        "id": 9,
+        "name": "Dependence on one-off gains",
+        "likelihood": "H",
+        "impact": "M"
+      },
+      {
+        "id": 10,
+        "name": "Gen Z disengagement (thesis)",
+        "likelihood": "M",
+        "impact": "H"
+      }
+    ],
+    "top": [
+      {
+        "risk": "2. Household debt, slowdown",
+        "trigger": "Debt over 88% of GDP; 2027 growth forecast under 1.5%",
+        "response": "Amber freezes, Red suspends lines; capped vouchers (R4)"
+      },
+      {
+        "risk": "10. Gen Z disengagement (thesis)",
+        "trigger": "Gen Z visits per active member below +5% at G3",
+        "response": "Format zones (P1); move money to the best-performing format"
+      },
+      {
+        "risk": "6. PDPA and data privacy",
+        "trigger": "Confirmed breach complaint or leak; no report in 72 hours",
+        "response": "S1 set-up; aggregated extracts only; S4 survey ages 20+ only"
+      }
+    ],
+    "worst": {
+      "title": "Worst cases and credit sensitivity",
+      "text": "TRIS Rating (AA+/Stable) flags sustained debt to EBITDA over 4 times. That is a sensitivity, not a limit. The ratio was 3.4 in 2025.",
+      "numbers": [
+        {
+          "value": "-51.6%",
+          "label": "2020 replay, year 1: FY2027E profit"
+        },
+        {
+          "value": "-23.6%",
+          "label": "Team estimate, severe recession"
+        },
+        {
+          "value": "฿4.6bn",
+          "label": "EBITDA headroom to 4x, team calculation"
+        }
+      ]
+    },
+    "ladder": {
+      "title": "Response ladder [Proposed]",
+      "steps": [
+        {
+          "name": "Amber",
+          "text": "freezes some spending"
+        },
+        {
+          "name": "Red",
+          "text": "suspends lines, trims flagship seasons 20%"
+        },
+        {
+          "name": "Crisis",
+          "text": "suspends most lines, tenant relief"
+        }
+      ]
+    }
+  },
+  "notes": "The ratings are our judgement. Only household debt is rated high on both likelihood and impact. In our assessment, Gen Z disengagement is our biggest exposure. Our thesis rests on Gen Z, so gate three tests it. Our response is a three-step ladder. Amber freezes some spending. Red suspends lines and trims the flagship seasons by 20 percent. Crisis suspends most lines and runs tenant relief. A closure like 2020 would trigger Crisis. CPN's own core profit fell 51.6 percent then; the same fall on our base is 10.5 billion baht. Marketing cuts cannot absorb that, so credit is the constraint we watch.",
+  "sources": [
+    "TRIS Rating, 2026",
+    "Central Pattana, 2021, pp. 161, 166",
+    "Central Pattana, 2022, pp. 169, 176",
+    "team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "ten risks with likelihood H/M/L and impact H/M/L (dots 1 to 10)",
+      "meaning": "Team-judgement ratings: 1 H/M, 2 H/H, 3 H/M, 4 M/M, 5 M/L, 6 M/H, 7 M/H, 8 H/M, 9 H/M, 10 M/H; thresholds [Proposed]",
+      "where": "ch6.md 6.3, Table 6.6 columns Likelihood and Impact",
+      "cite": "team judgement"
+    },
+    {
+      "on_slide": "88% of GDP; 2027 growth forecast under 1.5%",
+      "meaning": "Risk 2 early-warning thresholds: household debt above 88% of GDP [Proposed]; Bank of Thailand 2027 growth forecast cut below 1.5% [Proposed]",
+      "where": "ch6.md Table 6.6 row 2",
+      "cite": "team proposal; Bank of Thailand, 2026"
+    },
+    {
+      "on_slide": "Amber freezes, Red suspends lines; capped vouchers (R4)",
+      "meaning": "Risk 2 mitigation: the Amber and Red ladder (Table 6.7) and capped vouchers (R4). Amber freezes lines 5 and 10 and holds new commitments on lines 4, 6, 9; Red adds suspension of lines 4, 6, 9 and a 20% trim of lines 1 to 3",
+      "where": "ch6.md Table 6.6 row 2, Mitigation; Table 6.7 rows Amber and Red, 'Budget action'",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "below +5% at G3 (Gen Z visits per active member)",
+      "meaning": "Risk 10 trigger: Gen Z visits per active member below +5% at G3 (target +10%)",
+      "where": "ch6.md Table 6.6 row 10; Table 6.3 K2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Format zones (P1); move money to the best-performing format",
+      "meaning": "Risk 10 mitigation: format zones (P1); after S7, move money to the best-performing format within lines 4 and 9",
+      "where": "ch6.md Table 6.6 row 10, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "72 hours; S4 survey ages 20+ only",
+      "meaning": "Risk 6 trigger: any confirmed personal-data breach complaint or data leakage, theft or loss incident, or a breach not reported within 72 hours; mitigation S1 set-up, aggregated extracts only, S4 survey ages 20+ only",
+      "where": "ch6.md Table 6.6 row 6",
+      "cite": "team proposal; Personal Data Protection Act, B.E. 2562, 2019"
+    },
+    {
+      "on_slide": "2. Household debt, slowdown; 10. Gen Z disengagement (thesis) (legend and watch table)",
+      "meaning": "One short name per risk in the legend and in the watch table; short forms of Table 6.6 risk 2 'Household debt and consumer slowdown' and risk 10 'Gen Z disengagement (thesis risk)'",
+      "where": "ch6.md Table 6.6 rows 2 and 10",
+      "cite": "team judgement"
+    },
+    {
+      "on_slide": "Selection of risks 2, 10 and 6 as the three shown",
+      "meaning": "Team selection: 2 is the only High/High risk; the thesis (10) is the largest exposure (team assessment); 6 is High impact with a numeric 72-hour trigger",
+      "where": "ch6.md 6.3 paragraph after Table 6.6 and Table 6.6 ratings",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "51.6% (closure, year 1; headline 'On our estimate')",
+      "meaning": "W3 pandemic-style closure, year 1: net profit down ฿10,542 million (51.6%) to ฿9,888 million; a team estimate that replays CPN's own 2020 and 2021 results on the FY2027E base case (net profit ฿20,430 million), before the ladder's offsets",
+      "where": "ch6.md Table 6.8 row W3, Impact on FY2027E and Basis; Table 6.8 title",
+      "cite": "team estimate; Central Pattana, 2021, pp. 161, 166; Central Pattana, 2022, pp. 169, 176"
+    },
+    {
+      "on_slide": "-23.6% (severe recession)",
+      "meaning": "W2 severe consumer recession: net profit down ฿4,812 million (23.6%) to ฿15,618 million on FY2027E",
+      "where": "ch6.md Table 6.8 row W2",
+      "cite": "team estimate"
+    },
+    {
+      "on_slide": "more than marketing cuts can absorb; credit is the constraint to watch (headline, notes)",
+      "meaning": "Marketing cuts cannot absorb the large cases: Crisis frees at most ฿1,545 million after 31 March against the ฿10,542 million loss in the 2020 replay; credit is the constraint to watch in the largest cases (team assessment)",
+      "where": "ch6.md 6.3 'Worst-case Risks' paragraph 2 and the paragraph after Table 6.8",
+      "cite": "team calculation; team assessment"
+    },
+    {
+      "on_slide": "TRIS Rating (AA+/Stable)",
+      "meaning": "TRIS upgraded CPN to AA+/Stable on 26 February 2026",
+      "where": "ch6.md 6.3 'Worst-case Risks' paragraph 2",
+      "cite": "TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "sustained debt to EBITDA over 4 times; a sensitivity, not a limit; the ratio was 3.4 in 2025",
+      "meaning": "Ratings could be revised downward if sustained debt to EBITDA exceeds 4 times; the ratio was 3.4 in 2025; the 4 times level is a sensitivity, not a limit",
+      "where": "ch6.md 6.3 'Worst-case Risks' paragraph 2",
+      "cite": "TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "Worst cases and credit sensitivity (box title)",
+      "meaning": "The 4 times debt-to-EBITDA level is a TRIS sensitivity (ratings could be revised downward if it is sustained), not a limit; the box shows the closure and severe-recession worst cases and the team-calculated EBITDA headroom",
+      "where": "ch6.md 6.3 'Worst-case Risks' paragraph 2; Table 6.8 rows W2 and W3",
+      "cite": "TRIS Rating, 2026; team calculation"
+    },
+    {
+      "on_slide": "฿4.6bn EBITDA headroom to 4x",
+      "meaning": "On TRIS's 2025 figures with debt unchanged, an EBITDA fall of about ฿4.6 billion (14%) would take the ratio to 4 times; headroom is a team calculation used as a yardstick",
+      "where": "ch6.md 6.3 'Worst-case Risks' paragraph 2",
+      "cite": "team calculation; TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "three-step ladder: Amber freezes some spending; Red suspends lines and trims the flagship seasons by 20 percent; Crisis suspends most lines and runs tenant relief (notes)",
+      "meaning": "Response ladder: Amber freezes lines 5 and 10 and holds new commitments on lines 4, 6, 9; Red adds suspension of lines 4, 6, 9 and trims lines 1 to 3 (the flagship windows, ch4 lines 1 to 3) by 20%; Crisis suspends lines 1 to 6, 9 and 10 and a standing crisis team runs tenant relief; lines 7, 8 and 11 are protected",
+      "where": "ch6.md Table 6.7, columns 'Budget action' and 'Reallocation'; Table 6.1 rows (lines 1 to 3)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "a closure like 2020 would trigger our Crisis state and cut profit by more than half (notes)",
+      "meaning": "W3 pandemic-style closure: Crisis ladder from day one (entry rule: government closure order); year 1 profit down 51.6%, a team estimate",
+      "where": "ch6.md Table 6.8 row W3; Table 6.7 row Crisis",
+      "cite": "team proposal; team estimate"
+    },
+    {
+      "on_slide": "In our assessment, Gen Z disengagement is our biggest exposure (notes); gate three tests it",
+      "meaning": "The thesis is the largest exposure (team assessment); M1 supplies 47% of FY2028E uplift, so G3 tests Gen Z behaviour before the year-end season is released",
+      "where": "ch6.md 6.3 paragraph after Table 6.6; Table 6.2 row G3",
+      "cite": "team assessment"
+    }
+  ]
+}

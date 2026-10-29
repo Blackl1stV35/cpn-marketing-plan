@@ -1,0 +1,150 @@
+{
+  "n": 4,
+  "id": "S4",
+  "kind": "core",
+  "layout": "three_col",
+  "title": "Strategy recap",
+  "section": "3.2–3.5 · Marketing strategy",
+  "status": "RECAP",
+  "seconds": 35,
+  "presenter": "P2",
+  "headline": "Six proposed objectives and four target tiers give Gen Z and young adults (ages 18–29) the largest share of new effort, under a Center of Life position.",
+  "body": {
+    "cols": [
+      {
+        "title": "Objectives [Proposed]",
+        "bullets": [
+          "M1 Gen Z and young adults visit more often",
+          "M2 More tourists beyond China; M3 online-to-offline (O2O) conversion",
+          "M4 The 1 BIZ tenant partners; M5 sustainability as an asset",
+          "F1 Growth of 7.0% to 9.0% and a margin floor of 35.5% (team figures)"
+        ],
+        "big": {
+          "value": "6",
+          "label": "objectives: M1–M5 and F1"
+        }
+      },
+      {
+        "title": "Target markets",
+        "bullets": [
+          "Primary: urban middle- to upper-income adults and families",
+          "Secondary: Gen Z, young adults (ages 18–29); largest new-effort share",
+          "Tertiary: domestic and international tourists",
+          "B2B: global and local retail brands seeking prime sites"
+        ],
+        "big": {
+          "value": "4",
+          "label": "target tiers, in priority order"
+        }
+      },
+      {
+        "title": "Positioning",
+        "bullets": [
+          "CPN's CFO calls CPN Thailand's leading place maker",
+          "Most Admired Company: No. 1 in shopping centres, 3 years running",
+          "Team positioning: Center of Life live-work-shop-stay developer",
+          "Backed by data personalisation and sustainability leadership"
+        ]
+      }
+    ]
+  },
+  "notes": "Six proposed objectives. Marketing: more Gen Z visits, more tourists beyond China, online-to-offline conversion, The 1 BIZ partnerships, and sustainability as an asset. Financial: our figures are 7.0 to 9.0 percent growth and a 35.5 percent margin floor. Four target tiers rank our markets. Gen Z and young adults get the largest share of new effort. We position CPN as the Center of Life developer. Our third speaker takes the tactics.",
+  "sources": [
+    "Central Pattana, 2025d",
+    "ThaiPR.net, 2026",
+    "team proposal",
+    "team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "Six objectives: M1 to M5 and F1 [Proposed]",
+      "meaning": "Five marketing objectives and one financial objective, all team proposals, not CPN guidance",
+      "where": "sec23_final.txt 3.2 (items 1-5) and 3.3; ch4.md opening paragraph (Items marked [Proposed] are team proposals)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "M1 Gen Z and young adults visit more often",
+      "meaning": "Grow Gen Z and young-adult visit frequency; Chapter 5 row C1 models +10% frequency (not shown)",
+      "where": "sec23_final.txt 3.2 item 1; ch5.md Table 5.2 row C1",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "M2 More tourists beyond China",
+      "meaning": "Diversify international-tourist footfall beyond China toward South Asian (India) and long-haul (Middle East, Europe) markets",
+      "where": "sec23_final.txt 3.2 item 2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "M3 online-to-offline (O2O) conversion",
+      "meaning": "Lift online-to-offline conversion through the Central / The 1 app ecosystem",
+      "where": "sec23_final.txt 3.2 item 3; ch6.md Table 6.3 K4",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "M4 The 1 BIZ tenant partners",
+      "meaning": "Expand The 1 BIZ tenant partnerships to grow same-mall tenant sales",
+      "where": "sec23_final.txt 3.2 item 4",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "M5 sustainability as an asset",
+      "meaning": "Make sustainability a marketing asset, not just an operations story",
+      "where": "sec23_final.txt 3.2 item 5",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "7.0% to 9.0% (7.0 to 9.0 percent)",
+      "meaning": "Team definition of high-single-digit revenue growth in objective F1",
+      "where": "ch5.md Table 5.2 row V2; sec23_final.txt 3.3",
+      "cite": "team definition"
+    },
+    {
+      "on_slide": "35.5% margin floor",
+      "meaning": "FY2025 net profit over total revenue, 18,841 / 53,009 = 35.54% rounded; the team's calculation, not a CPN figure (CPN itself prints about 35.6% in the MD&A)",
+      "where": "ch5.md Table 5.2 row V2; sec23_final.txt 2.5 and 3.3; corrections.md",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "Primary / Secondary / Tertiary / B2B (four tiers)",
+      "meaning": "Strategic priority order of target markets: urban middle- to upper-income working adults and families; Gen Z and young adults; tourists; global and local retail brands",
+      "where": "sec23_final.txt 3.4 items 1-4; ch4.md opening paragraph (Section 3.4 order unchanged)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "ages 18–29 (18 to 29)",
+      "meaning": "Plan band for Gen Z and young adults (a team definition); the survey reaches only respondents aged 20 and over, so it measures ages 20 to 29, and The 1 member data (active members) cover 18 to 29; the only published comparator is DataReportal's ages 13-24 (14.7% of the population), a different band, so comparisons are indicative (comparator not shown on slide)",
+      "where": "ch4.md Section 4.5 'Age bands, defined once for the plan'; ch6.md Table 6.3 K1; corrections.md",
+      "cite": "team definition; DataReportal, 2025"
+    },
+    {
+      "on_slide": "CPN's CFO calls CPN Thailand's leading place maker",
+      "meaning": "Statement attributed to Ms. Naparat Sriwanvit, Chief Finance Officer, in CPN's Q2 2026 results release ('Thailand's leading place maker')",
+      "where": "sec23_final.txt 3.5 Positioning",
+      "cite": "ThaiPR.net, 2026"
+    },
+    {
+      "on_slide": "Most Admired Company: No. 1 in shopping centres, 3 years running",
+      "meaning": "CPN named Thailand's Most Admired Company, ranked No. 1 in the Shopping Centre category for three consecutive years (a CPN release)",
+      "where": "sec23_final.txt 3.5 Positioning",
+      "cite": "Central Pattana, 2025d"
+    },
+    {
+      "on_slide": "Team positioning: Center of Life live-work-shop-stay developer",
+      "meaning": "The team's proposed positioning statement; a synthesis, not a quotation and not independently cited",
+      "where": "sec23_final.txt 3.5 Positioning, final paragraph",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "give Gen Z and young adults the largest share of new effort (headline); largest new-effort share (Secondary bullet); get the largest share of new effort (notes)",
+      "meaning": "Gen Z and young adults, the Secondary segment, receive the largest share of incremental tactics because of M1 and the team thesis; working adults and families (Primary) are served by the base programmes",
+      "where": "ch4.md opening paragraph (second paragraph, Section 3.4 order unchanged)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Backed by data personalisation and sustainability leadership",
+      "meaning": "Part of the team's proposed positioning statement",
+      "where": "sec23_final.txt 3.5 Positioning, final paragraph",
+      "cite": "team proposal"
+    }
+  ]
+}

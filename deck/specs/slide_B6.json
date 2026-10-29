@@ -1,0 +1,286 @@
+{
+  "n": 18,
+  "id": "B6",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "Q&A cards",
+  "section": "Backup · Likely questions",
+  "status": "NEW",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "We answer the 13 likely questions plainly, with a suggested speaker for each: the base case misses F1 and the extra revenue is our assumption.",
+  "body": {
+    "columns": [
+      [
+        {
+          "type": "cards",
+          "title": "Plan and numbers",
+          "items": [
+            {
+              "head": "Q1 Why back a plan that misses F1 and does not repay?",
+              "text": "A gated test. The no-plan path also misses F1 (6.0% growth, 35.2% margin). Only ฿240m of tactics repay; benefits after FY2028E are not valued.",
+              "tag": "Spkr 6"
+            },
+            {
+              "head": "Q2 Does the plan pay for itself?",
+              "text": "No. On assumed uplift, ฿560m a year is not repaid by FY2028E (needs 67% pass-through). ฿240m of tactics repay in 1.2 years; ฿320m earns none.",
+              "tag": "Spkr 4"
+            },
+            {
+              "head": "Q3 Isn't our 35.5% floor inflated by one-offs? Is F1 missed on core?",
+              "text": "Yes: FY2025 held ฿2,119m of Rama 2 one-offs (3.2 points). On the K8 core test, base 33.9% clears a 32.3% floor, but growth of 6.6% still misses 7.0%.",
+              "tag": "Spkr 5"
+            },
+            {
+              "head": "Q4 What evidence supports the extra revenue?",
+              "text": "Not yet measured. Team assumptions (25% visit share for ages 18–29, +10% frequency, +5% lift) carry 79% of FY2028E uplift. The baseline and gates G2 to G4 test the frequency and lift; the 25% share is not measured directly, as K1 is the 20–29 share of visitors aged 20+.",
+              "tag": "Spkr 4"
+            },
+            {
+              "head": "Q5 How do you know ฿2,200m is already in costs?",
+              "text": "We do not. CPN reports no separate marketing expense, so ฿2,200m is our assumption. Each ฿100m not in the base cuts FY2027E margin by 0.14 points.",
+              "tag": "Spkr 1"
+            },
+            {
+              "head": "Q6 How much of the money really depends on results?",
+              "text": "45% of net-new (฿250m of ฿560m) waits for a results test, at G2 or G3. G0 and G1 test readiness; ฿310m (55%) is due by 30 Jun.",
+              "tag": "Spkr 5"
+            },
+            {
+              "head": "Q7 What stops a loss-making FY2028 repeat?",
+              "tag": "Spkr 5",
+              "text": "G4 requires ฿400m uplift and pass-through above 29% (tactics break-even); a miss limits FY2028 to tactics that passed. The full ฿560m needs ฿933m and 67%: reviewed, not required."
+            }
+          ]
+        }
+      ],
+      [
+        {
+          "type": "cards",
+          "title": "Sustainability, data and definitions",
+          "items": [
+            {
+              "head": "Q8 What is the ESG index called, and is FTSE4Good confirmed?",
+              "text": "The Dow Jones Best-in-Class Indices (formerly DJSI): World 8 years, Emerging Markets 12, per CPN, 9 Apr 2026. FTSE4Good: per CPN, unconfirmed.",
+              "tag": "Spkr 2"
+            },
+            {
+              "head": "Q9 Which emissions target do you quote?",
+              "text": "One only: a 50% cut in emissions intensity by 2034 against a 2024 base, the target in CPN's latest (2025) climate summary.",
+              "tag": "Spkr 6"
+            },
+            {
+              "head": "Q10 How many members does The 1 have?",
+              "text": "Central Retail's loyalty ecosystem: 23 million members in Thailand (press release, 14 Aug 2026). It does not name the programme; we read it as The 1.",
+              "tag": "Spkr 2"
+            },
+            {
+              "head": "Q11 Where does the 1Q27 date for The Central Phaholyothin come from?",
+              "text": "CPN's 2Q26 MD&A (p. 7) lists \"The Central\" at 1Q27, which we read as The Central Phaholyothin. Spend waits for a CPN filing (D1); other dates on B2.",
+              "tag": "Spkr 3"
+            },
+            {
+              "head": "Q12 Which net margin is right: 35.5% or 33.1%?",
+              "text": "35.5% is our calculation (18,841 / 53,009). CPN publishes 33.1% (IR page), about 35.6% (MD&A) and 36% (One Report). We never call 35.5% CPN's figure.",
+              "tag": "Spkr 5"
+            },
+            {
+              "head": "Q13 How is Gen Z defined, and what consent age?",
+              "text": "Ages 18–29 (team definition). The survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29. DataReportal's 13–24 is a different band.",
+              "tag": "Spkr 4"
+            }
+          ]
+        }
+      ]
+    ]
+  },
+  "notes": "Owners are suggested and can be swapped. Q1 (Spkr 6): It is a gated test, and the no-plan path also misses F1. Q2 (Spkr 4): No. On assumed uplift, the full 560 million a year is not repaid by FY2028E. Q3 (Spkr 5): Yes, our floor holds FY2025 one-offs; on the core test the margin passes, but growth still misses 7.0 percent. Q4 (Spkr 4): Not yet measured; our volume assumptions carry most of the uplift, and the baseline and gates test the frequency and lift; the 25% share is not measured directly, because K1 is the 20 to 29 share of visitors aged 20 and over. Q5 (Spkr 1): We do not know; CPN reports no separate marketing expense, so the 2,200 million is our assumption. Q6 (Spkr 5): 45 percent of the net-new money waits for a results test, at gate two or three; gates zero and one test readiness. Q7 (Spkr 5): G4 requires the tactics break-even, 400 million of uplift and pass-through above 29 percent; below that FY2028 is limited to the tactics that passed. The full 560 million needs 933 million and 67 percent, which G4 reviews but does not require. Q8 (Spkr 2): It is the Dow Jones Best-in-Class Indices, formerly DJSI, per CPN (9 Apr 2026); S&P's Sustainability Yearbook 2026 (S&P-sourced) lists CPN in the top 10% of CSA scores. Q9 (Spkr 6): We quote only the 50% cut in emissions intensity by 2034 against 2024. Q10 (Spkr 2): Central Retail's loyalty ecosystem has 23 million members in Thailand (Central Retail press release, 14 Aug 2026), which we read as The 1. Q11 (Spkr 3): The 1Q27 date comes from the 2Q26 MD&A, p. 7; launch spend follows a CPN filing (D1). Q12 (Spkr 5): 35.5% is our own calculation from CPN's two reported figures. Q13 (Spkr 4): Gen Z and young adults are ages 18 to 29; our survey reaches only respondents aged 20 and over, the age of majority, so it measures 20 to 29, and member data cover active members 18 to 29; younger respondents would need a guardian under the PDPA, which a Thai-law reader should confirm.",
+  "sources": [
+    "Central Pattana, 2026a, 2026g (p. 7), 2026p, 2026t, n.d.-g (pp. 1, 5); Central Pattana Investor Relations, n.d.-c, 2026",
+    "Central Retail Corporation, 2026; S&P Global, 2026",
+    "Personal Data Protection Act, B.E. 2562, 2019; DataReportal, 2025",
+    "team calculation and proposal (Chapter 5 model; Table 6.2)"
+  ],
+  "facts": [
+    {
+      "on_slide": "Headline: 12 likely questions (Q1 to Q12); base case misses F1; extra revenue is our assumption",
+      "meaning": "Six cards in each block, numbered Q1 to Q12 (the notes use the same numbers). The base case misses F1: FY2027E growth 6.6% against 7.0%, net margin 34.6% against our 35.5% floor; the extra revenue rests on team assumptions (Table 5.2 rows C1 to C5)",
+      "where": "ch5.md Table 5.8 row Base; Tables 5.10 and 5.11 row Base; Table 5.2 rows C1, C4, C5; 5.2 paragraph after Table 5.6",
+      "cite": "team proposal; team assumption"
+    },
+    {
+      "on_slide": "Owner tags Spkr 1 to Spkr 6 (suggested speaker, one per card)",
+      "meaning": "Each tag is the suggested speaker, the speaker whose core slides cover the topic (blocks: Spkr 1 = S1-S2, Spkr 2 = S3-S4, Spkr 3 = S5-S6, Spkr 4 = S7-S8, Spkr 5 = S9-S10, Spkr 6 = S11-S12). Q1 Spkr 6 (S12 summary); Q2 and Q4 Spkr 4 (S8); Q3, Q6 and Q11 Spkr 5 (S9 margin, S10 gates); Q5 Spkr 1 (S2 tile 2); Q7 and Q9 Spkr 2 (S3 Net Zero 2050 and The 1 loyalty data; S4 M5); Q8 Spkr 6 (S11 risk 7, sustainability-claim exposure; no core slide quotes an emissions target); Q11 Spkr 3 (S6 openings); Q13 Spkr 4 (S7 age band and surveys of ages 20+); Q7 Spkr 5 (S10 gates). The Spkr form replaces the P1 to P6 codes, which clash with tactic IDs",
+      "where": "SPEC.md presenter blocks; core specs slide_02, 03, 04, 06, 07, 08, 09, 10, 11, 12",
+      "cite": "team suggestion"
+    },
+    {
+      "on_slide": "Q1: A gated test",
+      "meaning": "The plan measures first and spends second; Table 6.2 sets the gates at which money is released, and a failed gate holds or cuts the next release",
+      "where": "ch6.md 6.1 opening paragraph; Table 6.2 columns Released if passed and Held or cut if failed",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Q1: The no-plan path also misses F1 (6.0% growth, 35.2% margin)",
+      "meaning": "Without the plan, FY2027E total revenue growth would be 6.0% (7.0% is needed) and net margin 35.2% (35.24% before rounding; our floor is 35.5%), so the organic path already misses both F1 tests",
+      "where": "ch5.md 5.2 paragraph after Table 5.7 ('Without the plan growth would be 6.0% and 6.3%'); Table 5.10 row Net margin without the plan; 5.3 paragraph after Table 5.10",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Q1 and Q2: Only ฿240m of tactics repay (1.2 years)",
+      "meaning": "Of the ฿560 million a year of net-new spend, ฿240 million is for the tactics that carry M1 to M4 uplift (lines 4, 6, 7 and 9 less the ฿100 million line 1 cut) and repays in 1.2 years on the base-case uplift, with the ฿240 million spent again in FY2028E (Table 5.4 cost base is a year); the other ฿320 million (opening launches, sustainability storytelling, research) earns no revenue credit",
+      "where": "ch5.md 5.1 paragraph 2 (opens 'The incremental cost is not the ฿2,760 million ceiling'); Table 5.4 row 1; Table 5.5 row Base",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Q1: benefits after FY2028E are not valued",
+      "meaning": "The model values the uplift only to FY2028E; benefits beyond FY2028E are not valued",
+      "where": "ch5.md 5.2 paragraph after Table 5.6 (last sentence)",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "Q2: No. On assumed uplift, ฿560m a year is not repaid by FY2028E: it needs 67% pass-through, not the 50% assumed",
+      "meaning": "Net-new spend of ฿560 million a year (FY2027E and again FY2028E) is covered 75% in FY2028E and falls ฿505 million short cumulatively to FY2028E; break-even pass-through to CPN's revenue is 67% at the FY2028E run-rate against the 50% assumed; all on the base-case uplift, which is a team assumption",
+      "where": "ch5.md 5.1 paragraph after Table 5.4; Table 5.4 row 2; Table 5.2 rows C5 and D5",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Q3: FY2025 held ฿2,119m of Rama 2 one-offs (3.2 points)",
+      "meaning": "FY2025 profit held Rama 2 one-offs of ฿1,234 million (other income) and ฿1,415 million (lease interest) before tax, ฿2,119 million after tax; they are 3.2 points of FY2025's 35.5% margin, which is the margin our floor is built on (team calculation, not a CPN figure)",
+      "where": "ch5.md chapter introduction; Table 5.2 rows A4 and V2; 5.3 paragraph after Table 5.10 ('FY2025's one-offs (3.2 points)'); ch6.md Table 6.6 row 9; model_out.txt oneoff_pts = 3.2",
+      "cite": "Central Pattana, 2026p; team calculation"
+    },
+    {
+      "on_slide": "Q3: On the K8 core test, base 33.9% clears a 32.3% floor",
+      "meaning": "KPI K8 reads the margin floor on a core basis as well (core excludes Rama 2 lease interest): core floor 32.3% [Proposed], FY2025's core margin; base-path FY2027E core margin 33.9%, 1.6 points above it. The reported base margin is 34.6% against the 35.5% floor",
+      "where": "ch6.md Table 6.3 row K8; ch5.md Table 5.10 row Core net margin; 5.3 paragraph after Table 5.10 ('the margin rises from 32.3% to 33.9%'); model_out.txt core_gain_b27 = +1.6",
+      "cite": "Central Pattana, 2026p; team proposal; team calculation"
+    },
+    {
+      "on_slide": "Q3: growth of 6.6% still misses 7.0%",
+      "meaning": "The F1 revenue test (7.0% to 9.0%) is missed in the base case whichever way margin is read: FY2027E total revenue growth is 6.6%, 0.4 points short; only the optimistic case, a target by definition, meets it",
+      "where": "ch5.md Table 5.8 row Base; 5.2 paragraph after Table 5.7; ch6.md Table 6.3 row K9",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Q4: Team assumptions (25% visit share, +10% frequency, +5% lift)",
+      "meaning": "Team assumptions: 25% of visits are made by the 18-29 band, Gen Z visit frequency +10% (at 50% yield), and a +5% sales lift for The 1 BIZ partner stores (16.7% of revenue). CPN publishes no Gen Z share; Chapter 6 adopts +10% and +5% as [Proposed] targets set equal to the assumptions, which are not evidence for them",
+      "where": "ch5.md Table 5.2 rows C1 and C4; 5.2 paragraph after Table 5.6; ch6.md Table 6.3 rows K2 and K5",
+      "cite": "team assumption"
+    },
+    {
+      "on_slide": "Q4: 79% of FY2028E uplift",
+      "meaning": "In the model M1 (Gen Z) supplies 47% of the FY2028E uplift and M1 plus M4 supply 79%, so two unsourced team assumptions (Table 5.2 rows C1 and C4) carry the case",
+      "where": "ch5.md 5.2 paragraph after Table 5.6; model_out.txt m1_share28 = 47%, m14_share28 = 79%",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Q4: The baseline and gates G2 to G4 test them",
+      "meaning": "The Section 4.5 baseline is due by 31 March 2027 (G1); G2 tests the The 1 BIZ lift (at least +5% against matched controls) and S7 revenue per baht; G3 tests Gen Z visits per active member (at least +5%); G4 tests the uplift run-rate and pass-through (K12)",
+      "where": "ch6.md Table 6.2 rows G1 to G4; Table 6.3 rows K1, K2, K5 and K12",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Q5: ฿2,200m is our assumption; CPN reports no separate marketing expense",
+      "meaning": "The ฿2,200 million (flagships at their latest disclosed editions of 600, 600 and 800, plus The 1 BIZ at 200) is assumed to sit in the FY2026E cost base. CPN reports one administrative-expense line and no marketing expense in the MD&A and One Report reviewed, so the figure is an assumption and an upper bound on what is embedded; it cannot be verified",
+      "where": "ch5.md 5.1 paragraph 2; 5.3 paragraph 1; Table 5.9 row Less: already in the FY2026E cost base; ch4.md 4.5 budget paragraph (One Report p. 192)",
+      "cite": "Central Pattana, 2026p; Central Pattana Investor Relations, 2026; team assumption"
+    },
+    {
+      "on_slide": "Q5: Each ฿100m not in the base cuts FY2027E margin by 0.14 points",
+      "meaning": "Each ฿100 million of marketing that is not already in the base cost base (so is net-new) lowers the FY2027E margin by about 0.14 points",
+      "where": "ch5.md 5.1 paragraph 2 ('each ฿100 million not in the base lowers the FY2027E margin by about 0.14 points'); 5.3 paragraph after Table 5.11; model_out.txt per100 = 0.14%",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Q6: 45% of net-new (฿250m of ฿560m) waits for a results test, at G2 or G3",
+      "meaning": "Net-new spend by quarter is 55, 255, 130 and 120 (Table 5.9). Table 6.2 releases Q3 spend (130) at G2 and Q4 net-new (120) at G3, both gates with results tests; together 250, which is 44.6% of 560, shown as 45%",
+      "where": "ch5.md Table 5.9 row Net-new spend charged to SG&A; ch6.md 6.1 release rules; Table 6.1; Table 6.2 rows G2 ('Q3 spend') and G3 ('Q4 net-new of ฿120 million')",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Q6: G0 and G1 test readiness; ฿310m (55%) is due by 30 Jun",
+      "meaning": "G0 and G1 pass tests cover set-up and baseline (Plan Office and squad leads named, data-protection plan, agency contracted, baseline report, consent live, plus the FY2026 profit check); from G2 the tests are results (The 1 BIZ lift, S7 revenue per baht and M2 registrant share at G2; Gen Z visits per active member at G3; uplift run-rate at G4). Q1 and Q2 net-new sum to 310, 55.4% of 560 (shown as 55%), due before G2 on 30 June; the 310 is not the ฿310 million of budget lines 4, 6 and 7. For reference, cumulative net-new on the quarter-by-quarter release is 55 after G0 (10%), 310 after G1 (55%), 440 after G2 (79%) and 560 after G3; Table 6.2 states the Q1 release at G0, Q3 at G2 and Q4 at G3, and the Q2 release at G1 follows the same pattern",
+      "where": "ch6.md Table 6.2 column Pass test, rows G0 to G4; ch5.md Table 5.9; ch6.md 6.1 release rules (58.3% of the gross ceiling is spent by 30 June)",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "Q7: The Dow Jones Best-in-Class Indices (formerly DJSI): World 8 years, Emerging Markets 12, per CPN, 9 Apr 2026",
+      "meaning": "CPN says it has been in the World index for 8 consecutive years and in Emerging Markets for 12 (per CPN, 9 Apr 2026)",
+      "where": "sec23_final.txt 3.5; corrections.md Facts, ESG",
+      "cite": "Central Pattana, 2026t (per CPN, 9 Apr 2026)"
+    },
+    {
+      "on_slide": "Q7: FTSE4Good: per CPN, unconfirmed",
+      "meaning": "FTSE4Good is shown only as per CPN, not independently confirmed",
+      "where": "corrections.md Facts, ESG",
+      "cite": "per CPN"
+    },
+    {
+      "on_slide": "Q8: a 50% cut in emissions intensity by 2034 against a 2024 base",
+      "meaning": "The target in CPN's latest (2025) climate summary; the only emissions target quoted, decided by the team on 29 Oct 2026",
+      "where": "ch4.md 4.4 sustainability paragraph; corrections.md Facts, Emissions",
+      "cite": "Central Pattana, n.d.-g, pp. 1, 5"
+    },
+    {
+      "on_slide": "Q9: 23 million members in Thailand (press release, 14 Aug 2026)",
+      "meaning": "Central Retail's loyalty ecosystem has 23 million members in Thailand; the release does not name the Thai programme, so the team reads it as The 1",
+      "where": "sec23_final.txt 2.4; corrections.md Facts, The 1 loyalty programme",
+      "cite": "Central Retail Corporation, 2026 (Sections 2-3 reference list)"
+    },
+    {
+      "on_slide": "Q10: 1Q27; 2Q26 MD&A (p. 7); Spend waits for a CPN filing (D1)",
+      "meaning": "The MD&A lists a project named \"The Central\" at 1Q27 with about 100,000 sq m of net leasable area, which the team reads as The Central Phaholyothin; D1 releases launch spend only after a CPN filing or release confirms the date",
+      "where": "ch4.md 4.3 paragraph 1 and tactic row D1; ch6.md 6.1 paragraph 1 and Table 6.6 row 8; corrections.md Facts, The Central Phaholyothin",
+      "cite": "Central Pattana, 2026g, p. 7"
+    },
+    {
+      "on_slide": "Q10: other dates on B2",
+      "meaning": "The October 2025 release, the One Report and Cushman & Wakefield dates are in the B2 footnote",
+      "where": "corrections.md Facts, The Central Phaholyothin",
+      "cite": "team decision"
+    },
+    {
+      "on_slide": "Q11: 35.5% is our calculation (18,841 / 53,009)",
+      "meaning": "FY2025 net margin of about 35.5% is the team's calculation from net profit to parent of THB 18,841 million and revenue of THB 53,009 million",
+      "where": "corrections.md Facts, FY2025 line; ch5.md Table 5.2 row V2",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "Q11: CPN publishes 33.1% (IR page), about 35.6% (MD&A) and 36% (One Report)",
+      "meaning": "Three margin figures CPN itself publishes; the team does not present 35.5% as a CPN figure. The MD&A prints 35.6%; the report (Section 2.5) now prints all three: 33.1% (Central Pattana Investor Relations, n.d.-c), 35.6% and 36% (One Report)",
+      "where": "corrections.md Facts, FY2025 line; ch5.md Table 5.2 row V2",
+      "cite": "Central Pattana, 2026p; Central Pattana Investor Relations, n.d.-c, 2026"
+    },
+    {
+      "on_slide": "Q12: Ages 18–29 (team definition)",
+      "meaning": "Gen Z and young adults are ages 18 to 29 (a team definition, not CPN's); the survey reaches only respondents aged 20 and over, so it measures ages 20 to 29, and The 1 member data (active members) cover 18 to 29",
+      "where": "ch4.md 4.5 'Age bands' paragraph; corrections.md Facts, Age bands",
+      "cite": "team definition"
+    },
+    {
+      "on_slide": "Q13: the survey reaches only people aged 20+ (age of majority; younger people would need a guardian on our reading of PDPA s.20), so it measures 20–29; member data cover active members 18–29",
+      "meaning": "The team uses the Civil Code majority of 20 as the PDPA consent age (decided 29 Oct 2026, replacing the earlier 18); the survey reaches respondents aged 20 and over, so K1 is the 20–29 share of visitors aged 20 and over and ages 18 and 19 are seen only in The 1 member data (K2, active members); the plan band stays ages 18–29 (decided 29 Oct 2026)",
+      "where": "corrections.md Facts, Survey consent; ch4.md 4.5 age-band and PDPA paragraphs now say 20 (report fixed 29 Oct 2026)",
+      "cite": "Personal Data Protection Act, B.E. 2562, 2019; team treatment"
+    },
+    {
+      "on_slide": "Q12: DataReportal's 13–24 is a different band",
+      "meaning": "The only published comparator is DataReportal's ages 13 to 24 (14.7% of the population), a different band, so comparisons are indicative only",
+      "where": "ch4.md 4.5 'Age bands' paragraph; ch5.md Table 5.2 row C1",
+      "cite": "DataReportal, 2025"
+    },
+    {
+      "on_slide": "Notes: S&P's Sustainability Yearbook 2026 (S&P-sourced) lists CPN in the top 10% of CSA scores",
+      "meaning": "S&P-sourced listing of CPN in the top 10% of CSA scores; it appears in the notes only",
+      "where": "sec23_final.txt 3.5; corrections.md Facts, ESG",
+      "cite": "S&P Global, 2026 (Sections 2-3 reference list)"
+    },
+    {
+      "on_slide": "Q7: G4 requires 400m uplift and pass-through above 29%; the full 560m needs 933m and 67%",
+      "meaning": "Table 6.2 G4 pass test is the tactics break-even (uplift run-rate at least 400 million, pass-through above 29%, K12); a failed G4 limits FY2028 to the tactics that passed; K12 also lists 933 million and 67% for all net-new spend, which G4 reviews with all Table 6.3 KPIs but does not require",
+      "where": "ch6.md Table 6.2 row G4; Table 6.3 row K12; ch5.md section 5.1 and Table 5.4",
+      "cite": "team proposal (Chapter 6 Table 6.2); team calculation (Chapter 5)"
+    }
+  ]
+}

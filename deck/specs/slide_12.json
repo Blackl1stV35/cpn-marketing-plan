@@ -1,0 +1,105 @@
+{
+  "n": 12,
+  "id": "S12",
+  "kind": "core",
+  "layout": "takeaways",
+  "title": "Three takeaways",
+  "section": "Conclusion · Q&A",
+  "status": "NEW",
+  "seconds": 30,
+  "presenter": "P6",
+  "headline": "We propose ฿560 million of net-new marketing; the base case misses F1 (6.6% growth, 34.6% margin), and gates and a response ladder control the spend.",
+  "body": {
+    "cards": [
+      {
+        "n": 1,
+        "title": "Proposal and cost",
+        "text": "[Proposed] Six objectives, led by Gen Z: ฿2,760m gross ceiling; ฿560m net-new if ฿2,200m is already in costs."
+      },
+      {
+        "n": 2,
+        "title": "What it returns",
+        "text": "Base case misses F1 (6.6%, 34.6%); ฿560m a year is not repaid by FY2028E. Only the optimistic target meets F1."
+      },
+      {
+        "n": 3,
+        "title": "How it is controlled",
+        "text": "[Proposed] Five gates, a Plan Office and an Amber, Red, Crisis ladder that freezes, trims or suspends spend."
+      }
+    ],
+    "closing": "Thank you. We welcome your questions."
+  },
+  "notes": "On our assumptions, we propose 560 million baht net-new, inside a 2,760 million gross ceiling. Our base case misses F1. The 560 million a year is not repaid by 2028. Only the optimistic case meets F1, a target by definition. We propose gates and a response ladder to control spending. Thank you; we welcome questions.",
+  "sources": [
+    "team calculation (Tables 5.4, 5.8, 5.9, 5.11)",
+    "team proposal (Tables 6.2, 6.7)"
+  ],
+  "facts": [
+    {
+      "on_slide": "฿560 million net-new (and ฿560m net-new if ฿2,200m is already in costs)",
+      "meaning": "Net-new marketing spend charged to SG&A in FY2027E, assumed borne by CPN; it is the gross ceiling less ฿2,200 million that the team assumes already sits in the FY2026E cost base (a team assumption, an upper bound on what is embedded, since CPN discloses no marketing expense)",
+      "where": "ch5.md 5.1 paragraph 2 ('Those ฿2,200 million are assumed to sit in the FY2026E cost base, leaving ฿560 million net-new'); Table 5.9 row 'Net-new spend charged to SG&A', FY2027E column; Table 5.2 row D5",
+      "cite": "team proposal; team assumption; team calculation"
+    },
+    {
+      "on_slide": "฿2,760m gross ceiling (card 1); 2,760 million gross ceiling (notes)",
+      "meaning": "Proposed FY2027 marketing budget, lines 1 to 11, gross ('gross ceiling' is the report's term, as on S2 and S6); 5.2% of FY2025 total revenue",
+      "where": "ch4.md budget table, total row; ch5.md Table 5.9",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "Six objectives, led by Gen Z",
+      "meaning": "Objectives M1 to M5 plus the financial objective F1 (six, as on the strategy slide S4); Gen Z and young adults receive the most incremental effort",
+      "where": "ch6.md 6.3 and Table 6.3 (M1 to M5 and F1); ch4.md intro and 4.1 (Gen Z and young adults receive the most incremental effort)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "6.6% growth (7.0% goal in notes)",
+      "meaning": "Base-case total revenue growth FY2027E +6.6% against the F1 definition of 7.0% to 9.0% (high single digit); base case does not meet F1",
+      "where": "ch5.md Table 5.8 row Base; Table 5.6; Table 5.2 row V2",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "34.6% margin (35.5% floor in notes)",
+      "meaning": "Base-case FY2027E net margin 34.6% against the 35.5% floor (18,841 / 53,009 = 35.54%, rounded; the floor is the team's calculation); FY2027E profit ฿558 million short of the floor",
+      "where": "ch5.md Table 5.10 row Net margin; Table 5.11 row Base; Table 5.2 row V2",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "฿560m a year is not repaid by FY2028E (card 2); 'The 560 million a year is not repaid by 2028' (notes)",
+      "meaning": "All net-new spend (฿560 million in each of FY2027E and FY2028E) is not repaid: the base-case contribution of ฿197 million and ฿418 million is ฿505 million short of the ฿560 million spent in each of the two years, so payback is not reached; only the programme tactics (฿240 million a year) repay, in 1.2 years. Same finding as slide S8",
+      "where": "ch5.md 5.1 paragraph 4 ('falls ฿505 million short cumulatively to FY2028E'); Table 5.2 row D5 ('in FY2027E and again in FY2028E'); Table 5.4 caption 'Cost base (a year)' and row 'All net-new spend charged to SG&A' (-505, not reached)",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Only the optimistic target meets F1 (card 2); 'Only the optimistic case meets F1, a target by definition' (notes)",
+      "meaning": "Only the optimistic case, defined as target-met and not a forecast, holds the floor and the growth test (growth +8.7% / +9.0%, margin 35.9% in FY2027E)",
+      "where": "ch5.md Table 5.8 row Optimistic; Table 5.11 row Optimistic; text after Table 5.11",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Five gates",
+      "meaning": "Stage gates G0 to G4 with pass tests and releases",
+      "where": "ch6.md Table 6.2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Plan Office",
+      "meaning": "Plan Office owns the dashboard and the gates",
+      "where": "ch6.md 6.2 paragraph 2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Amber, Red, Crisis ladder",
+      "meaning": "Response ladder: Amber freezes lines 5 and 10 and holds new commitments on lines 4, 6, 9; Red suspends lines 4, 6, 9 and trims lines 1 to 3 by 20%; Crisis suspends lines 1 to 6, 9 and 10 (shown on slide S11)",
+      "where": "ch6.md Table 6.7, column 'Budget action'",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "560 million baht, 2,760 million gross ceiling, 560 million a year, 6.6 percent against 7.0, 34.6 percent against 35.5, five gates (notes)",
+      "meaning": "Same values as the cards",
+      "where": "ch5.md Tables 5.8, 5.9, 5.10, 5.11; ch6.md Table 6.2",
+      "cite": "team calculation; team proposal"
+    }
+  ]
+}

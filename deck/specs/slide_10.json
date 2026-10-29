@@ -1,0 +1,258 @@
+{
+  "n": 10,
+  "id": "S10",
+  "kind": "core",
+  "layout": "gantt_org",
+  "title": "Implementation + organization",
+  "section": "6.1–6.2 · Roadmap and organization",
+  "status": "NEW",
+  "seconds": 50,
+  "presenter": "P5",
+  "headline": "We propose to release money in five gates from 15 December 2026, inside a ฿560 million net-new cap; a failed gate holds or cuts the next release.",
+  "body": {
+    "months": [
+      "Q4 26",
+      "Q1 27",
+      "Q2 27",
+      "Q3 27",
+      "Q4 27",
+      "Q1 28"
+    ],
+    "rows": [
+      {
+        "label": "Data-law (PDPA) set-up (S1)",
+        "start": 0.67,
+        "end": 1.33,
+        "tone": "slate"
+      },
+      {
+        "label": "Baseline research (S2–S6)",
+        "start": 1.0,
+        "end": 2.0,
+        "tone": "teal"
+      },
+      {
+        "label": "Opening launches",
+        "start": 1.0,
+        "end": 3.0,
+        "tone": "gold"
+      },
+      {
+        "label": "The 1 BIZ pilot (P5)",
+        "start": 1.0,
+        "end": 3.0,
+        "tone": "slate"
+      },
+      {
+        "label": "Gen Z and tourist programmes",
+        "start": 2.0,
+        "end": 5.0,
+        "tone": "maroon"
+      },
+      {
+        "label": "Year-end season",
+        "start": 4.0,
+        "end": 5.0,
+        "tone": "maroon"
+      }
+    ],
+    "gates": [
+      {
+        "label": "G0 15 Dec 2026",
+        "at": 0.82,
+        "release": "First ฿155m (of ฿310m)"
+      },
+      {
+        "label": "G1 31 Mar 2027",
+        "at": 2.0,
+        "release": "฿105m Gen Z, CENTRAL X"
+      },
+      {
+        "label": "G2 30 Jun 2027",
+        "at": 3.0,
+        "release": "฿50m tourist programme"
+      },
+      {
+        "label": "G3 30 Sep 2027",
+        "at": 4.0,
+        "release": "Year-end ฿800m gross"
+      },
+      {
+        "label": "G4 31 Jan 2028",
+        "at": 5.33,
+        "release": "Decides FY2028 repeat"
+      }
+    ],
+    "org": {
+      "top": "CPN chief marketing officer (CMO), plan sponsor [Proposed]",
+      "units": [
+        {
+          "name": "Plan Office",
+          "role": "Owns the dashboard and the gates"
+        },
+        {
+          "name": "Six squads",
+          "role": "Own the objectives, one function leads"
+        },
+        {
+          "name": "Finance",
+          "role": "Owns F1; reruns model in 5 working days"
+        },
+        {
+          "name": "Marketing Council",
+          "role": "Monthly; moves money in a control state"
+        },
+        {
+          "name": "Risk Management Committee",
+          "role": "Existing CPN body; quarterly readings"
+        }
+      ]
+    }
+  },
+  "notes": "We propose releasing money in five gates from 15 December 2026. Net-new spend is capped at 560 million baht. A failed gate holds or cuts the next release. Gates zero and one test readiness: set-up and baseline. From gate two, we test results. Gate zero releases the first 155 million baht for Gen Z, tourist and CENTRAL X programmes. Gates one and two release the second half; gate three, the year-end season. Gate four, on 31 January 2028, decides the 2028 repeat. A proposed Plan Office under CPN's chief marketing officer owns the dashboard and the gates. Our sixth speaker covers the risks.",
+  "sources": [
+    "team proposal (Tables 6.1, 6.2, 6.4)",
+    "Central Pattana, n.d.-c",
+    "Central Pattana Investor Relations, 2026, pp. 62–63"
+  ],
+  "facts": [
+    {
+      "on_slide": "five gates, G0 to G4",
+      "meaning": "Stage gates G0 (15 Dec 2026), G1 (31 Mar 2027), G2 (30 Jun 2027), G3 (30 Sep 2027), G4 (31 Jan 2028); team proposal",
+      "where": "ch6.md 6.1, Table 6.2, column 'Gate and date'",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "G0 15 Dec 2026 ... G4 31 Jan 2028",
+      "meaning": "Gate dates on a six-column axis (Q4 26 to Q1 28; position 0 is 1 Oct 2026 and each column is one quarter): G0 at 0.82 (15 Dec 2026); G1, G2 and G3 on the column edges 2.0, 3.0 and 4.0 (31 Mar, 30 Jun, 30 Sep 2027); G4 at 5.33, one third into Q1 28 (31 Jan 2028)",
+      "where": "ch6.md Table 6.1 'Gate' column and Table 6.2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "฿560 million net-new cap",
+      "meaning": "Net-new spend is capped at ฿560 million for the year, ฿55, ฿255, ฿130 and ฿120 million by quarter; unspent amounts do not carry forward",
+      "where": "ch6.md 6.1, release rule 1 (Table 5.9); ch5.md Table 5.9 row 'Net-new spend charged to SG&A'",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "failed gate holds or cuts the next release",
+      "meaning": "Table 6.2 column 'Held or cut if failed'",
+      "where": "ch6.md Table 6.2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "First ฿155m (of ฿310m) (G0)",
+      "meaning": "At G0 the first ฿155 million of the ฿310 million in budget lines 4, 6 and 7 (Gen Z content, tourist programme, CENTRAL X and The 1 O2O incentives), released in two halves; G0 also approves the envelope of ฿2,760 million gross and ฿560 million net-new, which the chip no longer names",
+      "where": "ch6.md Table 6.2 row G0, 'Released if passed'; 6.1 release rule 2; ch4.md budget table lines 4, 6, 7 (150 + 100 + 60 = 310)",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "฿105m Gen Z, CENTRAL X (G1)",
+      "meaning": "Second tranche of lines 4 (Gen Z content, fandom, creator and Pride programme) and 7 (CENTRAL X and The 1 O2O incentives) at 31 Mar 2027",
+      "where": "ch6.md Table 6.2 row G1; 6.1 release rule 2; ch4.md budget table lines 4 and 7",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "฿50m tourist programme (G2)",
+      "meaning": "Second tranche of line 6 (tourist programme for India, Gulf and Europe) at 30 Jun 2027, if the registrant data support it",
+      "where": "ch6.md Table 6.2 row G2; 6.1 release rule 2; ch4.md budget table line 6",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Year-end ฿800m gross (G3)",
+      "meaning": "At G3 (30 Sep 2027) the year-end season, line 3, ฿800 million, is released; this is the gross line amount, while the Q4 net-new of ฿120 million is a separate figure inside the ฿560 million cap and is given only in the notes",
+      "where": "ch6.md Table 6.2 row G3; Table 6.1 row Q4 2027; ch4.md budget table line 3",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "800 million gross, 120 million of net-new (notes, G3)",
+      "meaning": "Line 3 (year-end season) ฿800 million and Q4 net-new of ฿120 million released at G3",
+      "where": "ch6.md Table 6.2 row G3; Table 6.1 row Q4 2027",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Decides FY2028 repeat (G4); Gate four, on 31 January 2028, decides the 2028 repeat (notes)",
+      "meaning": "At G4 (31 Jan 2028) a FY2028 repeat at or below the same ceiling is released if the pass test holds; if it fails, FY2028 is limited to the tactics that passed (Chapter 5 assumes a repeat)",
+      "where": "ch6.md Table 6.2 row G4",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Data-law (PDPA) set-up (S1) bar, Dec 2026 to 31 Jan 2027",
+      "meaning": "Personal Data Protection Act (PDPA) set-up starts in December and S1 is done by 31 Jan",
+      "where": "ch6.md Table 6.1 rows Q4 2026 and Q1 2027; ch4.md S1",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Baseline research (S2–S6) bar, Q1 27",
+      "meaning": "Baseline S2 to S6, Jan-Mar 2027",
+      "where": "ch6.md Table 6.1 row Q1 2027",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Opening launches bar, Q1-Q2",
+      "meaning": "Line 5 main spend window Q1-Q2 (line number not shown on the slide); launch spend only after CPN confirms each date",
+      "where": "ch4.md budget table line 5; ch6.md 6.1 release rule 3",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "The 1 BIZ pilot (P5) bar, Q1 to end-June",
+      "meaning": "P5 and R3 control-store pilots start in Q1; P5 read-out end-June (the bar runs to the read-out)",
+      "where": "ch6.md Table 6.1 rows Q1 and Q2 2027",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Gen Z and tourist programmes bar, Q2-Q4",
+      "meaning": "Lines 4 (Gen Z content, fandom, creator and Pride programme) and 6 (tourist programme) main spend window Q2-Q4",
+      "where": "ch4.md budget table lines 4 and 6",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Year-end season bar, Q4",
+      "meaning": "Line 3 main spend window Q4 (line number not shown on the slide)",
+      "where": "ch4.md budget table line 3; ch6.md Table 6.1 row Q4 2027",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "CPN chief marketing officer (CMO), plan sponsor [Proposed]; Plan Office (and 'CPN's chief marketing officer' in notes)",
+      "meaning": "CPN's CMO sponsors the plan through a Plan Office that owns the dashboard and the gates; the CMO is a CPN executive, not a member of the team",
+      "where": "ch6.md 6.2 paragraphs 1-2",
+      "cite": "team proposal [Proposed]"
+    },
+    {
+      "on_slide": "Six squads",
+      "meaning": "Six squads own the objectives (Table 6.4), each led by one function",
+      "where": "ch6.md 6.2 paragraph 2, Table 6.4",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Finance owns F1; reruns model in 5 working days",
+      "meaning": "Within five working days of each results release Finance reruns the model",
+      "where": "ch6.md 6.2 paragraph 2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Marketing Council, monthly",
+      "meaning": "CMO chairs; meets monthly to move money within a control state",
+      "where": "ch6.md 6.2 paragraph 2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk Management Committee, existing CPN body, quarterly readings",
+      "meaning": "CPN's existing CEO-chaired Risk Management Committee (not a new committee); the Plan Office gives it the Table 6.6 readings each quarter",
+      "where": "ch6.md 6.2 paragraph 2",
+      "cite": "Central Pattana, n.d.-c; Central Pattana Investor Relations, 2026, pp. 62–63"
+    },
+    {
+      "on_slide": "155 million, 105 million, 50 million, 560 million, 15 December 2026, 31 March, 31 January 2028 (notes)",
+      "meaning": "Same values as the gate rows above",
+      "where": "ch6.md Table 6.2 and 6.1",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Gates zero and one test readiness; from gate two, we test results (notes)",
+      "meaning": "Table 6.2 pass tests: G0 and G1 test set-up and baseline (Plan Office and squad leads named, S1 data agreement and consent, agency contracted, P1 decision, baseline report delivered, plus the FY2026 profit check); from G2 the tests are results (P5 lift, S7 revenue per baht, M2 registrant share at G2; Gen Z visits per active member at G3; uplift run-rate at G4)",
+      "where": "ch6.md Table 6.2, column 'Pass test (all must hold)', rows G0 to G4",
+      "cite": "team proposal"
+    }
+  ]
+}

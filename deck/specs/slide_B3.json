@@ -1,0 +1,351 @@
+{
+  "n": 15,
+  "id": "B3",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "Tactics backup",
+  "section": "Backup · Sections 4.3–4.5",
+  "status": "NEW",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "The proposed FY2027 ceilings total ฿2,760 million over 11 lines, 5.2% of FY2025 revenue, a team proposal and not CPN guidance.",
+  "body": {
+    "columns": [
+      [
+        {
+          "type": "kpis",
+          "items": [
+            {
+              "value": "2,760",
+              "label": "THB million, lines 1 to 11"
+            },
+            {
+              "value": "1,900",
+              "label": "lines 1 to 3: flagship windows"
+            },
+            {
+              "value": "860",
+              "label": "lines 4 to 11: new and re-weighted"
+            },
+            {
+              "value": "5.2%",
+              "label": "of FY2025 total revenue"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "[Proposed] FY2027 ceilings (THB million)",
+          "cols": [
+            "Line",
+            "Tactic",
+            "THB m",
+            "Objectives",
+            "Window"
+          ],
+          "widths": [
+            0.07,
+            0.5,
+            0.1,
+            0.17,
+            0.16
+          ],
+          "rows": [
+            [
+              "1",
+              "Great Chinese New Year with Central Retail",
+              "500",
+              "M3, F1",
+              "Q1"
+            ],
+            [
+              "2",
+              "Summer Fest 2027 including Songkran",
+              "600",
+              "M1, M3",
+              "Q1–Q2"
+            ],
+            [
+              "3",
+              "Year-end season including Countdown",
+              "800",
+              "M1, M3, F1",
+              "Q4"
+            ],
+            [
+              "4",
+              "Gen Z content, fandom, creator and Pride programme",
+              "150",
+              "M1",
+              "Q2–Q4"
+            ],
+            [
+              "5",
+              "Opening launches: The Orchard, The Central Phaholyothin, CenTRal cENtrAL",
+              "250",
+              "M1, F1",
+              "Q1–Q2"
+            ],
+            [
+              "6",
+              "Tourist programme for India, Gulf and Europe",
+              "100",
+              "M2",
+              "Q2–Q4"
+            ],
+            [
+              "7",
+              "CENTRAL X and The 1 O2O incentives",
+              "60",
+              "M3",
+              "Q1–Q4"
+            ],
+            [
+              "8",
+              "The 1 BIZ tenant programme",
+              "200",
+              "M4",
+              "Q1–Q4"
+            ],
+            [
+              "9",
+              "LEAD Year 9 and Thai-brand pop-ups",
+              "30",
+              "M1, M4",
+              "Q1–Q3"
+            ],
+            [
+              "10",
+              "Sustainability storytelling",
+              "50",
+              "M5",
+              "Q2–Q4"
+            ],
+            [
+              "11",
+              "Marketing research",
+              "20",
+              "M1–M5",
+              "Q1–Q4"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "title": "[Proposed] Release rules (Section 6.1)",
+          "text": "Lines 4, 6 and 7 (฿310 million) are released in two halves: ฿155 million at G0, ฿105 million (lines 4 and 7) at G1, and ฿50 million (line 6) at G2 if the registrant data support it. Line 5 (฿250 million) is released opening by opening, after CPN confirms the date."
+        }
+      ],
+      [
+        {
+          "type": "bullets",
+          "title": "Channels (Sections 4.3 and 4.4)",
+          "items": [
+            "CPN's own: Central Life X app, LINE account Central Life, CENTRAL X (Scan Receipt at 44 centres).",
+            "CPN Serve is a tenant app; whether CENTRAL X replaced Central Life X is not established.",
+            "[Proposed] CENTRAL X as the single app front door (D4), with Gen Z missions added (P7).",
+            "The 1 Tourist counters at 14 centres; free welcome package, discounts up to 40%, which CPN may change.",
+            "[Proposed] Gen Z media weighted to TikTok, YouTube and LINE; creator briefs tied to CENTRAL X registration.",
+            "[Proposed] Tourist partners and a TAT Diwali event: Gulf from Q2, Europe from Q3, India from Q4 (D3, R5).",
+            "[Proposed] Pilot enrolling Malaysian shoppers at Central i-City into The 1 Tourist in Q2 (D5)."
+          ]
+        },
+        {
+          "type": "table",
+          "title": "[Proposed] FY2027 campaign calendar",
+          "cols": [
+            "Window",
+            "Programme",
+            "Objectives",
+            "2025–26 comparator"
+          ],
+          "widths": [
+            0.11,
+            0.37,
+            0.14,
+            0.38
+          ],
+          "rows": [
+            [
+              "Jan–Feb",
+              "Great Chinese New Year with Central Retail",
+              "M3, F1",
+              "30 Jan–1 Mar 2026; ฿600 million, joint with Central Retail"
+            ],
+            [
+              "Mar–May",
+              "Summer Fest 2027 with Songkran as a module; Gen Z stages",
+              "M1, M3",
+              "13 Mar–10 May 2026; ฿600 million"
+            ],
+            [
+              "Jun",
+              "Pride For All with a disclosed creator network",
+              "M1",
+              "30 May–30 Jun 2026; no budget stated"
+            ],
+            [
+              "Jul–Sep",
+              "LEAD Year 9 sandbox; State Your Style successor; first milestone report",
+              "M1, M4, M5",
+              "LEAD sandbox 20–26 Jul; State Your Style 3 Sep–4 Oct 2026"
+            ],
+            [
+              "Oct–Nov",
+              "India programme with TAT; China Golden Week campaign",
+              "M2",
+              "Diwali and Golden Week campaign announced for Oct 2025"
+            ],
+            [
+              "Nov–Dec",
+              "Year-end season with Countdown on 31 December 2027",
+              "M1, M3, F1",
+              "Magical Stars over ฿800 million (as reported); Countdown 2026 over ฿500 million"
+            ],
+            [
+              "Rolling",
+              "Opening campaigns for three FY2027 openings; always-on creator content",
+              "M1, F1",
+              "Opening targets (Central Pattana, 2026e, 2026g)"
+            ]
+          ]
+        }
+      ]
+    ]
+  },
+  "notes": "Backup slide, not presented. Budget lines 1 to 11 are ceilings set against disclosed comparators; lines 1 to 3 sum to 1,900 and lines 4 to 11 to 860. The release rules are in Section 6.1.",
+  "sources": [
+    "Central Pattana, 2026s",
+    "Central Pattana, 2026n",
+    "Nation Thailand, 2025c",
+    "team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "฿2,760 million; 11 lines",
+      "meaning": "Total FY2027 marketing ceiling, lines 1 to 11, a team proposal, not CPN guidance",
+      "where": "ch4.md 4.5 budget table, Total row",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "1,900 (lines 1 to 3: flagship windows); 860 (lines 4 to 11: new and re-weighted)",
+      "meaning": "Subtotals as the report words them: flagship windows, and 'New and re-weighted programmes'. Line 8 (The 1 BIZ, 200) is an existing programme held flat in the base case, so 860 is not all net-new: 860 less the 200 in the base and the 100 line 1 cut is the 560 net-new",
+      "where": "ch4.md 4.5 budget table, Subtotal rows and line 8; ch5.md 5.1 and Table 5.9",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "5.2% of FY2025 total revenue",
+      "meaning": "2,760 against FY2025 total revenue of 53,009",
+      "where": "ch4.md 4.5 paragraph before the table and Total row",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "Line amounts 500, 600, 800, 150, 250, 100, 60, 200, 30, 50, 20",
+      "meaning": "FY2027 ceilings by line, THB million",
+      "where": "ch4.md 4.5 budget table, column FY2027 ceiling",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Objective tags and main spend windows by line",
+      "meaning": "Objectives (M1 to M5, F1) and windows (Q1 to Q4) as printed per line",
+      "where": "ch4.md 4.5 budget table, columns Objectives and Main spend window",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "[Proposed] Release rules; ฿310 million; ฿155 million at G0; ฿105 million at G1; ฿50 million at G2",
+      "meaning": "Team proposal (the report marks the four release rules [Proposed]): lines 4, 6 and 7 are released in two halves; second half of lines 4 and 7 at G1, second half of line 6 at G2 if registrant data support it",
+      "where": "ch4.md 4.5 paragraph before the table; ch6.md 6.1 release rules and Table 6.2",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Line 5 (฿250 million) released opening by opening after CPN confirms the date",
+      "meaning": "Third release rule",
+      "where": "ch6.md 6.1 release rules, third",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Central Life X app, LINE account Central Life; CENTRAL X Scan Receipt at 44 centres; CPN Serve tenant app",
+      "meaning": "CPN's own shopper and tenant channels; Scan Receipt runs at 44 centres; whether CENTRAL X replaced Central Life X is not established",
+      "where": "ch4.md 4.3 paragraph 2",
+      "cite": "Central Pattana Investor Relations, 2026, pp. 67, 99; Central Pattana, 2026n"
+    },
+    {
+      "on_slide": "CENTRAL X as the single app front door (D4); Gen Z missions (P7)",
+      "meaning": "Tactics D4 and P7",
+      "where": "ch4.md 4.3 table row D4; 4.1 table row P7",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "The 1 Tourist counters at 14 centres; welcome package; discounts of up to 40%; CPN may change",
+      "meaning": "Free welcome package for registrants with discounts up to 40%, which CPN may change without notice",
+      "where": "ch4.md 4.2 paragraph 2; 4.3 paragraph 2",
+      "cite": "Central Pattana, 2026k"
+    },
+    {
+      "on_slide": "TikTok, YouTube and LINE; creator brief tied to a CENTRAL X registration",
+      "meaning": "Team weights Gen Z media to these platforms [Proposed]",
+      "where": "ch4.md 4.4 paragraph 2",
+      "cite": "team proposal; DataReportal, 2025"
+    },
+    {
+      "on_slide": "Gulf from Q2, Europe from Q3, India from Q4 (D3, R5)",
+      "meaning": "Partner-card packages by market; card and airline partners after the Fazaa pilot, a TAT Diwali event, new European routes",
+      "where": "ch4.md 4.2 row R5; 4.3 row D3",
+      "cite": "Central Pattana, 2025g; Central Group, 2025"
+    },
+    {
+      "on_slide": "Malaysian shoppers at Central i-City, pilot in Q2 (D5)",
+      "meaning": "Pilot enrolment into The 1 Tourist before Thai trips",
+      "where": "ch4.md 4.3 row D5",
+      "cite": "team proposal; Nation Thailand, 2026g, 2026i"
+    },
+    {
+      "on_slide": "Calendar windows and programmes",
+      "meaning": "FY2027 programme windows Jan-Feb to Rolling as printed",
+      "where": "ch4.md 4.4 calendar table",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "30 Jan-1 Mar 2026; ฿600 million, joint with Central Retail",
+      "meaning": "Great Chinese New Year 2026 comparator",
+      "where": "ch4.md 4.4 calendar table, Jan-Feb; budget line 1",
+      "cite": "Thai Publica, 2026"
+    },
+    {
+      "on_slide": "13 Mar-10 May 2026; ฿600 million",
+      "meaning": "Summer Fest 2026 comparator",
+      "where": "ch4.md 4.4 calendar table, Mar-May",
+      "cite": "Central Pattana, 2026s"
+    },
+    {
+      "on_slide": "30 May-30 Jun 2026; no budget stated",
+      "meaning": "Pride For All 2026 comparator",
+      "where": "ch4.md 4.4 calendar table, Jun",
+      "cite": "Central Pattana, 2026l"
+    },
+    {
+      "on_slide": "LEAD sandbox 20-26 Jul; State Your Style 3 Sep-4 Oct 2026",
+      "meaning": "2026 comparators for Jul-Sep",
+      "where": "ch4.md 4.4 calendar table, Jul-Sep",
+      "cite": "Central Pattana, 2026o; Central Pattana, 2026j"
+    },
+    {
+      "on_slide": "Diwali and Golden Week campaign announced for Oct 2025",
+      "meaning": "Comparator for Oct-Nov",
+      "where": "ch4.md 4.4 calendar table, Oct-Nov",
+      "cite": "Central Group, 2025"
+    },
+    {
+      "on_slide": "Magical Stars over ฿800 million (as reported); Countdown 2026 over ฿500 million",
+      "meaning": "Magical Stars reported as CPN's own spend while the article names Disney and TAT as collaborators; Countdown 2026 at 13 landmarks",
+      "where": "ch4.md 4.4 calendar table, Nov-Dec; budget line 3",
+      "cite": "Nation Thailand, 2025c; The Thaiger, 2025"
+    },
+    {
+      "on_slide": "Opening targets (Central Pattana, 2026e, 2026g)",
+      "meaning": "Opening campaigns follow CPN's opening targets",
+      "where": "ch4.md 4.4 calendar table, Rolling",
+      "cite": "Central Pattana, 2026e; Central Pattana, 2026g"
+    }
+  ]
+}

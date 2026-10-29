@@ -1,0 +1,139 @@
+{
+  "n": 3,
+  "id": "S3",
+  "kind": "core",
+  "layout": "swot_issues",
+  "title": "Situation recap",
+  "section": "2.2, 2.6 · Situation analysis",
+  "status": "RECAP",
+  "seconds": 35,
+  "presenter": "P2",
+  "headline": "CPN's reach of 44 shopping centres at end-2025 and about 510 million visits a year is strong, but three issues need attention.",
+  "body": {
+    "swot": {
+      "S": [
+        "44 centres (FY2025), 16 community malls, 23 provinces",
+        "About 510 million visits a year; The 1 loyalty data"
+      ],
+      "W": [
+        "Relies on physical retail (team assessment)",
+        "Costly to keep a premium experience (team assessment)"
+      ],
+      "O": [
+        "Tourists beyond China: South Asia and long-haul",
+        "Net Zero 2050 as a point of difference"
+      ],
+      "T": [
+        "Rivals: Siam Piwat, The Mall Group",
+        "Household debt 85.9% of GDP (Q1 2026); credit is tight"
+      ]
+    },
+    "issues": [
+      {
+        "title": "E-commerce takes retail share",
+        "why": "Online share of Thai retail sales: 20.45% to 23.50%, 2022 to 2024"
+      },
+      {
+        "title": "Tourism depends on China",
+        "why": "Chinese arrivals fell 33.55% y/y in 2025, rose 16.05% in Jan–Aug 2026"
+      },
+      {
+        "title": "Capital-heavy mega-projects",
+        "why": "The Central Phaholyothin alone is a ฿21 billion investment"
+      }
+    ]
+  },
+  "notes": "CPN's reach is strong: it ended 2025 with 44 shopping centres and 16 community malls across 23 provinces. Weaknesses, in our assessment: reliance on physical retail and the cost of a premium experience. Three issues need attention: e-commerce, tourism that leans on China, and heavy investment in mega-projects. Chinese arrivals fell 33.55 percent year on year in 2025 and rose 16.05 percent in January to August 2026.",
+  "sources": [
+    "Central Pattana, 2026a, 2026b, 2026c",
+    "Central Retail Corporation, 2025",
+    "Nation Thailand, 2025a, 2026g, 2026l",
+    "Government Public Relations Department, 2026"
+  ],
+  "facts": [
+    {
+      "on_slide": "44 shopping centres (end-2025 / FY2025), 16 community malls",
+      "meaning": "Network at FY2025 year-end (45 and 16 by Q2 2026 is shown on S6, dated there)",
+      "where": "sec23_final.txt 2.2.1 Strengths item 2; ch4.md Section 4.3 (CPN ended FY2025 with 44 and 16); corrections.md Facts",
+      "cite": "Central Pattana, 2026a, 2026c"
+    },
+    {
+      "on_slide": "23 provinces",
+      "meaning": "Footprint (not 20)",
+      "where": "sec23_final.txt 2.2.1 Strengths item 2; corrections.md (CPN corporate presentation 4Q2025)",
+      "cite": "Central Pattana, 2026c"
+    },
+    {
+      "on_slide": "About 510 million visits a year",
+      "meaning": "Company-reported annual visits ('over' 510 million; 70 million or more international)",
+      "where": "sec23_final.txt 2.2.1 Strengths item 3; ch4.md Section 4.3",
+      "cite": "Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "The 1 loyalty data",
+      "meaning": "The 1 ecosystem enables segmentation, personalised promotions and loyalty marketing",
+      "where": "sec23_final.txt 2.2.1 Strengths item 4",
+      "cite": "Central Retail Corporation, 2025"
+    },
+    {
+      "on_slide": "Relies on physical retail; Costly to keep a premium experience",
+      "meaning": "Weaknesses are the team's analytical observations, not CPN statements and not independently cited",
+      "where": "sec23_final.txt 2.2.2 Weaknesses, items 1 and 2",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "Tourists beyond China: South Asia and long-haul",
+      "meaning": "Opportunity: diversify beyond China toward South Asian and long-haul markets",
+      "where": "sec23_final.txt 2.2.3 Opportunities item 1; Section 3.2 item 2",
+      "cite": "Thai Examiner, 2026b (not shown on slide); team proposal"
+    },
+    {
+      "on_slide": "Net Zero 2050 as a point of difference",
+      "meaning": "Net Zero by 2050 commitment and sustainability-linked bond as a point of separation",
+      "where": "sec23_final.txt 2.2.3 Opportunities item 4",
+      "cite": "Central Pattana, 2024b (not shown on slide)"
+    },
+    {
+      "on_slide": "Rivals: Siam Piwat, The Mall Group (notes: rivals such as Siam Piwat and The Mall Group)",
+      "meaning": "Threat: intense competition; Siam Piwat, The Mall Group and others compete for the same customers and global brands (Section 2.3 profiles both)",
+      "where": "sec23_final.txt 2.2.4 Threats item 2; Section 2.3 Competition items 1 and 2",
+      "cite": "Inside Retail Asia, 2026 (not shown on slide)"
+    },
+    {
+      "on_slide": "85.9% of GDP (Q1 2026); credit is tight",
+      "meaning": "Thai household debt as a share of GDP in the first quarter of 2026, the latest figure the team confirmed (Section 2 of the report gives the same 85.9%, with 86.7% at Q4 2025 in brackets). It is a six-year low that SCB EIC attributes to restricted credit access, not to stronger household finances",
+      "where": "ch6.md Table 6.6 risk 2 (Household debt and consumer slowdown); sec23_final.txt 2.2.4 Threats item 3 and 2.6 (85.9% at Q1 2026; 86.7% at Q4 2025)",
+      "cite": "Nation Thailand, 2026l"
+    },
+    {
+      "on_slide": "20.45% to 23.50%, 2022 to 2024",
+      "meaning": "Online share of Thai retail sales rose from 20.45% to 23.50% between 2022 and 2024",
+      "where": "sec23_final.txt 2.1.3 Market Trends; Section 2.3; ch6.md Table 6.6 risk 1",
+      "cite": "Nation Thailand, 2025a"
+    },
+    {
+      "on_slide": "fell 33.55% y/y in 2025, rose 16.05% in Jan–Aug 2026 (notes: fell 33.55 percent year on year in 2025 and rose 16.05 percent in January to August 2026)",
+      "meaning": "China arrivals to Thailand fell 33.55% in 2025 (a year-on-year fall) and rose 16.05% in January–August 2026. Neither figure is a fall from the pre-pandemic peak, and the report gives no peak figure (Section 2 of the report now gives the same two figures; its earlier 'roughly 30% from their peak' wording was replaced on 29 Oct 2026)",
+      "where": "ch6.md Table 6.6 risk 3 (Tourism volatility, China) and Table 6.8 scenario W1; ch4.md Section 4.4 (China up 16.05% in January–August)",
+      "cite": "Government Public Relations Department, 2026; Nation Thailand, 2026g"
+    },
+    {
+      "on_slide": "฿21 billion",
+      "meaning": "Investment in The Central Phaholyothin, cited as an example of mega-project capital intensity (an investment issue in Section 2.6, not a footfall threat)",
+      "where": "sec23_final.txt 2.4 and Section 2.6 (Critical Issues)",
+      "cite": "Central Pattana, 2026b"
+    },
+    {
+      "on_slide": "three issues need attention",
+      "meaning": "Team's selection of three of the six issues in Section 2.6 (e-commerce, household debt, Bangkok saturation, overseas execution, capital intensity, tourism dependency) as the ones the plan has to take into account. The wording does not say the plan fixes them: for example, Chapter 5 judges the capital-expenditure limb of F1 on leverage only",
+      "where": "sec23_final.txt 2.6 Critical Issues; ch5.md Section 5.3 (capital-expenditure limb of F1)",
+      "cite": "team assessment"
+    },
+    {
+      "on_slide": "Four SWOT cells, two bullets each (notes: scale and data, opportunity, threats)",
+      "meaning": "Selection from the longer SWOT in Section 2.2",
+      "where": "sec23_final.txt 2.2.1 to 2.2.4",
+      "cite": "Section 2.2"
+    }
+  ]
+}

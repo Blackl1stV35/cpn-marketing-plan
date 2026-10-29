@@ -1,0 +1,205 @@
+{
+  "n": 6,
+  "id": "S6",
+  "kind": "core",
+  "layout": "channels_calendar",
+  "title": "Distribution + promotion",
+  "section": "4.3–4.4 · Marketing tactics",
+  "status": "NEW",
+  "seconds": 55,
+  "presenter": "P3",
+  "headline": "Our proposed FY2027 gross ceiling is ฿2,760 million, 5.2% of FY2025 revenue, built around three dated openings and three flagship seasons.",
+  "body": {
+    "hub": "CPN",
+    "nodes": [
+      {
+        "name": "Mall network",
+        "note": "45 centres, 16 community malls (Q2 2026)"
+      },
+      {
+        "name": "Opening 1Q27",
+        "note": "The Orchard; The Central Phaholyothin"
+      },
+      {
+        "name": "Opening 2Q27",
+        "note": "CenTRal cENtrAL retail (Siam Square)"
+      },
+      {
+        "name": "CENTRAL X app",
+        "note": "[Proposed] single front door (D4)"
+      },
+      {
+        "name": "The 1 Tourist counters",
+        "note": "14 centres; [Proposed] focus spend there"
+      }
+    ],
+    "calendar": {
+      "months": [
+        "J",
+        "F",
+        "M",
+        "A",
+        "M",
+        "J",
+        "J",
+        "A",
+        "S",
+        "O",
+        "N",
+        "D"
+      ],
+      "bars": [
+        {
+          "label": "Great Chinese New Year ฿500m",
+          "start": 0,
+          "end": 2,
+          "note": "Jan–Feb"
+        },
+        {
+          "label": "Summer Fest + Songkran ฿600m",
+          "start": 2,
+          "end": 5,
+          "note": "Mar–May"
+        },
+        {
+          "label": "Opening launches ฿250m",
+          "start": 0,
+          "end": 6,
+          "note": "Q1–Q2"
+        },
+        {
+          "label": "Tourist programme ฿100m",
+          "start": 3,
+          "end": 12,
+          "note": "Q2–Q4"
+        },
+        {
+          "label": "Year-end + Countdown ฿800m",
+          "start": 10,
+          "end": 12,
+          "note": "Nov–Dec"
+        }
+      ]
+    },
+    "budget": {
+      "value": "฿2,760m",
+      "label": "[Proposed] gross ceiling, 5.2% of FY2025 revenue; bars show 5 of 11 budget lines (฿2,250m)"
+    }
+  },
+  "notes": "By Q2 2026, CPN had 45 shopping centres and 16 community malls. Three openings are dated for 2027: The Orchard and The Central Phaholyothin in the first quarter, CenTRal cENtrAL retail in the second. We propose CENTRAL X as the single app front door, and tourist spend focused where The 1 Tourist counters are. Promotion has three flagship seasons: Great Chinese New Year gets 500 million baht, Summer Fest 600 million, and the year-end season 800 million. Our proposed FY2027 gross ceiling is 2,760 million baht. By our calculation, that is 5.2 percent of FY2025 revenue. Our fourth speaker takes research and indicators.",
+  "sources": [
+    "Central Pattana, 2026g, pp. 2, 7 (CPN MD&A 2Q26)",
+    "Central Pattana, 2026e, 2026f, 2026k",
+    "Central Pattana, 2026a; team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "45 centres, 16 community malls (Q2 2026)",
+      "meaning": "By Q2 2026 CPN had 45 shopping centres and 16 community malls (44 and 16 at FY2025 year-end)",
+      "where": "ch4.md section 4.3, paragraph 2; corrections.md Facts",
+      "cite": "Central Pattana, 2026g, p. 2"
+    },
+    {
+      "on_slide": "The Orchard, Opening 1Q27",
+      "meaning": "The Orchard, an extension of Central Northville, due in Q1 2027; a CPN target, not a completion",
+      "where": "ch4.md section 4.1, paragraph 2 and section 4.3, paragraph 2",
+      "cite": "Central Pattana, 2026e"
+    },
+    {
+      "on_slide": "The Central Phaholyothin, Opening 1Q27",
+      "meaning": "The project the 2Q26 MD&A lists as \"The Central\" (about 100,000 sq m NLA) at 1Q27, which the team reads as The Central Phaholyothin; stated plainly per team decision of 29 Oct 2026",
+      "where": "ch4.md section 4.3, paragraph 2; ch6.md section 6.1; corrections.md Facts",
+      "cite": "Central Pattana, 2026g, p. 7 (CPN MD&A 2Q26)"
+    },
+    {
+      "on_slide": "CenTRal cENtrAL retail, Opening 2Q27 (Siam Square)",
+      "meaning": "CenTRal cENtrAL retail targeted for 2Q27 in Siam Square",
+      "where": "ch4.md section 4.1, paragraph 2 and section 4.3, paragraph 2",
+      "cite": "Central Pattana, 2026f, 2026g, p. 7"
+    },
+    {
+      "on_slide": "offices arrive in the fourth quarter, not a launch",
+      "meaning": "CenTRal cENtrAL offices are at 4Q27 and are not a launch",
+      "where": "ch4.md section 4.3, paragraph 2; table row D1",
+      "cite": "Central Pattana, 2026g, p. 7"
+    },
+    {
+      "on_slide": "three dated openings",
+      "meaning": "The three dated FY2027 openings: The Orchard, The Central Phaholyothin, CenTRal cENtrAL retail",
+      "where": "ch4.md table row D1; ch6.md Table 6.3 row K14",
+      "cite": "Central Pattana, 2026e, 2026g, p. 7"
+    },
+    {
+      "on_slide": "CENTRAL X app [Proposed] single front door (D4)",
+      "meaning": "Proposed tactic D4: CENTRAL X as the single app front door",
+      "where": "ch4.md section 4.3 table row D4",
+      "cite": "Central Pattana, 2026n"
+    },
+    {
+      "on_slide": "The 1 Tourist counters, 14 centres, [Proposed] focus spend",
+      "meaning": "The 1 Tourist counters run at 14 centres; proposed tactic D2 concentrates tourist welcome-package and partner spend there",
+      "where": "ch4.md section 4.3, paragraph 3 and table row D2",
+      "cite": "Central Pattana, 2026k"
+    },
+    {
+      "on_slide": "Jan–Feb, Great Chinese New Year ฿500m",
+      "meaning": "Window Jan–Feb with Central Retail; budget line 1 ceiling THB 500 million",
+      "where": "ch4.md section 4.4 table row Jan–Feb; budget table line 1",
+      "cite": "team proposal; comparator Thai Publica, 2026"
+    },
+    {
+      "on_slide": "Mar–May, Summer Fest + Songkran ฿600m",
+      "meaning": "Summer Fest 2027 with Songkran as a module; budget line 2 ceiling THB 600 million",
+      "where": "ch4.md section 4.4 table row Mar–May; budget table line 2",
+      "cite": "team proposal; comparator Central Pattana, 2026s"
+    },
+    {
+      "on_slide": "Opening launches ฿250m, Q1–Q2",
+      "meaning": "Budget line 5 ceiling THB 250 million, main spend window Q1–Q2 (the line number is kept here and on backup B3, not on the slide)",
+      "where": "ch4.md budget table line 5",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Tourist programme ฿100m, Q2–Q4",
+      "meaning": "Budget line 6 ceiling THB 100 million for India, Gulf and Europe, main spend window Q2–Q4 (the line number is kept here and on backup B3, not on the slide)",
+      "where": "ch4.md budget table line 6",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Nov–Dec, Year-end + Countdown ฿800m",
+      "meaning": "Year-end season with Countdown on 31 December 2027; budget line 3 ceiling THB 800 million",
+      "where": "ch4.md section 4.4 table row Nov–Dec; budget table line 3",
+      "cite": "team proposal; comparator Nation Thailand, 2025c"
+    },
+    {
+      "on_slide": "bars show 5 of 11 budget lines (฿2,250m)",
+      "meaning": "The five calendar bars are budget lines 1, 2, 5, 6 and 3 (500 + 600 + 250 + 100 + 800 = THB 2,250 million); lines 4, 7, 8, 9, 10 and 11 (150 + 60 + 200 + 30 + 50 + 20 = THB 510 million) are not drawn; 2,250 + 510 = 2,760",
+      "where": "ch4.md section 4.5 budget table, lines 1 to 11, column FY2027 ceiling",
+      "cite": "team proposal; team calculation"
+    },
+    {
+      "on_slide": "฿2,760m / 2,760 million baht",
+      "meaning": "Proposed FY2027 gross ceiling, total of budget lines 1 to 11 (THB million), a team proposal",
+      "where": "ch4.md budget table, total row",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "5.2%",
+      "meaning": "Total ceiling as a share of FY2025 total revenue of THB 53,009 million; team calculation",
+      "where": "ch4.md section 4.5 budget paragraph and budget table total row",
+      "cite": "Central Pattana, 2026a; team calculation"
+    },
+    {
+      "on_slide": "FY2025 / FY2027",
+      "meaning": "FY2025 total revenue base; FY2027 plan year",
+      "where": "ch4.md budget paragraph",
+      "cite": "Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "500 million / 600 million / 800 million baht (notes)",
+      "meaning": "Flagship ceilings for lines 1, 2 and 3",
+      "where": "ch4.md budget table lines 1 to 3",
+      "cite": "team proposal"
+    }
+  ]
+}

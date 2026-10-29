@@ -1,0 +1,95 @@
+REPORT TEXT AFTER THE CHANGE (Google Doc tab ch4ch5ch6_report, 29 Oct 2026). Table cells are one per line in reading order.
+
+===== SECTION 4.5 (age bands, baseline paragraph, PDPA paragraph, research table S1-S6) =====
+In the FY2025 One Report (a team text search finds no mention of Gen Z), the 2Q26 MD&A and the releases reviewed, CPN publishes no Gen Z share of footfall, age split of The 1 members, definition of a visit, CENTRAL X user count or definition of Gen Z (Central Pattana, 2026a, 2026n; Central Pattana Investor Relations, 2026).
+[Proposed] Age bands, defined once for the plan. The plan defines Gen Z and young adults as ages 18 to 29 (a team definition, not CPN's) and measures their visits in two ways. The intercept survey reaches only respondents aged 20 and over (the age of majority), whom the team treats as able to consent alone under the PDPA (younger respondents would need a guardian, s.20), so the plan uses it for ages 20 to 29. The 1 member data cover active members aged 18 to 29, so ages 18 and 19 are seen only there, and only as members (their visits as non-members are not measured). The only published comparator is DataReportal's 14.7% share of the population aged 13 to 24 (team sum of the 13–17 and 18–24 bands; DataReportal, 2025). That band is different from the plan band: it is wider at the young end, because it includes ages 13 to 17, whom the survey does not reach, and narrower at the old end, because it stops at 24 while the plan band runs to 29, so any comparison with it is indicative only. Table 5.2 row C1's 25% is a team assumption for the 18–29 band's share of visits. Research row S2 and Chapter 6 indicator K2 use the 18 to 29 band; research row S4 and indicator K1 use its 20 to 29 part, as a share of visitors aged 20 and over. Age bands above 29 are read beside both as a comparison.
+[Proposed] The team builds the baseline between 1 January and 31 March 2027. The1 Central Limited, which its privacy policy names as the company collecting the data (The1 Central Limited, n.d.-a), supplies aggregated outputs by age band (active members, visits and spend per member, CENTRAL X scans), which the team compares with the 14.7% population share of ages 13–24 as an indicative comparator only, for the reasons above. Five pilot centres supply entrance-counter totals and CPN's definition of a visit. An intercept survey of 1,500 respondents aged 20 and over, 300 per centre, is weighted to the footfall profile; its margin of error is about ±2.5 points at a 50% estimate, and the smallest detectable change between waves is about 3.6 points at a 50% base share and about 3.1 points at a 25% base share, borrowed for illustration from the team's assumed 18 to 29 share of visits in Table 5.2 row C1 and not an estimate of K1 (team calculation, simple random sampling, so minimums). The policy names the Data Protection Office, Central Group, as its contact, and whether The1 Central Limited is the data controller is left to the Thai-law reader below.
+[Proposed] Tourist research uses The 1 Tourist registrations as a self-selected panel, recording nationality at registration if it is not already recorded (Central Pattana, 2026k), aggregated spend by nationality from payment partners CPN names (WeChat Pay, Alipay and MasterCard; whether they can supply nationality-level spend is an assumption to test) (Central Pattana, 2025g), and exit surveys of 150 respondents per market group at six centres (±8 points per group, diagnostic only; team calculation), benchmarked against TAT figures (Nation Thailand, 2026f, 2026h).
+[Proposed] The M5 tracker runs one wave a quarter with 400 respondents per target segment, asking an open unaided question on which developers come to mind for caring about the environment. A vendor specification uses 300 respondents as the minimum and calls quarterly waves the most common cadence (Standard Insights, 2026). At 400 respondents the margin is ±4.9 points at 50% and the smallest detectable wave-to-wave change is 6.9 points (team calculation), so M5 targets are set above that after wave 0.
+[Proposed] The team read the Thai Royal Gazette text of the Personal Data Protection Act; no official English translation was found, so a Thai-law reader should confirm these points. Consent must be explicit and separate from other text (s.19), minors who cannot consent alone need a guardian (s.20), data collected from another source need notice within 30 days and consent (s.25), objections to direct marketing must be honoured (s.32), breaches are reported within 72 hours (s.37), and administrative fines reach ฿1 million, ฿3 million or ฿5 million by tier (Personal Data Protection Act, B.E. 2562, 2019). The PDPC fined a computer trading company ฿7 million in 2025 for weak security, a missing breach report and no data protection officer (Tilleke & Gibbins, 2025). CPN's CCTV notice lists security purposes, not people counting (Central Pattana, n.d.-a). The intercept survey reaches only respondents aged 20 and over, in every wave, whom the team treats as able to consent alone (the age of majority under the Civil and Commercial Code; s.20 asks for a guardian for minors).
+ID
+Task
+Objective · segment
+FY2027 timing
+Owner
+Method and evidence
+S1
+[Proposed] PDPA set-up: data-sharing agreement for aggregated The 1 extracts, impact assessment for The 1 BIZ analytics, separate marketing consent, 72-hour breach drill, notice before any camera-based counting; the S4 intercept survey limited to respondents aged 20 and over, in every wave
+All objectives
+Start December 2026; done by end-January
+Data Protection Office; CRM
+Personal Data Protection Act, B.E. 2562, 2019; The 1 policy: marketing on consent, profiling on legitimate interest (The1 Central Limited, n.d.-a); July 2026 draft guidance, not binding, proposes separate marketing consent (Tilleke & Gibbins, 2026)
+S2
+[Proposed] The 1 cohort analytics by age band: share of active members aged 18–29, visits and spend per member in that band (age bands above 29 are read beside it as a comparison), CENTRAL X scans; also the working-age and family cohorts that measure P2; and, from CENTRAL X registration and receipt-scan logs, the share of CENTRAL X event registrants who scan a receipt within 30 days (team analytics; baseline for Chapter 6 K4)
+M1, M3 · Gen Z; Primary segment (P2 measure)
+January–February; quarterly
+CRM and analytics
+Ages 13–24 are 14.7% of the population (DataReportal, 2025), an indicative comparator that is wider at the young end and narrower at the old end than the 18–29 band
+S3
+[Proposed] Footfall: CPN's definition of a visit; count-only entrance counters at five pilot centres, not cameras or Wi-Fi
+M1 · all segments
+January–March
+Operations
+Over 70 million international visits against 32.97 million arrivals give about 2.1 visits per arrival, indicative only, which suggests that a visit counts each entry (Central Pattana, 2026a; Nation Thailand, 2026j; team calculation and inference)
+S4
+[Proposed] Intercept survey: 1,500 respondents aged 20 and over, 300 per centre, weighted to footfall, reporting the 20–29 band; repeated quarterly
+M1 · Gen Z
+Baseline January–March; waves Q2–Q4
+Research and insights
+±2.5 points at 50%; detects 3.6 points at a 50% base share and 3.1 points at an illustrative 25% base share (team calculation)
+S5
+[Proposed] Tourist research: The 1 Tourist registrations, partner spend by nationality, exit surveys of 150 per group at six centres
+M2 · tourists
+Baseline Q1; repeat Q3
+Marketing; tourist desk
+Central Pattana, 2025g, 2026k; Nation Thailand, 2026f, 2026h
+S6
+[Proposed] M5 tracker: unaided and aided sustainability association, 400 respondents per segment per wave
+M5 · Gen Z, working adults
+Wave 0 Q1; waves Q2–Q4
+Research and insights; Sustainability
+Standard Insights, 2026; ±4.9 points (team calculation)
+S7
+[Proposed] Incrementality tests for each flagship: matched stores or weeks on The 1 transactions
+M3, F1 · all segments
+Each campaign
+Research and insights; Finance
+Company-reported results lack baselines: over 15 million participants and more than 33 million engagements (Central Pattana, 2026d); 429 million impressions and 10% tenant-sales growth (Central Pattana, 2026m)
+The budget below is a team proposal, not CPN guidance. CPN reports no marketing expense line separate from selling and administrative expenses (Central Pattana Investor Relations, 2026, p. 192), and its announced campaign budgets are headline figures, often joint with partners, so each line is a ceiling set against a disclosed comparator. Lines 1 to 3 hold the three flagship windows at or below the latest disclosed comparator; [Proposed] Songkran becomes a module of Summer Fest, and the Countdown is assumed inside the year-end season, which CPN does not confirm. Lines 4 to 11 add new programmes at stated fractions of comparators. [Proposed] Lines 4, 6 and 7 (฿310 million) are released in two halves, as Chapter 6 section 6.1 sets: the first half at gate G0; the second half of lines 4 and 7 (฿105 million) at gate G1, after the 90-day baseline report due by 31 March; and the second half of line 6 (฿50 million) only at gate G2 on 30 June, if the registrant data support it. The total is 5.2% of FY2025 total revenue of ฿53,009 million (Central Pattana, 2026a; team calculation) and feeds the Chapter 5 expense forecast.
+
+===== TABLE 5.2 ROW C1 (model assumption behind objective M1) =====
+Team assumption anchored to 2Q26 other income, 3% below 2Q25 (Central Pattana, 2026g, 2026p)
+C1
+M1 Gen Z and young-adult visits (ages 18 to 29)
+25% of visits x +10% frequency x 50% yield = 1.25% of organic R&S
+as base
+as base
+Share, frequency and yield are team assumptions: the 25% is the team's assumed share of visits made by the 18 to 29 band that Section 4.5 defines as Gen Z and young adults. CPN publishes no Gen Z share and Section 4.5 sets no visit-frequency KPI (Gen Z targets wait for the Q1 2027 baseline). The only published comparator is DataReportal's ages 13 to 24 (14.7% of the population; DataReportal, 2025; team sum), a different band, so the comparison is indicative only; at 14.7% the base-case uplift would be ฿264 million in FY2027E and ฿560 million in FY2028E, and FY2027E revenue growth 0.1 point lower (team calculation). Chapter 6 adopts the +10% frequency as a [Proposed] target (K2); it is set equal to the assumption and is not evidence for it
+C2
+
+===== TABLE 6.3 ROWS K1 AND K2 =====
+Data source
+K1 Share of visitors aged 20 and over who are aged 20–29 (the part of the 18–29 Gen Z and young-adult band that the survey reaches); the survey does not reach ages 18 and 19, which only the active-member data in K2 cover (Section 4.5)
+M1
+Intercept survey of 1,500 respondents aged 20 and over (300 per centre) weighted to entrance counts (S3, S4)
+To be established under 4.5 by 31 March 2027; no age-group split found in the documents reviewed; totals only (Central Pattana, 2026a). The only published comparator is ages 13–24 at 14.7% of the population (DataReportal, 2025), a different band, so comparisons with it are indicative
++4 points by the Q4 wave [Proposed; to be re-checked on the 20–29 baseline]; smallest detectable change 3.6 points at a 50% base and 3.1 points at a 25% base share, borrowed for illustration from the team's assumed 18–29 share of visits in Table 5.2 row C1 (team calculation, n = 1,500)
+Quarterly
+Research and insights
+Intercept survey; entrance counters at five pilot centres
+K2 Gen Z visits per active The 1 member
+M1
+Aggregated visits per active member in the 18–29 age band (the plan band; K1 covers only its 20–29 part, and the 13–24 comparator is a different band), per quarter (S2)
+To be established under 4.5 by 31 March 2027
++10% by Q4 on the Q1 baseline [Proposed]; +5% at G3
+Quarterly from Q2, as in S2
+CRM and analytics
+Aggregated extract from The1 Central Limited
+K3 India, Middle East and Europe share of tourist registrants
+M2
+Combined share among The 1 Tourist registrants and exit-survey respondents (S5)
+To be established under 4.5 by 31 March 2027; the welcome offer is promoted to 31 March 2027, so the baseline depends on the February extension decision (R5; Central Pattana, 2026k)
++5 points by Q4 [Proposed]; line 6 second tranche only if the Q2 read-out supports it
+Monthly; surveys in Q1 and Q3
+Marketing (tourist desk)
+The 1 Tourist registrations at 14 centres (Central Pattana, 2026k); exit surveys (150 per group); partner spend by nationality

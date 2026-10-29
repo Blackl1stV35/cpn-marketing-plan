@@ -1,0 +1,54 @@
+BCG & GE-McKinsey Matrix — Portfolio View (Appendix)
+Included for completeness ahead of Q&A. Both are portfolio / capital-allocation frameworks — which business line to fund — not customer-positioning tools, so they sit here as backup rather than inside the core Target Markets & Positioning section. Segments follow CPN's four reported business lines; every figure below reuses a citation already established in this document's main Reference list.
+1. BCG Growth-Share Matrix
+Axes: vertical = market growth rate of the segment's industry. Horizontal = CPN's relative competitive position (share / scale) within that industry — not CPN's revenue share of its own total portfolio.
+Segment | Relative Position | Market Growth | Quadrant
+Retail malls | High | Moderate–High | Star
+Residential | Low | Moderate–High | Question Mark
+Hotels | Low | High | Question Mark
+Offices | Low–Moderate | Moderate | Cash Cow (modest)
+Retail malls / shopping centres — STAR
+•     Relative position: High — 45 shopping centres + 16 community malls nationwide is a breadth no single rival matches; competitors each hold one tier only (Siam Piwat ~70% of luxury spend but landmark-only; Seacon mass-market/single-metro; The Mall Group upper-middle/single-city) (Bangkok Post, 2026a; Inside Retail Asia, 2026).
+•     Market growth: High — mall format ~9% CAGR vs. ~3–3.5% for retail overall (PS Global Consulting, 2026); Bangkok retail leasable stock sits at ~8.25M sqm with only limited new supply due in 2026, favouring modernised assets like CPN’s over ageing stock (CBRE Thailand, 2026).
+•     Read: high share, still-reinvesting growth engine — the ฿21bn Central Phaholyothin flagship (opening Q4 2026) behaves like a Star, not a Cash Cow being harvested.
+Residential (homes) — QUESTION MARK
+•     Relative position: Low — 43 projects across four brand tiers (ESCENT, PHYLL, NIYHAM/NINYA/NIRATI, BAAN) is a small, ecosystem-support portfolio next to dedicated major Thai residential developers (Central Pattana, 2024c).
+•     Market growth: Moderate-to-high headline — a 93% sales rate on existing supply and downtown asking prices rising up to 15% year-over-year, luxury-led (CBRE Thailand, 2026).
+•     Read: attractive segment, low relative share — CPN hasn't signalled a push for share leadership here, consistent with residential's role as a cross-sell / ecosystem piece rather than a standalone growth bet.
+Hotels (hospitality) — QUESTION MARK
+•     Relative position: Low — 11 properties, mostly Centara-branded or partnered (e.g. Hilton Pattaya), embedded inside mixed-use complexes — a landlord / co-development role, not independent operator scale.
+•     Market growth: High — a 2026 pipeline of 4,300+ new keys, luxury-led, with occupancy projected up by up to 2 points and RevPAR up 3–4% (CBRE Thailand, 2026).
+•     Read: the most attractive growth rate of the four segments, but CPN's role stays small and embedded rather than share-driving.
+Offices (commercial) — CASH COW (modest)
+•     Relative position: Low-to-moderate — 11 towers, roughly 314,545 sqm, built primarily to optimise land use alongside malls, not as an independent office-leasing strategy.
+•     Market growth: Moderate — 2026 net take-up projected slightly below 2025 (around 100,000 sqm); the ‘flight-to-quality’ trend favours newer, mall-adjacent stock like CPN's (CBRE Thailand, 2026).
+•     Read: a stable, low-growth income line that funds the ecosystem rather than chasing expansion.
+Bottom line
+Malls are the only Star; the other three are small by design and support the mall engine rather than compete for share independently — this maps directly onto the team's own reading that mixed-use assets cross-subsidise the mall engine, and onto CPN's use of CPNREIT to recycle capital from mature assets into new mall development (Central Pattana Investor Relations, n.d.-c).
+2. GE-McKinsey Nine-Box Matrix
+Axes: industry attractiveness (market growth, profitability potential, competitive intensity, cyclicality) × business strength (relative position, financial resources, differentiation), each rated High / Medium / Low so every unit lands in exactly one of the nine boxes. The standard read runs diagonally: Invest/Grow (top-left) → Selectivity (middle band) → Harvest/Divest (bottom-right).
+Segment | Industry Attractiveness | Business Strength | Recommended Action
+Retail malls | High | High | Invest / Grow
+Hotels | High | Low | Selectivity
+Residential | Medium | Medium | Selectivity
+Offices | Low | Low | Harvest / Divest
+Retail malls — High attractiveness × High strength → Invest / Grow
+•     Attractiveness: High, tempered by industry-wide occupancy softening and e-commerce pressure (CBRE Thailand, 2026).
+•     Strength: High — around 510 million annual visits, The 1's ~22M-member data ecosystem, FY2025 revenue of roughly ฿53.0bn at close to a 35% net margin, and net debt-to-equity improving to 0.49x (Central Pattana, 2026a; Central Retail Corporation, 2025).
+•     → Clear priority for continued capital allocation.
+Hotels — High attractiveness × Low strength → Selectivity
+•     Attractiveness: High — the strongest growth signals of the four segments (CBRE Thailand, 2026).
+•     Strength: Low — a small, embedded footprint without independent brand or operating scale.
+•     → An attractive industry CPN participates in rather than leads; investment stays selective unless the strategy changes.
+Residential — Medium attractiveness × Medium strength → Selectivity
+•     Attractiveness: Medium — solid headline demand, tempered by broader mid-tier oversupply risk reported across the Bangkok condo market.
+•     Strength: Medium — a diversified four-tier brand portfolio, captive footfall from CPN's own malls, and Central Group's balance sheet are real competitive assets, even if small next to dedicated residential specialists.
+•     → Sensible as an ecosystem tool; not where CPN would place a growth bet.
+Offices — Low attractiveness × Low strength → Harvest / Divest
+•     Attractiveness: Low — flight-to-quality helps newer stock, but flat-to-declining take-up is the dominant signal in CBRE's 2026 data; the offset isn't enough to call it Medium.
+•     Strength: Low — a modest, land-use-driven footprint rather than an independent leasing strategy.
+•     → The textbook Harvest/Divest corner — a stable earnings contributor, appropriately the lowest capital priority of the four.
+Bottom line
+The nine-box lands in the same place as the BCG read: retail malls are the one segment scoring high on both axes, Hotels and Residential sit in the middle Selectivity band, and Offices is the one segment in the Harvest/Divest corner. Two independent frameworks converging on one answer is worth a sentence if a professor pushes on why the deck focuses on malls.
+Sources for this tab
+Every figure above reuses an author-year citation already established in this document's main Reference list — Bangkok Post (2026a); CBRE Thailand (2026); Central Pattana (2024c, 2026a); Central Pattana Investor Relations (n.d.-c); Central Retail Corporation (2025); Inside Retail Asia (2026a); PS Global Consulting (2026). No new sources are introduced in this tab.

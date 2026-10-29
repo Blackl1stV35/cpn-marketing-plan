@@ -1,0 +1,182 @@
+Presentation Script
+Situation Analysis & Marketing Strategy for Central Pattana PCL (CPN)
+Draft speaking script, organised by presenter and Canva page number
+Canva deck — Marketing Final Project · CH2/CH3 · Presentation
+How to use this document: each entry below corresponds one-to-one to a page number in the Canva deck linked above. The shaded block is a draft script — natural spoken language, not a word-for-word requirement — for the presenter named to read from or adapt. Underneath it, “Full Detail — Reference / Backup” goes deeper than the script or the slide itself: extra figures, exact quotes, and the APA citation for each, pulled from the team's verified written report (CPN-Ch2-Ch3-Report.docx), so presenters can answer follow-up questions without guessing. Citations follow the same author–year keys as that report's own reference list.
+Presenter Line-Up
+Presenter | Pages | Topic cluster | Est. time
+ไต๋ | 1–4 | Opening, thesis statement, supporting evidence, Ch.2 divider | ~1m 40s
+ทัพ | 5–7 | Market summary & targets, needs/trends/growth, SWOT | ~2m 30s
+ลิงค์ | 8–10 | Competitive landscape, product offering, keys to success & critical issues | ~2m 30s
+โช | 11–17 | Ch.3 divider, mission, marketing & financial objectives, target markets & positioning, team, references, close | ~3m 20s
+Total script read-through ≈ 10 minutes, leaving room within the 15-minute slot for pacing and Q&A.
+Part 1 — Opening & Thesis (Pages 1–4)
+Presenter: ไต๋
+[Page 1 — Title Slide]  by ไต๋
+DRAFT SCRIPT
+Good morning/afternoon everyone. Our presentation today is a Situation Analysis and Marketing Strategy for Central Pattana Public Company Limited, or CPN. We're Group 2 — I'm ไต๋, and I'll be opening today's presentation alongside my teammates.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Full course context (from the written report's cover page): presented to Assoc. Prof. Mana Luksamee-arunothai, Ph.D., for Marketing Business Economics (01101423), Faculty of Economics, Kasetsart University, Semester 1, Academic Year 2026.
+•  	Full team roster: Monprach Pattamakeansai; Suphana Thamwiriyanon; Kanokphan Sirithienthong; Phurin Meechanchuang; Nathorn Apichaikriengkrai; Athipat Suriam.
+•  	Scope note: this deck and the written report both cover Chapter 2 (Situation Analysis) and Chapter 3 (Marketing Strategy) only — Executive Summary and Chapters 4–6 (Tactics, Financials, Controls) are a later phase, not part of this submission.
+[Page 2 — Thesis Statement]  by ไต๋
+DRAFT SCRIPT
+Before we walk through the details, here's the single idea that ties our whole presentation together. Through our research, we found that Central Pattana Group has recently been leveraging its capital reserves to capture Gen-Z market share, and it's doing that through sustainable positioning. In other words: CPN isn't just building more malls — it's spending strategically, aiming that spending at a specific, fast-growing generation of shoppers, and wrapping the whole effort in a sustainability story that differentiates it from every competitor we'll show you today.
+Keep that sentence in mind, because every section that follows — the market, the SWOT, the competition, the strategy — comes back to it.
+FULL DETAIL — REFERENCE / BACKUP
+•  	This exact sentence is the team's own synthesis, not a direct CPN quote — say so plainly if asked. It connects three separately-sourced facts:
+•  	Capital deployment: the ฿110bn “Future-Led Ecosystem” nationwide investment plan (Central Group, 2026), and the related ฿120bn five-year sustainability investment tied to the “Imagining Better Futures for All” campaign (GlobeNewswire, 2025).
+•  	Gen-Z as a named priority: CPN's own materials name “quality spenders, families, and Gen Z” as priority consumer groups (Central Pattana, 2025a).
+•  	Sustainable positioning: the Net Zero by 2050 commitment, supported by a sustainability-linked bond issued for clean-energy projects (Central Pattana, 2024b), formalised in CPN's Sustainability-Linked Finance Framework (Central Pattana, 2024d), whose “Center of Life” and Sustainability pillars anchor the company's own mission statement.
+[Page 3 — Supporting Evidence]  by ไต๋
+DRAFT SCRIPT
+So what's the actual evidence behind that thesis? Three things stood out to us. First, CPN has announced investment plans of roughly 110 to 120 billion baht: a 110 billion baht nationwide development plan and, separately, a 120 billion baht five-year sustainability investment. It has also issued a sustainability-linked bond to support clean-energy projects, so part of its financing is tied to sustainability goals. Second, CPN has set a Net Zero target for 2050, holds a Best-in-Class rating on the Dow Jones Sustainability Index, and names “Center of Life” as a core pillar of its strategy — that's the sustainability half of our thesis. And third — this is the part that surprised us most — CPN explicitly names Gen-Z as a priority segment in its own public materials. It's not us inferring that; it's stated.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Investment figures — two overlapping but distinct disclosures, worth distinguishing if pressed on “the” number: the ฿110bn “Future-Led Ecosystem” nationwide mega-scale development plan (Central Group, 2026); separately, a ฿120bn (~US$3.5bn) five-year sustainability investment tied to “Imagining Better Futures for All” (GlobeNewswire, 2025).
+•  	Sustainability-linked bond: issued to support clean energy projects, explicitly aiming for Net Zero greenhouse-gas emissions by 2050 (Central Pattana, 2024b); formalised in the Sustainability-Linked Finance Framework, 2024 updated edition (Central Pattana, 2024d).
+•  	DJSI Best-in-Class + other ESG recognition: sustained placement on DJSI Best-in-Class sustainability indices (ThaiPR.net, 2025b); Thailand's 2025 Prime Minister's Award for Innovation for Sustainability (ThaiPR.net, 2025a).
+•  	Gen-Z as named priority: “quality spenders, families, and Gen Z” named priority consumer groups (Central Pattana, 2025a).
+[Page 4 — Chapter 2 Divider]  by ไต๋
+DRAFT SCRIPT
+With that thesis in mind, let's move into Chapter 2: our Situation Analysis — starting with who CPN's market actually is.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Pure transition slide (chapter title over a full-bleed image) — no additional content. Hand off to ทัพ for page 5.
+Part 2 — Market & Environment (Pages 5–7)
+Presenter: ทัพ
+[Page 5 — Market Summary and CPN's Targets]  by ทัพ
+DRAFT SCRIPT
+CPN's business is really two markets in one. On the consumer side — B2C — it's the shoppers who walk through the doors. On the business side — B2B — it's the tenants and brand partners who pay for access to that foot traffic. And the scale here is genuinely national: CPN covers 23 provinces across Thailand, with 44 shopping centers and 16 community malls, pulling in roughly 510 million visits a year, about 70 million of them international.
+Now look at the target segments on the right. Most of these — families, working-age consumers, tourists, tenants — are what you'd expect from any major mall operator. But at the very top, marked as the named priority, is Gen-Z and young adults. That's not us reading between the lines — CPN states this directly. And that one line is really the anchor for everything else we're going to show you today.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Dual-sided model (B2C traffic + B2B tenant access) is explicit in CPN's own framing, not a team inference. Footprint: CPN's investor presentation places its malls in 23 provinces (Central Pattana, 2026c).
+•  	Full target-market list: local consumers; working-age consumers; families; Gen Z/young adults (named explicit priority, Central Pattana 2025a); middle-/upper-income consumers; domestic & international tourists (China, Malaysia, South Korea, India, Russia); tenants/business partners — 18,000+ stores nationwide, CPN states 80%+ of first-time-to-Thailand international brands choose a Central property (company-reported; independently legible equivalents are 76 cumulative “new-to-Thailand” brand debuts and 44 flagship stores, Central Pattana 2026a); mixed-use customers (homebuyers, office tenants, hotel guests).
+•  	National demographic backdrop (not on the slide, useful if asked “why these numbers”): Thailand's population 65.95M (2024), 64.0% working-age (15–59), 20.8% aged 60+; average household income ฿29,030/month nationally, ฿39,087/month in Greater Bangkok (National Statistical Office, 2025); 35M+ international visitors in 2024 (Tourism Authority of Thailand, 2024).
+•  	Generational need differences CPN itself draws: Gen Z → entertainment/music/fashion/self-expression; Gen Y → leisure/relaxation; Gen X/Boomers → family/culture/tradition; Gen Alpha → safe family activities (Central Pattana, 2025b).
+[Page 6 — Economics Synergies: Needs, Trends, Growth]  by ทัพ
+DRAFT SCRIPT
+So why is this the right moment for that Gen-Z push? Three forces are lining up. On the needs side, shoppers want genuine one-stop convenience, but increasingly in a “phygital” way — browse online, try the product in person, pay digitally, return it flexibly. Malls have also become social hubs, not just shopping errands.
+On the trends side, the experience economy is real and measurable — CPN's own festival and event strategy is credited with part of its recent profit growth. Online retail's share of total sales has been climbing, so omnichannel integration isn't optional anymore. And personalization is scaling fast — Central Group's loyalty platform now runs thousands of targeted campaigns a month, up from just a few hundred before.
+And on the macro side, Thai GDP is still growing — just under 2 percent last quarter — the retail market is worth about 4.51 trillion baht, and, this is the key point, new mall supply is limited through 2026. That combination — steady demand, rising experience-led spending, and a ceiling on new competitors — is exactly the kind of environment where CPN's existing scale becomes an advantage rather than a liability.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Market Needs: one-stop convenience + “phygital” journey — browse online, try in person, pay by mobile, return flexibly (Inside Retail Asia, 2025). Emotional shift: malls as social/lifestyle hubs, eroding the old 70:30 retail-to-F&B space benchmark. Younger shoppers favour digital/social integration; older shoppers value tactile in-person experience; safety, cleanliness and visible sustainability now read as baseline expectations, not differentiators.
+•  	Market Trends: CPN's “Festival & Experience Economy” strategy — 2026 Songkran campaign drew 15M+ participants, credited for part of Q1 2026 profit growth (Central Pattana, 2025b; Nation Thailand, 2026a). Online share of Thai retail sales rose from 20.45% to 23.50% between 2022–2024 (Nation Thailand, 2025a) while offline stayed nearly flat. 2026 official tourism-arrivals target: 36.7M, but Chinese arrivals specifically remain well under their pre-pandemic peak (Thai Examiner, 2026a). The 1 platform: thousands of hyper-targeted campaigns/month via Adobe Experience Cloud, up from a few hundred (Accenture, 2021).
+•  	Market Growth: Thai GDP +1.9% in Q2 2026 (down from 2.8% in Q1), full-year 2026 forecast midpoint ~2.2% (Nation Thailand, 2026b). Total retail market ฿4.51 trillion (2024); the mall format specifically runs closer to 9% CAGR per industry analysts (PS Global Consulting, 2026). Bangkok retail leasable stock ~8.25M sqm by end-2025, with only limited new supply due in 2026 (CBRE Thailand, 2026) — supply is no longer racing ahead of demand, which favours modernised assets like CPN's over ageing stock.
+[Page 7 — SWOT Analysis]  by ทัพ
+DRAFT SCRIPT
+Putting that into a SWOT. Strengths: brand equity built around “Center of Life,” not just retail; a nationwide network no single rival matches; about 510 million visits a year; and data-driven marketing through The 1 loyalty platform.
+Weaknesses: CPN is still heavily dependent on physical retail, which means a high, continuous cost to keep that premium experience current, and there's a real tension between operating at this scale and staying as agile as smaller, digital-native competitors.
+Opportunities: sustainability as a genuine differentiator — that Net Zero 2050 commitment again — plus data personalization at scale, tourism diversification beyond China, and further mixed-use expansion. And threats: e-commerce and social commerce continuing to take share, Thai household debt sitting at close to 87 percent of GDP, which pressures discretionary spending, and an uneven tourism recovery.
+None of this is unique to CPN — but how it responds to the opportunities column is really what the rest of our strategy section addresses.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Strengths (all independently cited): “Center of Life” brand equity (Central Pattana, 2024a); nationwide network — 44 centres + 16 community malls (Central Pattana, 2026a); ~510M visits/year (Central Pattana, 2026a); data-driven marketing via The 1 (Central Retail Corporation, 2025); experiential marketing — thousands of yearly events: Songkran, Lunar New Year, Christmas, Pride, countdown (Central Pattana, 2025b); omnichannel integration — Chat & Shop as an O2O bridge (Nation Thailand, 2021); international tourist marketing — privileges/airline partnerships (Central Pattana, 2025a). Team's own addition (not independently cited): 18,000+ tenant relationships are themselves a strength CPN doesn't frame that way itself.
+•  	Weaknesses are explicitly the team's own analytical observations, not independently cited: dependence on physical retail; high cost of a premium experience; divergent needs across locations (Bangkok vs. tourist zones vs. provincial); organisational scale vs. agility; high customer expectations raising the cost of any visible service gap.
+•  	Opportunities: international tourism growth if diversified beyond China (Thai Examiner, 2026b); the experience economy (Inside Retail Asia, 2025); data-driven personalisation, already scaling (Accenture, 2021); sustainability differentiator — Net Zero 2050 + sustainability-linked bond (Central Pattana, 2024b); mixed-use expansion (Central Group, 2026); Thai SME/local-brand incubation; influencer/social-commerce conversion to physical visits.
+•  	Threats: e-commerce/social commerce — Shopee, Lazada, TikTok Shop (Nation Thailand, 2025b); intense competition from Siam Piwat, The Mall Group and others; household debt at 86.7% of GDP in Q4 2025 (Nation Thailand, 2026c); tourism volatility — Chinese arrivals down ~30% from peak, a partial year-on-year gain in the August 2026 update even as Thailand loses relative appeal versus Vietnam (Nikkei Asia, 2026a; Thai Examiner, 2026b) — the two figures are different lenses on the same trend, not a contradiction.
+Part 3 — Competition & Offering (Pages 8–10)
+Presenter: ลิงค์
+[Page 8 — Competitive Landscape]  by ลิงค์
+DRAFT SCRIPT
+So who's actually competing with CPN? By Q2 2026, CPN operated 45 shopping centers and 16 community malls — about 2.4 million square meters of leasable area — plus office towers, hotels, and residential projects. No single competitor matches that breadth. Instead, you get specialists.
+Siam Piwat — Siam Paragon, ICONSIAM, Siam Center — owns the ultra-luxury, tourist-facing corner, estimated at around 70 percent of Thailand's luxury retail spend. The Mall Group and Terminal21 sit more upper-middle, entertainment-anchored, and often single-city or single-property focused. Seacon Square anchors the mass-market, single-metro corner in eastern Bangkok.
+Plotted against those two axes — price tier and geographic reach — CPN is the only player that shows up in the center, serving every tier at national scale. That's the real competitive insight: everyone else has picked a corner. CPN didn't have to.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Full competitive scale: 45 shopping centres + 16 community malls, ~2.4M sqm net leasable area, 11 office towers/hotels/residential projects by Q2 2026 (Bangkok Post, 2026a). CPN's own regional expansion — Central i-City, Malaysia (since 2019) + a 2026 MOU with Vietnam's Sun Group (Nation Thailand, 2026d) — is a footprint none of the domestic rivals below currently match.
+•  	Siam Piwat: Siam Paragon, Siam Center, Siam Discovery, ICONSIAM; ultra-premium/luxury, tourist- and Gen-Z-focused; ~70% of Thailand's luxury retail spend (a single-source estimate, not independently corroborated) (Inside Retail Asia, 2026).
+•  	The Mall Group: Emporium, EmQuartier, EmSphere, The Mall Lifestore, building The Bangkok Mall; upper-middle to premium, entertainment-anchored, privately held. Seacon Development: Seacon Square, Seacon Bangkae; family/mass-market, upgrading toward a more affluent catchment, single-metro (eastern Bangkok). Terminal21 (L&H Property): Asok, Rama III, Pattaya, Korat; experiential/tourist-oriented, youth-focused, small and privately held, competing on novelty rather than scale. Index Living Mall: ~35 branches; a furniture/home category killer rather than a true mall operator — often a CPN tenant rather than a rival landlord (hence excluded from the positioning map, per the slide's own footnote).
+•  	Good-to-know nuance for Q&A: Mega Bangna is jointly owned by IKEA's Ikano Centres and Siam Future Development — a CPN subsidiary; CPN separately acquired Siam Future Development (developer of The Avenue, Market Place) to near-full ownership in 2021 (The Story Thailand, 2025; Wikipedia, 2026) — so it looks like an independent competitor but partly isn't.
+•  	The “invisible competitor,” e-commerce: Thai e-commerce forecast to keep growing through 2027; online's share of retail sales rose ~20.5%→23.5% between 2022–2024 (Nation Thailand, 2025a); Shopee + Lazada hold the large majority of platform share; TikTok Shop is the fastest-growing platform, live-commerce-driven, strongest in beauty/personal care (Nation Thailand, 2025b).
+[Page 9 — Product Offering]  by ลิงค์
+DRAFT SCRIPT
+So what does CPN actually sell, beyond square meters of retail space? Four physical asset types. Shopping centers are the core — 44 of them, about 2.3 million square meters — and the newest flagship, Central Phaholyothin, opens in Q4 2026 as the anchor of a planned new Bangkok business district. Community malls handle the smaller, neighborhood, daily-convenience format. Central Village is Thailand's first international luxury outlet, a joint venture with Japan's Mitsubishi Estate. And there are residential projects across several brand tiers.
+But here's the part that's easy to miss: alongside all that physical real estate is a data and services layer that's arguably just as valuable. The 1 loyalty program has about 22 million members. CPN earns fee income managing its own REIT — essentially recycling capital from mature buildings into new development. And LEAD, its incubator, has supported over 200 Thai brands. So the “product” isn't just malls — it's an ecosystem that captures value on both the physical and data side.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Shopping centres: 44 at FY2025 year-end, ~2.3M sqm net leasable area; The Central Phaholyothin — ฿21bn, 457,409 sqm, opening Q4 2026, anchor of a planned new Bangkok CBD (Central Pattana, 2026b).
+•  	Community malls: rebranded “Market Place,” neighbourhood format, day-to-night convenience use (Wikipedia, 2026). Central Village: Thailand's first international luxury outlet, near Suvarnabhumi Airport, a 70:30 JV with Mitsubishi Estate (Central Group, 2019).
+•  	Residential: the written report's underlying figure is 43 projects (28 high-rise, 15 low-rise) as of December 2024 (Central Pattana, 2024c) — the Canva slide shows 43, matching the report.
+•  	The 1 loyalty: ~22M members as of September 2025 (Central Retail Corporation, 2025), up from ~18M in 2021 (Nation Thailand, 2021). CPNREIT: CPN earns fee income as property/REIT manager for its sponsored vehicles (CPNREIT, 2024) — this is the “capital recycling” mechanism. LEAD by Central Pattana: incubator, 200+ Thai brands supported (Central Group, 2026).
+[Page 10 — Keys to Success and Critical Issues]  by ลิงค์
+DRAFT SCRIPT
+Pulling this together — what actually determines whether CPN wins from here? On the “pursue” side: strengthen financial health, prioritize prime locations — Central Phaholyothin sits on some of the most expensive land in Thailand — keep building tenant relationships, lean harder into data-driven marketing, and formalize ESG leadership rather than treating it as a side initiative.
+On the “avoid” side: mitigate e-commerce erosion, buffer against household debt and softening consumer confidence, diversify beyond Bangkok — because CPN keeps opening major malls there even as coverage flags weak consumption — and manage the capital intensity of these mega-projects carefully, since some of that record profit has come from one-off gains, not pure operating strength.
+This slide is really the bridge between Chapter 2 and Chapter 3 — it's the same story as the SWOT, but framed as decisions rather than description.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Keys to Success: prime/irreplaceable locations — Central Phaholyothin at a junction ranked among Thailand's most expensive land zones (Central Pattana, 2026b); tenant mix/brand relationships — 18,000+ shops nationwide (Central Pattana, 2026a); data-driven marketing via The 1's member database (Central Retail Corporation, 2025); financial strength — FY2025 revenue ฿53,009M, net profit ฿18,841M attributable to parent, ~35.5% net margin by the team's own calculation (Central Pattana, 2026a). Integrated ecosystem model cross-feeds footfall between retail/office/hotel/residential/convention (Central Group, 2026). ESG leadership — Net Zero 2050 + 2025 PM's Award for Innovation for Sustainability (ThaiPR.net, 2025a). Capital recycling via CPNREIT funds new development (CPNREIT, 2024).
+•  	Critical Issues: e-commerce/social commerce continuing to take share (Nation Thailand, 2025b); household debt 86.7% of GDP in Q4 2025, increasingly consumption- rather than investment-driven (Nation Thailand, 2026c); Bangkok market saturation — new openings landing amid weak consumption per press coverage (Nikkei Asia, 2026b); overseas execution risk — still just one mall abroad (Malaysia, since 2019), 2026 MOU with Vietnam's Sun Group targets ~US$2bn over 15–20 years (Nation Thailand, 2026d); capital intensity — Central Phaholyothin ฿21bn + Central Northville ฿4.5bn (opened July 2026), and FY2025's record profit was partly powered by one-off gains (Bangkok Post, 2026b; Bloomberg, 2025; Central Pattana, 2026b); tourism dependency — Chinese arrivals well below pre-pandemic peak, a direct risk to flagship urban malls and Central Village (Nikkei Asia, 2026a).
+Part 4 — Strategy & Close (Pages 11–17)
+Presenter: โช
+[Page 11 — Chapter 3 Divider]  by โช
+DRAFT SCRIPT
+Now, let's move to Chapter 3, where we explain how CPN can use its current position to create a strong Marketing Strategy.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Pure transition slide (chapter title over a full-bleed image) — no additional content. Hand off from ลิงค์ to โช.
+[Page 12 — Mission]  by โช
+DRAFT SCRIPT
+CPN's mission is:
+"To be a leading regional developer pioneering a better and more sustainable future for all."
+This mission is supported by five important pillars: Center of Life, Regional Expansion, Co-Creativity, Sustainability, and Empowered People.
+Among these pillars, we highlight Sustainability because it strongly connects to our main idea.
+For CPN, sustainability is not only about reducing environmental impact. It also supports long-term investment, creates value for communities, and helps CPN build a stronger image among younger customers, especially Gen Z.
+Therefore, sustainability can support both CPN's business growth and its brand positioning.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Full mission + five pillar quotes, verbatim from CPN's Sustainability-Linked Finance Framework, 2024 updated edition (Central Pattana, 2024d):
+•  	“To be a leading regional developer pioneering a better and more sustainable future for all.”
+•  	Center of Life: “Creating spaces that form the core of people's lives, enhancing their quality of life and living.”
+•  	Regional Expansion: “Continuing our pioneering spirit, which is central to Central Pattana's ethos, by introducing the best of Thailand to the region and the world, and vice versa.”
+•  	Co-Creativity: “Delivering the greatest value to customers by co-creating with tenants and business partners.”
+•  	Sustainability: “Committing to creating long-term value for all stakeholders, Central Pattana believes in sustainable growth and making a positive impact on the environment, people, communities, and businesses.”
+•  	Empowered People: “Our people are our greatest asset, and we are dedicated to empowering them to realize their full potential.”
+For Q&A: CPN’s bond is a sustainability-linked bond (SLB), not a green bond — a green bond earmarks proceeds for specific eligible projects, while an SLB ties the bond’s terms (often a coupon step-up) to company-wide sustainability KPIs, regardless of what the proceeds fund. CPN’s own disclosure describes the bond in use-of-proceeds language (Central Pattana, 2024b), formalised in the Sustainability-Linked Finance Framework (Central Pattana, 2024d) — the framework’s specific KPI targets and step-up mechanism were not independently verified in this research pass, so name that as a limit of the evidence if pressed on the technical structure.
+•  	Related campaign tagline: “Imagining Better Futures for All,” tied to the ฿120bn five-year sustainability investment (GlobeNewswire, 2025) — thematically consistent with, but distinct from, the formal vision statement above.
+•  	Team's own reading (not independently cited): the “Center of Life” idea has evolved across CPN's recent messaging to frame the company as a “Place Maker” rather than a mall operator.
+[Page 13 — Marketing and Financial Objectives]  by โช
+DRAFT SCRIPT
+Now, we move from our analysis to our proposal.
+These objectives are our team's recommendations based on CPN's current direction. They are not CPN's official plans.
+Our first marketing objective is to increase Gen-Z visit frequency through The 1 loyalty program, social media, and events that match their interests.
+Second, CPN should attract more international tourists from markets beyond China, such as India, the Middle East, and Europe.
+Third, CPN should improve online-to-offline conversion by using The 1 and Central applications to encourage customers to visit its shopping centers.
+Finally, CPN should make sustainability more visible to customers. It should become a marketing strength, not only an internal business activity.
+For financial performance, CPN had around 53 billion baht in revenue in 2025, with a net margin of approximately 35.5 percent.
+Our recommendation is to maintain high-single-digit revenue growth and protect this margin. CPN should focus its investment on the highest-yield projects instead of investing equally in every large project at the same time.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Explicit framing (from the written report): Marketing Objectives and Financial Objectives are the team's own proposals, not official CPN guidance — say so if asked, rather than presenting them as CPN fact.
+•  	Marketing Objectives, full list: (1) grow Gen-Z/young-adult visit frequency via deeper The 1 engagement + social-led events, measured by rising share of footfall over 12 months; (2) diversify tourist footfall beyond China toward South Asia (India) and long-haul (Middle East, Europe), given China's slow recovery, within the next fiscal year; (3) lift O2O conversion via the Central/The 1 app ecosystem to defend against e-commerce/social-commerce share gains; (4) expand The 1 BIZ tenant partnerships to grow same-mall tenant sales via shared customer data; (5) make sustainability a marketing asset, not just an operations story — put Net Zero 2050 milestones into customer-facing communication, tracked via unaided brand association with sustainability among target segments.
+•  	Financial baseline: FY2025 revenue ฿53,009M, net profit ฿18,841M attributable to parent, ~35.5% net margin by the team's own calculation (Central Pattana, 2026a). Net profit +13% y/y FY2025 by one measure, ex-one-off growth closer to +23% by another estimate — different lenses, not a contradiction (Bangkok Post, 2025; Bloomberg, 2025). Q3/2025 alone: ฿13.55bn total earnings (+10% y/y), ฿5,424M net profit (+31% y/y), which the CFO attributed partly to broader economic recovery and the September launch of Central Park (Central Pattana, 2025c).
+•  	Proposed objectives: sustain high-single-digit revenue growth (building on ~8% y/y into Q2 2026) and protect the FY2025 net margin by prioritising the highest-yield mixed-use projects first.
+•  	Caveat for Q&A: these financial objectives should be confirmed against the primary 56-1 One Report 2025 (Central Pattana Investor Relations, 2026) before being cited as CPN fact.
+[Page 14 — Target Markets and Positioning]  by โช
+DRAFT SCRIPT
+Next, we divide CPN's target markets into four main groups.
+The primary target is urban middle- to upper-income working adults and families. This group is CPN's main customer base because they regularly visit shopping centers for shopping, dining, services, and family activities.
+The secondary target is Gen Z and young adults. This is an important group because they are highly active on social media and look for new experiences, events, and lifestyle spaces.
+The third target is Thai and international tourists, with more focus on tourists from markets beyond China.
+For the B2B market, CPN targets local and international retail brands looking for high-traffic flagship locations.
+For positioning, CPN describes itself as Thailand's leading place maker, creating destinations that support economic growth, improve quality of life, and promote sustainability.
+Based on this idea, our proposed positioning is that CPN is a "Center of Life" developer.
+CPN does more than operate shopping malls. It creates complete live-work-shop-stay ecosystems, combining shopping centers, homes, offices, and hotels in one area.
+This gives CPN a strong position that is difficult for both luxury malls and general suburban malls to copy. It is also supported by data personalization and sustainability leadership.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Target Markets priority order: Primary — urban middle-/upper-income working adults & families in each mall's catchment. Secondary — Gen Z/young adults, “the fastest-growing engagement segment.” Tertiary — domestic/international tourists, diversifying beyond China. B2B — global/local retail brands seeking high-traffic flagship locations.
+•  	Positioning — full verified CFO quote (checked verbatim against the primary source this term): “Our Q2 performance reflects the strength of our core business… These achievements reinforce Central Pattana's role as Thailand's leading place maker, creating destinations that drive economic growth and enhance quality of life in a sustainable way.” — Ms. Naparat Sriwanvit, CFO and President, Hotel and Office Businesses, Central Pattana Plc (ThaiPR.net, 2026).
+•  	Third-party validation: “Thailand's Most Admired Company,” No. 1 in the Shopping Centre category for three consecutive years (Central Pattana, 2025d); sustained DJSI Best-in-Class + related ESG recognition (ThaiPR.net, 2025b); the slide also shows FTSE4Good membership, which CPN states in its One Report 2025 (Central Pattana Investor Relations, 2026); an older MSCI badge was removed because CPN's own materials show only an MSCI ESG Rating, not index membership.
+•  	Team's synthesised positioning statement (explicitly the team's own — not a quotation, not independently cited): “for Thai consumers across income segments and life stages, Central Pattana is the ‘Center of Life’ developer that builds integrated live-work-shop-stay ecosystems in prime locations nationwide, offering a breadth of experience, brand access, and community connection that neither hyper-luxury single-destination malls nor mass-market suburban malls can match, backed by data-driven personalisation and sustainability leadership.”
+[Page 15 — Group Members]  by โช
+DRAFT SCRIPT
+These are our six group members: Monprach, Suphana, Kanokphan, Phurin, Nathorn, and Athipat.
+Thank you to every member for contributing to this project.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Full roster: Monprach Pattamakeansai; Suphana Thamwiriyanon; Kanokphan Sirithienthong; Phurin Meechanchuang; Nathorn Apichaikriengkrai; Athipat Suriam.
+[Page 16 — List of References]  by โช
+DRAFT SCRIPT
+All facts and figures in our presentation come from reliable sources.
+These include CPN's official reports, financial news, credit-rating agencies, government statistics, market research, and e-commerce studies.
+The full list of references is provided on this slide.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Four reference categories on the slide: (1) Corporate and Financial Reports — Official Reports and Filings (56-1 Filing, 2022–2026 Strategic Plan, CFO Commentary); Financial Press Coverage cross-referencing FY2025 metrics from Khaosod, Kaohoon, PropNewsTime, GlobeNewswire, Bloomberg. (2) Credit Rating and Market Intelligence Agencies — Fitch Ratings; CBRE Thailand. (3) National Demographic and Macroeconomic Statistics — National Statistical Office (Statistical Yearbook 2025); NESDC (GDP growth 2025–2026); Tourism Authority of Thailand (2024–2026). (4) E-commerce and Retail Industry Studies — Thai e-commerce growth and platform market-share breakdowns.
+•  	The full 43-source list with author, year, and URL for every claim in both the deck and this script lives in the written report's References section (CPN-Ch2-Ch3-Report.docx) — hand that off if a professor asks to trace a specific citation.
+[Page 17 — Thank You / Q&A]  by โช
+DRAFT SCRIPT
+That concludes our presentation on CPN's Situation Analysis and Marketing Strategy.
+Thank you very much for your attention. We are now happy to answer any questions.
+FULL DETAIL — REFERENCE / BACKUP
+•  	Closing slide. Suggest glancing back to teammates before opening the floor, so a question can be routed to whoever owns that section — financial questions to โช, competitive-landscape questions to ลิงค์, market/SWOT questions to ทัพ, thesis/framing questions to ไต๋.

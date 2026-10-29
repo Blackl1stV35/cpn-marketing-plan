@@ -1,0 +1,79 @@
+{
+  "n": 1,
+  "id": "S1",
+  "kind": "core",
+  "layout": "title",
+  "title": "Title",
+  "section": "Title",
+  "status": "NEW",
+  "seconds": 10,
+  "presenter": "P1",
+  "headline": "Marketing plan for Central Pattana: what we propose for FY2027, what it costs and how we will control it.",
+  "body": {
+    "title": "Marketing Plan of Central Pattana Public Company Limited",
+    "subtitle": "Final presentation: Situation, Strategy, Tactics, Financials and Controls",
+    "team": [
+      "Monprach Pattamakeansai",
+      "Suphana Thamwiriyanon",
+      "Kanokphan Sirithienthong",
+      "Phurin Meechanchuang",
+      "Nathorn Apichaikriengkrai",
+      "Athipat Suriam"
+    ],
+    "course": "Marketing Business Economics (01101423)",
+    "instructor": "Assoc. Prof. Mana Luksamee-arunothai, Ph.D.",
+    "term": "Faculty of Economics, Kasetsart University · Semester 1, Academic Year 2026"
+  },
+  "notes": "Hello, everyone. We are presenting our marketing plan for Central Pattana, or CPN. We start with the plan in five numbers.",
+  "sources": [],
+  "facts": [
+    {
+      "on_slide": "Marketing Plan of Central Pattana Public Company Limited",
+      "meaning": "Report title (the report adds the short form CPN)",
+      "where": "sec23_final.txt, title page line 1",
+      "cite": "title page"
+    },
+    {
+      "on_slide": "Monprach Pattamakeansai; Suphana Thamwiriyanon; Kanokphan Sirithienthong; Phurin Meechanchuang; Nathorn Apichaikriengkrai; Athipat Suriam",
+      "meaning": "The six team members, without student numbers",
+      "where": "sec23_final.txt, title page, 'Presented by'",
+      "cite": "title page"
+    },
+    {
+      "on_slide": "Assoc. Prof. Mana Luksamee-arunothai, Ph.D.",
+      "meaning": "Instructor",
+      "where": "sec23_final.txt, title page, 'Presented to'",
+      "cite": "title page"
+    },
+    {
+      "on_slide": "Marketing Business Economics (01101423)",
+      "meaning": "Course name and code",
+      "where": "sec23_final.txt, title page",
+      "cite": "title page"
+    },
+    {
+      "on_slide": "Faculty of Economics, Kasetsart University · Semester 1, Academic Year 2026",
+      "meaning": "Faculty, university and term",
+      "where": "sec23_final.txt, title page",
+      "cite": "title page"
+    },
+    {
+      "on_slide": "Situation, Strategy, Tactics, Financials and Controls",
+      "meaning": "Names of the report chapters covered (2 Situation Analysis, 3 Marketing Strategy, 4 Marketing Tactics, 5 Financials, 6 Controls)",
+      "where": "sec23_final.txt table of contents; ch4.md, ch5.md, ch6.md chapter titles",
+      "cite": "report chapter titles"
+    },
+    {
+      "on_slide": "FY2027",
+      "meaning": "Plan year, 1 January to 31 December 2027",
+      "where": "ch4.md, opening paragraph; ch6.md, opening paragraph",
+      "cite": "report"
+    },
+    {
+      "on_slide": "five numbers (notes)",
+      "meaning": "Refers to the five tiles on slide S2",
+      "where": "this deck, S2",
+      "cite": "this deck"
+    }
+  ]
+}

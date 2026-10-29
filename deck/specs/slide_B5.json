@@ -1,0 +1,260 @@
+{
+  "n": 17,
+  "id": "B5",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "Full risk register",
+  "section": "Backup · 6.3 Table 6.6",
+  "status": "NEW",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "All ten risks in Table 6.6 have a likelihood, an impact, a numeric trigger and a response; four are rated High impact (risks 2, 6, 7 and 10).",
+  "body": {
+    "columns": [
+      [
+        {
+          "type": "table",
+          "title": "Table 6.6: ten risks (team judgement)",
+          "cols": [
+            "Risk",
+            "Likelihood",
+            "Impact",
+            "Trigger (thresholds [Proposed])",
+            "Response"
+          ],
+          "widths": [
+            0.19,
+            0.08,
+            0.08,
+            0.35,
+            0.3
+          ],
+          "rows": [
+            [
+              "1. E-commerce and social-commerce share gain",
+              "High",
+              "Medium",
+              "Online share up over 2 points in a year; K4 not above Q1 baseline by Q3",
+              "Experience-led zones (P1); CENTRAL X as front door (D4)"
+            ],
+            [
+              "2. Household debt and consumer slowdown",
+              "High",
+              "High",
+              "Debt over 88% of GDP; BoT 2027 growth under 1.5%; R&S growth 4.3% or less",
+              "Amber/Red ladder; capped vouchers (R4); CPN already delays some residential launches"
+            ],
+            [
+              "3. Tourism volatility, China",
+              "High",
+              "Medium",
+              "Arrivals down over 8% year to date (down 4.12% to 17 Oct 2026)",
+              "Line 6 in tranches; mix toward India, the Gulf and Europe (M2)"
+            ],
+            [
+              "4. Bangkok saturation and tenant bargaining power",
+              "Medium",
+              "Medium",
+              "Quarterly occupancy under 90% (K13); 91% in 2Q26",
+              "Renewal rule R1 (2–3% escalators, non-rent concessions first)"
+            ],
+            [
+              "5. Overseas execution",
+              "Medium",
+              "Low",
+              "Intl. revenue under ฿720 million; Vietnam spend before a definitive agreement",
+              "No FY2027 Vietnam budget; Malaysia limited to the D5 pilot"
+            ],
+            [
+              "6. PDPA and data privacy",
+              "Medium",
+              "High",
+              "Confirmed breach or leak; unreported in 72 hours; consent not live 31 Jan 2027",
+              "S1 set-up; aggregated extracts only; S4 survey ages 20+ only; count-only counters"
+            ],
+            [
+              "7. Sustainability-claim exposure",
+              "Medium",
+              "High",
+              "Headroom to bond carbon path under 10% (18% in 2025); free space under 2.7%",
+              "Claims traced to CPN documents (K7); bond never said to fund the ฿110bn plan"
+            ],
+            [
+              "8. Capex and execution overrun",
+              "High",
+              "Medium",
+              "Opening over a quarter late; finance cost over ฿4,149m; net debt/equity >0.60x",
+              "Launch spend follows CPN confirmation (D1); model rerun at every release"
+            ],
+            [
+              "9. Dependence on one-off gains",
+              "High",
+              "Medium",
+              "Reported minus core net margin over 1.5 points (3.2 in FY2025)",
+              "F1 on reported and core margin (K8); no credit for FX gains or CPNREIT sublease"
+            ],
+            [
+              "10. Gen Z disengagement (thesis risk)",
+              "Medium",
+              "High",
+              "Gen Z visits per active member under +5% at G3; Q4 gain under 3.1 points",
+              "Format zones (P1); creator briefs tied to CENTRAL X; move money to best format"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "title": "Scales and terms",
+          "text": "Likelihood: High above 50%, Medium 20% to 50%, Low below 20%. Impact: High if FY2027E net profit would move by more than 5% (฿1,022 million of ฿20,430 million) or an objective would be out of reach; Medium 1% to 5%; Low below 1%. These are team judgements. R&S is rental and services revenue; BoT is the Bank of Thailand."
+        }
+      ]
+    ]
+  },
+  "notes": "Backup slide, not presented. The ten risks, ratings, triggers and responses are shortened from Table 6.6; the full wording and sources are in Chapter 6, section 6.3.",
+  "sources": [
+    "Nation Thailand, 2026i",
+    "Central Pattana, 2026g",
+    "Personal Data Protection Act, B.E. 2562, 2019",
+    "team judgement"
+  ],
+  "facts": [
+    {
+      "on_slide": "Ten risks with likelihood and impact: 1 H/M, 2 H/H, 3 H/M, 4 M/M, 5 M/L, 6 M/H, 7 M/H, 8 H/M, 9 H/M, 10 M/H",
+      "meaning": "Team-judgement ratings for the next 12 months",
+      "where": "ch6.md 6.3, Table 6.6 columns Likelihood and Impact",
+      "cite": "team judgement"
+    },
+    {
+      "on_slide": "four are rated High impact (risks 2, 6, 7 and 10)",
+      "meaning": "Count of High-impact rows in Table 6.6",
+      "where": "ch6.md Table 6.6, Impact column",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Likelihood and impact scales: 50%, 20% to 50%, 20%; 5%, ฿1,022 million, ฿20,430 million; 1%",
+      "meaning": "Likelihood High above 50%, Medium 20% to 50%, Low below 20%; Impact High above 5% of FY2027E net profit (฿1,022 million of the base ฿20,430 million) or an objective out of reach, Medium 1% to 5%, Low below 1%",
+      "where": "ch6.md 6.3 opening paragraph",
+      "cite": "team judgement; Table 5.10"
+    },
+    {
+      "on_slide": "Risk 1: more than 2 points a year; K4 not above Q1 baseline by Q3",
+      "meaning": "Online share of Thai retail sales rises by more than 2 points in a year (20.45% to 23.50% over 2022-2024, about 1.5 points a year)",
+      "where": "ch6.md Table 6.6 row 1",
+      "cite": "Nation Thailand, 2025a; team proposal"
+    },
+    {
+      "on_slide": "Risk 1 response: P1, D4",
+      "meaning": "Experience-led zones (P1); CENTRAL X as the single front door (D4)",
+      "where": "ch6.md Table 6.6 row 1, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 2: 88% of GDP; 1.5%; 4.3%",
+      "meaning": "Household debt above 88% of GDP [Proposed]; Bank of Thailand 2027 growth forecast cut below 1.5% [Proposed, 0.6 points under the 2.1% baseline]; R&S growth at or below 4.3% in a quarter",
+      "where": "ch6.md Table 6.6 row 2",
+      "cite": "team proposal; Bank of Thailand, 2026"
+    },
+    {
+      "on_slide": "Risk 2 response: ladder, R4, CPN already delays some residential launches",
+      "meaning": "Amber and Red ladder (Table 6.7); capped vouchers (R4); delaying or holding some residential launches, which CPN already does (an existing CPN practice, not a team action)",
+      "where": "ch6.md Table 6.6 row 2, Mitigation",
+      "cite": "team proposal; Central Pattana, n.d.-e"
+    },
+    {
+      "on_slide": "Risk 3: arrivals down over 8%; 4.12% to 17 Oct 2026",
+      "meaning": "Arrivals down more than 8% year to date; down 4.12% to 17 October 2026",
+      "where": "ch6.md Table 6.6 row 3",
+      "cite": "Nation Thailand, 2026i; team proposal"
+    },
+    {
+      "on_slide": "Risk 3 response: Line 6 in tranches; India, Gulf, Europe",
+      "meaning": "Line 6 released in tranches; mix toward India, the Gulf and Europe (M2)",
+      "where": "ch6.md Table 6.6 row 3, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 4: 90%; 91% in 2Q26",
+      "meaning": "Quarterly mall occupancy below 90%, the K13 measure; 91% in 2Q26",
+      "where": "ch6.md Table 6.6 row 4",
+      "cite": "Central Pattana, 2026g; team proposal"
+    },
+    {
+      "on_slide": "Risk 4 response: R1, 2–3% escalators",
+      "meaning": "Renewal rule R1: escalators inside TRIS's 2% to 3% band, non-rent concessions first",
+      "where": "ch6.md Table 6.6 row 4, Mitigation; ch4.md row R1",
+      "cite": "TRIS Rating, 2026; team proposal"
+    },
+    {
+      "on_slide": "Risk 5: ฿720 million; definitive agreement",
+      "meaning": "International revenue below ฿720 million, 10% under FY2025's ฿800 million; any Vietnam spend before a definitive agreement",
+      "where": "ch6.md Table 6.6 row 5",
+      "cite": "Central Pattana Investor Relations, 2026, p. 15; team proposal"
+    },
+    {
+      "on_slide": "Risk 5 response: no Vietnam budget; D5 pilot",
+      "meaning": "No FY2027 marketing budget for Vietnam; Malaysia limited to the D5 pilot",
+      "where": "ch6.md Table 6.6 row 5, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 6: 72 hours; 31 Jan 2027",
+      "meaning": "Any confirmed personal-data breach complaint or leakage incident, or a breach not reported within 72 hours; marketing consent not live by 31 January 2027",
+      "where": "ch6.md Table 6.6 row 6",
+      "cite": "Personal Data Protection Act, B.E. 2562, 2019; team proposal"
+    },
+    {
+      "on_slide": "Risk 6 response: S1, S4 survey ages 20+ only",
+      "meaning": "S1 set-up; aggregated extracts only; S4 survey ages 20+ only; count-only counters",
+      "where": "ch6.md Table 6.6 row 6, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 7: under 10%; 18% in 2025; under 2.7%",
+      "meaning": "Carbon-intensity headroom to the bond target path below 10% (18% in 2025, company-reported, finance-report basis); year-to-date free-space share below 2.7%",
+      "where": "ch6.md Table 6.6 row 7",
+      "cite": "Central Pattana, n.d.-b, pp. 2, 5; team proposal"
+    },
+    {
+      "on_slide": "Risk 7 response: K7; bond never said to fund the ฿110bn plan",
+      "meaning": "Every claim traced to a CPN document (K7); the bond was issued to support clean-energy projects and is never described as funding the ฿110 billion plan",
+      "where": "ch6.md Table 6.6 row 7, Mitigation; corrections.md Facts, Residential line",
+      "cite": "Central Pattana, 2024b; Central Group, 2026"
+    },
+    {
+      "on_slide": "Risk 8: over a quarter late; ฿4,149 million; 0.60 times",
+      "meaning": "FY2027 opening more than one quarter behind CPN's target; annualised finance cost above ฿4,149 million; net debt to equity above 0.60 times",
+      "where": "ch6.md Table 6.6 row 8",
+      "cite": "Central Pattana, 2026e, 2026g; team calculation"
+    },
+    {
+      "on_slide": "Risk 8 response: D1; model rerun",
+      "meaning": "D1 releases launch spend only after confirmation; model rerun at every release",
+      "where": "ch6.md Table 6.6 row 8, Mitigation",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 9: 1.5 points; 3.2 in FY2025",
+      "meaning": "Reported minus core net margin above 1.5 points (3.2 in FY2025)",
+      "where": "ch6.md Table 6.6 row 9",
+      "cite": "Central Pattana, 2026p; team proposal"
+    },
+    {
+      "on_slide": "Risk 9 response: K8; FX gains; CPNREIT sublease",
+      "meaning": "F1 read on reported and core margin (K8); no plan credit for FX gains or a possible CPNREIT sublease",
+      "where": "ch6.md Table 6.6 row 9, Mitigation",
+      "cite": "team proposal; TRIS Rating, 2026"
+    },
+    {
+      "on_slide": "Risk 10: +5% at G3; 3.1 points",
+      "meaning": "Gen Z visits per active member below +5% at G3 (target +10%); K1 gain (the 20–29 share of visitors aged 20 and over) below the 3.1-point detection limit at the Q4 wave",
+      "where": "ch6.md Table 6.6 row 10",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "Risk 10 response: P1; CENTRAL X briefs; best format",
+      "meaning": "Format zones (P1); creator briefs tied to CENTRAL X registration; after S7 move money to the best-performing format within lines 4 and 9",
+      "where": "ch6.md Table 6.6 row 10, Mitigation",
+      "cite": "team proposal"
+    }
+  ]
+}

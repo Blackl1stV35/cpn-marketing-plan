@@ -1,0 +1,195 @@
+{
+  "n": 13,
+  "id": "B1",
+  "kind": "backup",
+  "layout": "blocks",
+  "title": "References",
+  "section": "Backup · Reference list",
+  "status": "NEW",
+  "seconds": 0,
+  "presenter": "P1",
+  "headline": "The Chapters 4 to 6 reference list has 76 entries, mostly company disclosures (40) and news items (17); letter suffixes follow first use, not strict APA order.",
+  "body": {
+    "columns": [
+      [
+        {
+          "type": "kpis",
+          "items": [
+            {
+              "value": "76",
+              "label": "entries in the Chapters 4 to 6 list"
+            },
+            {
+              "value": "40",
+              "label": "from CPN and CPN Investor Relations"
+            },
+            {
+              "value": "17",
+              "label": "news and media"
+            },
+            {
+              "value": "12",
+              "label": "undated pages (n.d.)"
+            }
+          ]
+        },
+        {
+          "type": "table",
+          "title": "Entries by type (team count)",
+          "cols": [
+            "Type",
+            "Entries",
+            "Key sources"
+          ],
+          "widths": [
+            0.4,
+            0.1,
+            0.5
+          ],
+          "rows": [
+            [
+              "CPN and CPN Investor Relations",
+              "40",
+              "MD&A 2Q26 (2026g); MD&A FY2025 (2026p); One Report 2025"
+            ],
+            [
+              "Central Group and The 1",
+              "7",
+              "Central Group, 2026; The1 Central Limited, n.d.-a"
+            ],
+            [
+              "Official and legal texts",
+              "4",
+              "Bank of Thailand, 2026; Personal Data Protection Act, B.E. 2562"
+            ],
+            [
+              "Advisers, raters and research firms",
+              "8",
+              "TRIS Rating, 2026; Cushman & Wakefield, 2026; JLL, 2026"
+            ],
+            [
+              "News and media",
+              "17",
+              "Nation Thailand (12 entries); The Thaiger; The Nation"
+            ],
+            [
+              "Total",
+              "76",
+              ""
+            ]
+          ]
+        }
+      ],
+      [
+        {
+          "type": "bullets",
+          "title": "How the keys work",
+          "items": [
+            "A key is author plus year; a letter follows when one author has several items in a year (2026a, 2026b).",
+            "Letters follow first citation, a team convention that differs from the title order strict APA 7 requires.",
+            "Keys 2025a and 2026b are kept from Sections 2–3; their releases are dated 30 Oct 2024 and 8 Oct 2025.",
+            "Undated pages use n.d. with a letter; 14 entries are marked Retrieved because the pages change over time.",
+            "One Report 2025 pages are the printed ones; the PDF file runs four to six pages ahead.",
+            "The 2020 and 2021 annual report entries cite PDF pages."
+          ]
+        },
+        {
+          "type": "text",
+          "title": "How the counts were made",
+          "text": "The counts are the team's tally, by author, of the 76 entries in the Chapters 4 to 6 reference list. Press releases carried on a wire service are counted under their author, Central Pattana. Sections 2–3 keep their own reference list, so sources cited only there (for example Inside Retail Asia, 2026, and the Central Retail, S&P Yearbook and April 2026 CPN releases that B6 cites) are not counted here."
+        }
+      ]
+    ]
+  },
+  "notes": "Backup slide, not presented. The Chapters 4 to 6 list has 76 entries. By author: 40 from Central Pattana and its investor relations site, 7 from Central Group and The1 Central Limited, 4 official or legal texts, 8 from advisers, raters and research firms, and 17 news items.",
+  "sources": [
+    "Central Pattana Investor Relations, 2026",
+    "team calculation"
+  ],
+  "facts": [
+    {
+      "on_slide": "76 entries (Chapters 4 to 6 reference list)",
+      "meaning": "Number of @ref entries in the merged reference list of Chapters 4 to 6; the slide calls it the Chapters 4 to 6 reference list because Section 2-3 sources that Chapters 4 to 6 do not cite are not in it",
+      "where": "publish/refs.md, lines starting @ref (counted)",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Sections 2-3 keep their own reference list; sources cited only there (for example Inside Retail Asia, 2026) are not counted",
+      "meaning": "The 76 entries are the Chapters 4 to 6 list; Section 2-3 sources that Chapters 4 to 6 do not cite stay in the Section 2-3 list (checked: no Inside Retail Asia entry among the 76; the Section 2-3 list has Inside Retail Asia, 2026)",
+      "where": "publish/refs.md (no Inside Retail Asia entry); sec23_final.txt, reference list (Inside Retail Asia, 2026)",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "40 (CPN and CPN Investor Relations)",
+      "meaning": "37 entries by Central Pattana plus 3 by Central Pattana Investor Relations",
+      "where": "publish/refs.md, author counts",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "7 (Central Group and The 1)",
+      "meaning": "4 entries by Central Group plus 3 by The1 Central Limited",
+      "where": "publish/refs.md, author counts",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "4 (official and legal texts)",
+      "meaning": "Bank of Thailand 1, Government Public Relations Department 1, Revenue Department of Thailand 1, Personal Data Protection Act B.E. 2562 1",
+      "where": "publish/refs.md, author counts",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "8 (advisers, raters and research firms)",
+      "meaning": "Cushman & Wakefield 1, JLL 1, KPMG 1, TRIS Rating 1, Tilleke & Gibbins 2, DataReportal 1, Standard Insights 1",
+      "where": "publish/refs.md, author counts",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "17 (news and media)",
+      "meaning": "Nation Thailand 12, Thai Examiner 1, Thai Publica 1, ThaiPR.net 1, The Nation 1, The Thaiger 1",
+      "where": "publish/refs.md, author counts",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "12 undated pages (n.d.)",
+      "meaning": "Entries keyed n.d.-a to n.d.-g (Central Pattana 7, CPN Investor Relations 2, The1 Central Limited 3)",
+      "where": "publish/refs.md, entries with n.d.",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "14 entries marked Retrieved",
+      "meaning": "Entries carrying a Retrieved date (pages that change over time)",
+      "where": "publish/refs.md, entries with Retrieved; note 'Entries marked Retrieved are pages that change over time'",
+      "cite": "team calculation"
+    },
+    {
+      "on_slide": "Letters follow first citation; differs from strict APA 7 title order",
+      "meaning": "Letter suffixes on same-author, same-year entries follow first use, a team convention",
+      "where": "publish/refs.md, note on this list; ch4.md 'References added for Chapter 4'",
+      "cite": "Central Pattana Investor Relations, 2026"
+    },
+    {
+      "on_slide": "Keys 2025a and 2026b; 30 Oct 2024 and 8 Oct 2025",
+      "meaning": "Keys inherited from the Section 2-3 list unchanged, although the releases behind them are dated 30 October 2024 and 8 October 2025",
+      "where": "publish/refs.md, note on this list; ch4.md 'References added for Chapter 4'",
+      "cite": "Central Pattana, 2025a; Central Pattana, 2026b"
+    },
+    {
+      "on_slide": "One Report pages are printed pages; PDF runs four to six pages ahead",
+      "meaning": "Page numbers cited for Central Pattana Investor Relations (2026) are the printed ones",
+      "where": "publish/refs.md, note on this list",
+      "cite": "Central Pattana Investor Relations, 2026"
+    },
+    {
+      "on_slide": "2020 and 2021 annual report entries cite PDF pages",
+      "meaning": "Those two entries say 'Page numbers cited are PDF pages'",
+      "where": "publish/refs.md, Central Pattana 2021 and 2022 entries",
+      "cite": "Central Pattana, 2021; Central Pattana, 2022"
+    },
+    {
+      "on_slide": "Key sources named in the table",
+      "meaning": "Examples of entries by type: MD&A 2Q26 is 2026g, MD&A 4Q25 and 2025 is 2026p, One Report 2025 is Central Pattana Investor Relations (2026)",
+      "where": "publish/refs.md entries",
+      "cite": "Central Pattana, 2026g; Central Pattana, 2026p; Central Pattana Investor Relations, 2026"
+    }
+  ]
+}

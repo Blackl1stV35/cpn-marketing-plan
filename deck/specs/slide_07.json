@@ -1,0 +1,148 @@
+{
+  "n": 7,
+  "id": "S7",
+  "kind": "core",
+  "layout": "research_kpis",
+  "title": "Research and indicators",
+  "section": "4.5, 6.1 · Research and KPIs",
+  "status": "NEW",
+  "seconds": 35,
+  "presenter": "P4",
+  "headline": "We propose to measure Gen Z and young adults by survey (ages 20–29) and member data (18–29), with baselines by 31 March 2027 to set targets against our data.",
+  "body": {
+    "methods": [
+      {
+        "name": "S2 The 1 cohort analytics",
+        "what": "Active members, visits and spend per member by age band",
+        "when": "Jan–Feb; quarterly"
+      },
+      {
+        "name": "S4 Intercept survey",
+        "what": "1,500 respondents aged 20+, 300 per centre, weighted to footfall",
+        "when": "Jan–Mar; waves Q2–Q4"
+      },
+      {
+        "name": "S5 Tourist research",
+        "what": "Tourist registrations, partner spend, exit surveys",
+        "when": "Baseline Q1; repeat Q3"
+      },
+      {
+        "name": "S6 Sustainability tracker",
+        "what": "Unaided sustainability association, 400 per segment",
+        "when": "Q1 baseline; quarterly"
+      }
+    ],
+    "kpis": [
+      {
+        "name": "K1 20–29 share of visitors aged 20+",
+        "baseline": "Set by 31 Mar 2027",
+        "target": "+4 points by Q4 wave",
+        "tag": "M1"
+      },
+      {
+        "name": "K3 India/Gulf/Europe registrants",
+        "baseline": "Set by 31 Mar 2027",
+        "target": "+5 points by Q4",
+        "tag": "M2"
+      },
+      {
+        "name": "K4 O2O conversion",
+        "baseline": "Set by 31 Mar 2027",
+        "target": "+10% relative by Q4",
+        "tag": "M3"
+      },
+      {
+        "name": "K13 Average occupancy",
+        "baseline": "91% in 2Q26",
+        "target": "No quarter below 90%",
+        "tag": "F1"
+      }
+    ]
+  },
+  "notes": "We define Gen Z and young adults as ages 18 to 29. Our survey reaches only people aged 20 and over, the age of majority, so it measures 20 to 29; member data cover active members 18 to 29. We found no CPN age split of visits, so we set a baseline by 31 March 2027. The only published comparator, 14.7 percent for ages 13 to 24, is another band. Four indicators track proposed targets.",
+  "sources": [
+    "DataReportal, 2025",
+    "Central Pattana, 2026a",
+    "Central Pattana, 2026g"
+  ],
+  "facts": [
+    {
+      "on_slide": "ages 20–29 (survey) / 18–29 (member data)",
+      "meaning": "The plan defines Gen Z and young adults as ages 18 to 29 (a team definition, not CPN's); the survey reaches only respondents aged 20 and over (the age of majority), so it measures ages 20 to 29, and The 1 member data cover active members aged 18 to 29",
+      "where": "ch4.md section 4.5, age-band paragraph; corrections.md Facts (age bands)",
+      "cite": "team definition"
+    },
+    {
+      "on_slide": "31 March 2027 / January to March 2027 / Set by 31 Mar 2027",
+      "meaning": "The team builds the baseline between 1 January and 31 March 2027; K1, K3 and K4 baselines are to be established under 4.5 by 31 March 2027",
+      "where": "ch4.md section 4.5, baseline paragraph; ch6.md Table 6.3 rows K1, K3, K4",
+      "cite": "team plan"
+    },
+    {
+      "on_slide": "14.7% / ages 13 to 24 (notes)",
+      "meaning": "DataReportal's 14.7% share of the population aged 13 to 24, the only published comparator; a different band, so comparisons are indicative only",
+      "where": "ch4.md section 4.5, age-band paragraph; ch6.md Table 6.3 row K1",
+      "cite": "DataReportal, 2025"
+    },
+    {
+      "on_slide": "We found no CPN age split of visits, so we set a baseline by 31 March 2027 (notes)",
+      "meaning": "Negative finding: CPN publishes only totals for all visits and international visits, no age-group split, in the documents reviewed",
+      "where": "ch4.md section 4.5 first paragraph; ch6.md chapter introduction",
+      "cite": "Central Pattana, 2026a"
+    },
+    {
+      "on_slide": "S2 The 1 cohort analytics; Jan–Feb; quarterly",
+      "meaning": "Active members, visits and spend per member by age band; timing January–February, then quarterly",
+      "where": "ch4.md section 4.5 table row S2; baseline paragraph",
+      "cite": "The1 Central Limited extracts; team plan"
+    },
+    {
+      "on_slide": "S4 Intercept survey: 1,500 adults, 300 per centre; Jan–Mar; waves Q2–Q4",
+      "meaning": "Intercept survey of 1,500 adults, 300 per centre, weighted to footfall; baseline January–March, waves Q2–Q4, repeated quarterly",
+      "where": "ch4.md section 4.5 table row S4",
+      "cite": "team plan"
+    },
+    {
+      "on_slide": "S5 Tourist research; Baseline Q1; repeat Q3",
+      "meaning": "Tourist registrations, partner spend by nationality, exit surveys; baseline Q1, repeat Q3",
+      "where": "ch4.md section 4.5 table row S5",
+      "cite": "Central Pattana, 2026k"
+    },
+    {
+      "on_slide": "S6 Sustainability tracker: 400 per segment; Q1 baseline; quarterly",
+      "meaning": "M5 tracker, unaided and aided sustainability association, 400 respondents per segment per wave; wave 0 in Q1, then one wave a quarter",
+      "where": "ch4.md section 4.5 table row S6",
+      "cite": "Standard Insights, 2026"
+    },
+    {
+      "on_slide": "K1 M1: +4 points by Q4 wave",
+      "meaning": "Share of visitors aged 20 and over who are aged 20–29 (survey); baseline to be established by 31 March 2027; target +4 points by the Q4 wave [Proposed; to be re-checked on the 20–29 baseline]",
+      "where": "ch6.md Table 6.3 row K1",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "K3 India/Gulf/Europe registrants M2: +5 points by Q4",
+      "meaning": "India, Middle East and Europe share of tourist registrants (Table 6.3 wording; Chapter 4 line 6 and D3 and Table 6.6 say Gulf for the same markets); baseline to be established by 31 March 2027; target +5 points by Q4 [Proposed]",
+      "where": "ch6.md Table 6.3 row K3; ch4.md section 4.3 row D3 and budget table line 6; ch6.md Table 6.6 row 3",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "K4 M3: +10% relative by Q4",
+      "meaning": "O2O conversion, share of CENTRAL X event registrants who scan a receipt within 30 days; baseline to be established by 31 March 2027; target +10% relative by Q4 [Proposed]",
+      "where": "ch6.md Table 6.3 row K4",
+      "cite": "team proposal"
+    },
+    {
+      "on_slide": "K13 F1: 91% in 2Q26; no quarter below 90%",
+      "meaning": "Quarterly average occupancy of shopping and community malls in the CPN MD&A; 91% in 2Q26; target no quarter below 90% [Proposed]",
+      "where": "ch6.md Table 6.3 row K13",
+      "cite": "Central Pattana, 2026g"
+    },
+    {
+      "on_slide": "four methods / four indicators",
+      "meaning": "Four of the seven research tasks (S2, S4, S5, S6) and four of the 15 Chapter 6 KPIs (K1, K3, K4, K13)",
+      "where": "ch4.md section 4.5 table; ch6.md Table 6.3",
+      "cite": "team plan"
+    }
+  ]
+}

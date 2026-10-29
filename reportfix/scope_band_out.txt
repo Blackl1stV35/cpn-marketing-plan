@@ -1,0 +1,37 @@
+﻿##### SEC 2-3
+##### CH 4-6
+[21709-22638] (3 hits) [Proposed] Age bands, defined once for the plan. The plan measures Gen Z and young adults as ages 18
+      ...efined once for the plan. The plan measures Gen Z and young adults as ages 18 to 29 (a team definition, not CPN's); the surveys reach only respondents aged 20 and over
+      ...29 (a team definition, not CPN's); the surveys reach only respondents aged 20 and over, whom the team treats as able to consent alone under the PDPA, and younger respo
+      ... indicative only. Table 5.2 row C1's 25% is a team assumption for the 18–29 band's share of visits. S2, S4 and Chapter 6 indicators K1 and K2 use this band, and age 
+[22638-23738] (2 hits) [Proposed] The team builds the baseline between 1 January and 31 March 2027. The1 Central Limited, w
+      ...CPN's definition of a visit. An intercept survey of 1,500 respondents aged 20 and over, 300 per centre, is weighted to the footfall profile; its margin of error is abo
+      ... at a 25% base share, the share that Table 5.2 row C1 assumes for the 18–29 band (team calculation, simple random sampling, so minimums). The policy names the Data P
+[24817-25800] (1 hits) [Proposed] The team read the Thai Royal Gazette text of the Personal Data Protection Act; no officia
+      ..., not people counting (Central Pattana, n.d.-a), and only respondents aged 20 and over are surveyed in wave 1 (the team treats them as able to consent alone under s.20
+[25883-26166] (1 hits) [Proposed] PDPA set-up: data-sharing agreement for aggregated The 1 extracts, impact assessment for 
+      ...ur breach drill, notice before any camera-based counting; respondents aged 20 and over only in wave 1 of the S4 intercept survey 
+[26509-26939] (1 hits) [Proposed] The 1 cohort analytics by age band: share of active members aged 18–29, visits and spend 
+      ...Proposed] The 1 cohort analytics by age band: share of active members aged 18–29, visits and spend per member in that band (age bands above 29 are read beside it as a 
+[27034-27199] (1 hits) Ages 13–24 are 14.7% of the population (DataReportal, 2025), an indicative comparator that is wider 
+      ...r that is wider at the young end and narrower at the old end than the 18–29 band 
+[27628-27776] (2 hits) [Proposed] Intercept survey: 1,500 respondents aged 20 and over, 300 per centre, weighted to footfal
+      ...[Proposed] Intercept survey: 1,500 respondents aged 20 and over, 300 per centre, weighted to footfall, reporting the 18–29 band; repeated quarte
+      ...aged 20 and over, 300 per centre, weighted to footfall, reporting the 18–29 band; repeated quarterly 
+[38986-39034] (1 hits) M1 Gen Z and young-adult visits (ages 18 to 29)
+      ...M1 Gen Z and young-adult visits (ages 18 to 29) 
+[39120-39869] (1 hits) Share, frequency and yield are team assumptions: the 25% is the team's assumed share of visits made 
+      ...ssumptions: the 25% is the team's assumed share of visits made by the 18 to 29 band that Section 4.5 defines as Gen Z and young adults. CPN publishes no Gen Z share and
+[69442-69601] (2 hits) K1 Gen Z and young-adult (18–29) share of footfall; the plan measures this band as a team definition
+      ...K1 Gen Z and young-adult (18–29) share of footfall; the plan measures this band as a team definition (Section 4.5); surve
+      ...is band as a team definition (Section 4.5); surveys reach respondents aged 20 and over 
+[69606-69715] (1 hits) Intercept survey of 1,500 respondents aged 20 and over (300 per centre) weighted to entrance counts 
+      ...Intercept survey of 1,500 respondents aged 20 and over (300 per centre) weighted to entrance counts (S3, S4) 
+[70002-70234] (1 hits) +4 points by the Q4 wave [Proposed]; smallest detectable change 3.6 points at a 50% base and 3.1 poi
+      ... base and 3.1 points at a 25% base share, the team assumption for the 18–29 band's share of visits in Table 5.2 row C1 (team calculation, n = 1,500) 
+[70374-70514] (1 hits) Aggregated visits per active member in the 18–29 age band (the same band as K1; the 13–24 comparator
+      ...Aggregated visits per active member in the 18–29 age band (the same band as K1; the 13–24 comparator is a different band), per quarter (S2
+[75962-76108] (1 hits) Data-sharing agreement, separate marketing consent, 72-hour breach drill, wave 1 limited to responde
+      ...arketing consent, 72-hour breach drill, wave 1 limited to respondents aged 20 and over (S1); confirmed breaches 
+[85166-85632] (1 hits) S1 set-up; aggregated extracts only; wave 1 limited to respondents aged 20 and over; count-only coun
+      ...S1 set-up; aggregated extracts only; wave 1 limited to respondents aged 20 and over; count-only counters. Fines run to ฿1, ฿3 or ฿5 million by tier (Personal Data P

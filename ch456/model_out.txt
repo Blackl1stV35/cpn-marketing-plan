@@ -1,0 +1,589 @@
+CHAPTER 5 MODEL OUTPUT  (THB million unless stated)
+Self-checks on reported inputs and model identities: passed
+
+== INPUTS ==
+FY2025 (MD&A FY2025): rs=43,721, hotel=1,962, resi=4,351, other=2,975, rev=53,009, c_rs=17,469, c_hotel=653, c_resi=2,912, c_total=21,035, sga=8,692, op=23,281, jv=2,414, inv=1,570, fin=3,705, tax=4,385, mi=335, np=18,841, netcomb=4,105, one_off_other=1,234, inv_rama=1,415, rama_after_tax=2,119, rev_core=51,775, op_core=22,047, np_core=16,722
+6M25 (MD&A 2Q26): rs=21,516, hotel=970, resi=1,095, other=726, rev=24,308, c_rs=8,681, c_hotel=330, c_resi=749, c_total=9,760, sga=4,042, op=10,506, netcomb=1,806, mi=168, np=8,532, np_core=7,749
+6M26 (MD&A 2Q26): rs=22,957, hotel=1,020, resi=1,247, other=1,233, rev=26,457, c_rs=8,899, c_hotel=334, c_resi=859, c_total=10,092, sga=4,329, op=12,035, netcomb=2,123, mi=191, np=9,721, np_core=9,524
+2H25 = FY2025 - 6M25 (derived): rs=22,205, hotel=992, resi=3,256, other=2,249, rev=28,701, c_rs=8,788, c_hotel=323, c_resi=2,163, c_total=11,275, sga=4,650, op=12,775, netcomb=2,299, mi=167, np=10,309
+2Q26 detail (MD&A 2Q26): jv=741, inv=285, inv_rama=123, fin=1,017, tax=980, mi=92, other=471, other_2q25=486, rs=11,530, rs_2q25=10,724, op=5,813
+utilities FY2025 6,272; visits 510m (international 70m); The 1 BIZ stores 3,000 of 18,000; new NLA 140,000 of 2,400,000 sqm
+
+== REFERENCE FACTS QUOTED IN THE CHAPTER (not calculated; source in model.py comments) ==
+TRIS (2026): operating revenue 55,000-60,000 a year 2026-2028; rental-rate growth 2%-3%; EBITDA margin 60%-62%; capex THB 62 billion 2026-2028
+Bank of Thailand (2026), MPC decision 5/2026 of 28 October 2026: GDP growth 2.4% (2026), 2.1% (2027); headline inflation 2.1% (2026), 1.3% (2027)
+CPN SG&A to revenue band 16%-18% (3Q25-2Q26); FY2025 17%; 4Q25 18%
+CPN 2Q26 deck slide 15: cost of debt down 10-20 bps; net D/E about 0.5x; new NLA about +6%; 5 hotels (375 keys)
+flagship latest editions (600, 600, 800); The 1 BIZ partner marketing 200; 3Q26 earnings call 16 November 2026
+F1 test: high single digit 7.0%-9.0%; margin floor 35.5% (exact quotient 35.54%)
+CPN core net profit FY2025 16,722 against FY2024 15,593 (CPN prints +7%)
+
+== BUDGET (Chapter 4) ==
+gross 2760, embedded 2200, net-new 560 = programme tactics 240 + support 320; lines 4-11 860; flagships 1900 (2026 editions 2000); gated 310, second tranche 155.0
+net by line: {1: -100, 2: 0, 3: 0, 4: 150, 5: 250, 6: 100, 7: 60, 8: 0, 9: 30, 10: 50, 11: 20}
+quarterly gross : [1005.0, 605.0, 180.0, 970.0]
+quarterly embed : [950.0, 350.0, 50.0, 850.0]
+quarterly net   : [55.0, 255.0, 130.0, 120.0]
+
+== UPLIFT PARAMETERS (share of organic R&S revenue, before pass-through and delivery) ==
+{'u1': 0.0125, 'u2': 0.00549, 'u3': 0.0, 'u4': 0.00833, 'raw': 0.02632, 'full': 0.01316, 'intl_share': 0.13725, 'biz_share': 0.16667}  pass-through 0.5  ramp (0.5, 1.0)
+
+== CONTRIBUTION MARGIN CASES ==
+{'Low': 0.4258, 'Base': 0.6004, 'High': 0.8627}
+
+== SCENARIO CONSERVATIVE (with plan) ==
+2H26: rs=23,315.2, hotel=992.0, resi=2,767.6, other=984.5, rev=28,059.4, c_total=11,458.7, sga=5,022.0, mkt=0.0, op=11,578.7, netcomb=2,004.9, mi=191.0, np=9,382.8, uplift=0.0
+FY26: rs=46,272.2, hotel=2,012.0, resi=4,014.6, other=2,217.6, rev=54,516.4, c_total=21,550.7, sga=9,351.0, mkt=0.0, op=23,613.7, netcomb=4,127.9, mi=382.0, np=19,103.8, uplift=0.0
+FY27: rs=48,281.5, hotel=2,072.4, resi=4,014.6, other=1,921.7, rev=56,290.1, c_total=22,840.0, sga=9,912.1, mkt=560.0, op=22,978.0, netcomb=4,104.2, mi=401.1, np=18,472.8, uplift=158.3
+FY28: rs=50,377.4, hotel=2,134.5, resi=4,014.6, other=1,960.1, rev=58,486.7, c_total=23,952.3, sga=10,506.8, mkt=560.0, op=23,467.6, netcomb=4,337.5, mi=421.2, np=18,709.0, uplift=329.4
+
+== SCENARIO BASE (with plan) ==
+2H26: rs=23,870.4, hotel=1,041.6, resi=3,093.2, other=984.5, rev=28,989.7, c_total=11,680.2, sga=4,929.0, mkt=0.0, op=12,380.5, netcomb=2,165.3, mi=191.0, np=10,024.2, uplift=0.0
+FY26: rs=46,827.4, hotel=2,061.6, resi=4,340.2, other=2,217.6, rev=55,446.7, c_total=21,772.2, sga=9,258.0, mkt=0.0, op=24,415.5, netcomb=4,288.3, mi=382.0, np=19,745.2, uplift=0.0
+FY27: rs=50,199.4, hotel=2,226.5, resi=4,774.2, other=1,921.7, rev=59,121.8, c_total=23,682.7, sga=9,720.9, mkt=560.0, op=25,158.2, netcomb=4,326.9, mi=401.1, np=20,430.2, uplift=328.2
+FY28: rs=53,559.2, hotel=2,404.7, resi=5,251.6, other=1,960.1, rev=63,175.6, c_total=25,388.8, sga=10,206.9, mkt=560.0, op=27,019.9, netcomb=4,610.0, mi=421.2, np=21,988.7, uplift=695.8
+
+== SCENARIO OPTIMISTIC (with plan) ==
+2H26: rs=24,203.5, hotel=1,071.4, resi=3,418.8, other=984.5, rev=29,678.2, c_total=11,921.7, sga=4,882.5, mkt=0.0, op=12,873.9, netcomb=2,264.0, mi=191.0, np=10,418.9, uplift=0.0
+FY26: rs=47,160.4, hotel=2,091.4, resi=4,665.8, other=2,217.6, rev=56,135.2, c_total=22,013.7, sga=9,211.5, mkt=0.0, op=24,908.9, netcomb=4,387.0, mi=382.0, np=20,139.9, uplift=0.0
+FY27: rs=51,436.1, hotel=2,300.5, resi=5,365.7, other=1,921.7, rev=61,023.9, c_total=24,061.6, sga=9,580.0, mkt=560.0, op=26,822.3, netcomb=4,505.7, mi=401.1, np=21,915.5, uplift=502.8
+FY28: rs=55,834.3, hotel=2,530.5, resi=6,170.5, other=1,960.1, rev=66,495.4, c_total=26,268.7, sga=9,963.2, mkt=560.0, op=29,703.6, netcomb=4,825.9, mi=421.2, np=24,456.5, uplift=1,081.0
+
+== SCENARIO CONSERVATIVE (without plan) ==
+FY26: rev=54,516.4, op=23,613.7, np=19,103.8, margin=35.04%
+FY27: rev=56,131.8, op=23,443.0, np=18,844.7, margin=33.57%
+FY28: rev=58,157.3, op=23,829.9, np=18,998.8, margin=32.67%
+
+== SCENARIO BASE (without plan) ==
+FY26: rev=55,446.7, op=24,415.5, np=19,745.2, margin=35.61%
+FY27: rev=58,793.6, op=25,521.1, np=20,720.5, margin=35.24%
+FY28: rev=62,479.8, op=27,162.1, np=22,102.5, margin=35.38%
+
+== SCENARIO OPTIMISTIC (without plan) ==
+FY26: rev=56,135.2, op=24,908.9, np=20,139.9, margin=35.88%
+FY27: rev=60,521.1, op=27,080.5, np=22,122.0, margin=36.55%
+FY28: rev=65,414.5, op=29,614.5, np=24,385.3, margin=37.28%
+
+== SUMMARY CHECKS ==
+2H26E core net profit growth vs 2H25 core (base): 9.5% | FY2026E core net profit growth (base): 15.7%
+TRIS range test (55,000-60,000): {'Conservative': {'FY26': False, 'FY27': True, 'FY28': True}, 'Base': {'FY26': True, 'FY27': True, 'FY28': False}, 'Optimistic': {'FY26': True, 'FY27': False, 'FY28': False}}
+Break-even pass-through at FY2028E run-rate (base, all net-new): 67.0% | programme tactics: 28.7% | required uplift % of FY2028E organic R&S: 1.76%
+
+== MARKDOWN TABLES ==
+
+[assump]
+| ID | Assumption | Conservative | Base | Optimistic | Source or status |
+|:---|:---|:---|:---|:---|:---|
+| A1 | Horizon | FY2026E is the base year (6M26 actual + 2H26E); FY2027E is the plan year; FY2028E follows | as base | as base | Team design; 6M26 from the MD&A 2Q26 (Central Pattana, 2026g) |
+| A2 | Scenario meaning | Stress: slower growth, cost pressure and half of the assumed programme gain | 2Q26 run-rate, 2026 guidance and full delivery of the assumed programme gain (Table 5.2 rows C1 to C6) | CPN's high-single-digit target met by definition (a target, not a forecast) and 1.5 times the assumed programme gain | Team design |
+| A3 | Revenue basis | MD&A total revenue: rental and services, hotel, residential and other income; investment income excluded | as base | as base | Central Pattana, 2026p |
+| A4 | One-offs | None assumed. FY2025's ฿1,234 million other-income gain and ฿1,415 million lease interest (฿2,119 million after tax) are excluded; Rama 2 lease interest continues at ฿123 million a quarter | as base | as base | Central Pattana, 2026g, 2026p. Bloomberg (2025) headlines one-off boosts to 3Q25 profit (paywalled, article text not read) |
+| B1 | Rental and services (R&S) growth, 2H26E y/y | 5.0% | 7.5% | 9.0% | Team assumption anchored to 6M26 +6.7% and 2Q26 +7.5% (Central Pattana, 2026g) and 2026 guidance of high single digit, new net leasable area about +6%, same-store rental revenue low-to-mid single digit (Central Pattana, 2026q, slide 15) |
+| B2 | R&S organic growth, FY2027E / FY2028E | 4.0% / 4.0% | 6.5% / 6.0% | 8.0% / 7.5% | Team assumption anchored to about 140,000 square metres opening from 4Q26 to 2Q27, 5.8% of 2.4 million: 10,000 at Central Phuket (4Q26), 100,000 for the project the MD&A lists as "The Central" at 1Q27, which the team reads as The Central Phaholyothin (CPN's October 2025 release targeted Q4 2026), and 30,000 for CenTRal cENtrAL retail (2Q27) (Central Pattana, 2026b, 2026g, p. 7); rental-rate growth 2% to 3% (TRIS Rating, 2026); Bank of Thailand growth projection of 2.4% in 2026 and 2.1% in 2027 (Bank of Thailand, 2026); CPN targets high-single-digit revenue growth for 2026 to 2030 (Central Pattana, 2026q, slide 16) |
+| B3 | Hotel growth: 2H26E; FY2027E / FY2028E | 0.0%; 3.0% / 3.0% | 5.0%; 8.0% / 8.0% | 8.0%; 10.0% / 10.0% | Team assumption anchored to 6M26 +5.2% (Central Pattana, 2026g) and guidance 'maintained' with 5 more hotels, 375 keys (Central Pattana, 2026q, slide 15) |
+| B4 | Residential growth: 2H26E y/y; FY2027E / FY2028E | -15.0%; 0.0% / 0.0% | -5.0%; 10.0% / 10.0% | 5.0%; 15.0% / 15.0% | Team assumption anchored to guidance 'maintained' (flat in the base case) and residential revenue growth of about 10% a year over five years (Central Pattana, 2026q, slides 15 and 16) |
+| B5 | Other income | 2H26E: 2H25 core other income (฿1,015 million) at -3%; then 4 x ฿471 million (2Q26) growing 2% a year; no new FX or lease-extension gains | as base | as base | Team assumption anchored to 2Q26 other income, 3% below 2Q25 (Central Pattana, 2026g, 2026p) |
+| C1 | M1 Gen Z and young-adult visits (ages 18 to 29) | 25% of visits x +10% frequency x 50% yield = 1.25% of organic R&S | as base | as base | Share, frequency and yield are team assumptions: the 25% is the team's assumed share of visits made by the 18 to 29 band that Section 4.5 defines as Gen Z and young adults. CPN publishes no Gen Z share and Section 4.5 sets no visit-frequency KPI (Gen Z targets wait for the Q1 2027 baseline). The only published comparator is DataReportal's ages 13 to 24 (14.7% of the population; DataReportal, 2025; team sum), a different band, so the comparison is indicative only; at 14.7% the base-case uplift would be ฿264 million in FY2027E and ฿560 million in FY2028E, and FY2027E revenue growth 0.1 point lower (team calculation). Chapter 6 adopts the +10% frequency as a [Proposed] target (K2); it is set equal to the assumption and is not evidence for it |
+| C2 | M2 international visits | 13.7% of visits (70 of 510 million, both reported as 'over') x +4% x 100% yield = 0.55% | as base | as base | Visit counts: Central Pattana, 2026a; uplift and yield: team assumptions |
+| C3 | M3 O2O conversion | No separate revenue; CENTRAL X is the channel that delivers M1, M2 and M4, so counting it again would double count | as base | as base | Team design |
+| C4 | M4 The 1 BIZ partner stores | 16.7% of revenue (store-count proxy: over 3,000 of over 18,000 stores) x +5% sales lift = 0.83% | as base | as base | Company-reported store counts, defined differently (Central Pattana, 2026a, 2026m); whether all 3,000 stores are CPN tenants is not disclosed; lift: team assumption (Section 4.5 sets no partner-sales KPI; CPN's own claim is up to 10% within six months, comparison group undefined; Central Pattana, 2024e); CPN publishes no revenue share. Chapter 6 adopts the +5% lift as a [Proposed] target (K5); it is set equal to the assumption and is not evidence for it |
+| C5 | Pass-through to CPN revenue | 50% of a gain in visits or tenant sales reaches CPN's revenue (run-rate effect 1.32%) | as base | as base | Team assumption; leases carry fixed and variable rent and CPN does not disclose the split (Central Pattana Investor Relations, 2026) |
+| C6 | Delivery of the assumed programme gain; ramp 50% in FY2027E and 100% in FY2028E | 0.5x | 1.0x | 1.5x | Team assumption; the effect builds from the Q1 baseline to the Q4 target (average 50%) and is full in FY2028E; the plan is repeated in FY2028E |
+| D1 | R&S cost ratio, 2H26E: improvement on 2H25 (points) | 0.0 | 1.0 | 1.5 | Team assumption anchored to the 2H25 ratio of 39.6%; 6M26 improved 1.6 points on 6M25 (Central Pattana, 2026g) |
+| D2 | R&S cost ratio change, FY2027E / FY2028E (points) | +1.0 / +0.5 | +0.5 / +0.0 | -0.3 / -0.2 | Team assumption for new-space start-up costs; TRIS expects an EBITDA margin of about 60% to 62% (TRIS Rating, 2026) |
+| D3 | Hotel and residential cost ratios | 32.7% and 68.9% (6M26 actual) | as base | as base | Team assumption: 6M26 actual ratios held (Central Pattana, 2026g) |
+| D4 | SG&A growth: 2H26E; FY2027E / FY2028E | 8.0%; 6.0% / 6.0% | 6.0%; 5.0% / 5.0% | 5.0%; 4.0% / 4.0% | Team assumption anchored to 6M26 +7.1% (Central Pattana, 2026g) and Bank of Thailand headline inflation projection of 2.1% in 2026 and 1.3% in 2027 (Bank of Thailand, 2026) |
+| D5 | Net-new marketing | ฿560 million in FY2027E and again in FY2028E, all assumed to be borne by CPN (its share of joint or partner-funded campaigns is not stated), spread equally over each line's Section 4.5 spend window and expensed in SG&A as spent | as base | as base | Section 4.5 budget; bridge in Table 5.9 |
+| D6 | Contribution-margin ratio for the break-even test (low / base / high) | 42.6% | 60.0% | 86.3% | Low: FY2025 core operating margin; base: R&S gross margin (Central Pattana, 2026p); high: 1 minus utility expenses of ฿6,272 million over R&S and hotel revenue of ฿45,683 million, so only utilities vary with traffic (Central Pattana Investor Relations, 2026, note 24; team calculation) |
+| E1 | Share of JV profit: 2H26E is 2 x ฿741 million (2Q26); growth a year after | 0% | 5% | 8% | Team assumption anchored to the 2Q26 run-rate (Central Pattana, 2026g) |
+| E2 | Investment income | 2H26E 2 x ฿285 million; then ฿1,140 million a year | as base | as base | Team assumption: 2Q26 run-rate, which includes ฿123 million of Rama 2 lease interest (Central Pattana, 2026g) |
+| E3 | Finance cost: 2H26E is 2 x ฿1,017 million (2Q26), then ฿4,068 million a year growing at | 4% | 2% | 0% | Team assumption anchored to the 2Q26 run-rate (Central Pattana, 2026g); guidance: cost of debt down 10 to 20 basis points, net debt to equity about 0.5x (Central Pattana, 2026q, slide 15); TRIS assumes capex of ฿62 billion in 2026 to 2028 (TRIS Rating, 2026) |
+| E4 | Income tax | 20% of profit before tax excluding JV profit | as base | as base | Team assumption between the FY2025 implied rate of 20.7% and the 2Q26 implied rate of 19.3% (team calculation from Central Pattana, 2026g, 2026p) |
+| E5 | Minority interest | 2H26E equals 6M26 (฿191 million); +5% a year after | as base | as base | Team assumption anchored to 6M26 (Central Pattana, 2026g) |
+| V1 | Visit base for the break-even visit counts | 510 million ('over', FY2025), held flat; revenue per visit is CPN's R&S revenue divided by visits, not shopper spend; the half-yield case reuses Table 5.2 row C1's 50% | as base | as base | Company-reported visits (Central Pattana, 2026a) |
+| V2 | Tests for objective F1 | High single digit = 7.0% to 9.0%; margin floor 35.5%, which is the quotient 18,841 / 53,009 = 35.54% rounded to 35.5%; the shortfalls in Section 5.3 and Table 5.11 use the rounded floor | as base | as base | Team definition; the MD&A prints 35.6% for FY2025 (Central Pattana, 2026p) |
+
+[baseline]
+| THB million | FY2025A | 6M25A | 2H25 (derived) | 6M26A |
+|:---|---:|---:|---:|---:|
+| Rental and services revenue | 43,721 | 21,516 | 22,205 | 22,957 |
+| Hotel revenue | 1,962 | 970 | 992 | 1,020 |
+| Residential revenue | 4,351 | 1,095 | 3,256 | 1,247 |
+| Other income | 2,975 | 726 | 2,249 | 1,233 |
+| Total revenue | 53,009 | 24,308 | 28,701 | 26,457 |
+| Cost of rental and services | 17,469 | 8,681 | 8,788 | 8,899 |
+| Cost of hotel | 653 | 330 | 323 | 334 |
+| Cost of residential | 2,912 | 749 | 2,163 | 859 |
+| SG&A (administrative expenses) | 8,692 | 4,042 | 4,650 | 4,329 |
+| Operating profit | 23,281 | 10,506 | 12,775 | 12,035 |
+| Net finance cost, income tax and others | 4,105 | 1,806 | 2,299 | 2,123 |
+| Minority interest | 335 | 168 | 167 | 191 |
+| Net profit to parent | 18,841 | 8,532 | 10,309 | 9,721 |
+| Net margin (net profit / total revenue) | 35.5% | 35.1% | 35.9% | 36.7% |
+
+[be]
+| Cost base | Contribution margin | Extra revenue needed (THB m) | % of FY2026E R&S revenue | % of FY2026E total revenue | Extra visits (million) | Extra revenue per visit (THB) | Extra visits if each earns half the average (million) |
+|:---|:---|---:|---:|---:|---:|---:|---:|
+| Programme tactics, ฿240m | Low: 42.6% | 564 | 1.2% | 1.0% | 6.1 | 1.11 | 12.3 |
+| Programme tactics, ฿240m | Base: 60.0% | 400 | 0.9% | 0.7% | 4.4 | 0.78 | 8.7 |
+| Programme tactics, ฿240m | High: 86.3% | 278 | 0.6% | 0.5% | 3.0 | 0.55 | 6.1 |
+| All net-new spend charged to SG&A, ฿560m | Low: 42.6% | 1,315 | 2.8% | 2.4% | 14.3 | 2.58 | 28.6 |
+| All net-new spend charged to SG&A, ฿560m | Base: 60.0% | 933 | 2.0% | 1.7% | 10.2 | 1.83 | 20.3 |
+| All net-new spend charged to SG&A, ฿560m | High: 86.3% | 649 | 1.4% | 1.2% | 7.1 | 1.27 | 14.1 |
+
+[pb]
+| Cost base (a year) | Cost (THB m) | Break-even revenue at 60.0% (THB m) | % of FY2026E R&S revenue | Base-case contribution FY2027E (THB m) | Base-case contribution FY2028E (THB m) | Cumulative profit to FY2028E (THB m) | Payback (years) |
+|:---|---:|---:|---:|---:|---:|---:|---:|
+| Programme tactics (lines 1, 4, 6, 7, 9; net) | 240 | 400 | 0.9% | 197 | 418 | 135 | 1.2 |
+| All net-new spend charged to SG&A | 560 | 933 | 2.0% | 197 | 418 | -505 | not reached |
+| Whole FY2027 ceiling (lines 1 to 11) | 2,760 | 4,597 | 9.8% | 197 | 418 | -4,905 | not reached |
+
+[pbs]
+| Scenario | Uplift FY2027E (THB m) | Uplift FY2028E (THB m) | FY2028E revenue per baht of net-new spend | Payback: programme tactics (years) | Payback: all net-new, base margin (years) | Payback: all net-new, high margin (years) |
+|:---|---:|---:|---:|---:|---:|---:|
+| Conservative | 158 | 329 | 0.59 | not reached | not reached | not reached |
+| Base | 328 | 696 | 1.24 | 1.2 | not reached | 7.9 (beyond FY2028E) |
+| Optimistic | 503 | 1,081 | 1.93 | 0.8 | 3.9 (beyond FY2028E) | 1.3 |
+
+[rev]
+| THB million | FY2025A | FY2026E | FY2027E | FY2028E |
+|:---|---:|---:|---:|---:|
+| Conservative: total revenue (growth) | 53,009 | 54,516 (+2.8%) | 56,290 (+3.3%) | 58,487 (+3.9%) |
+| Conservative: organic baseline | 53,009 | 54,516 | 56,132 | 58,157 |
+| Conservative: programme uplift (M1 to M4) | - | - | 158 | 329 |
+| Base: total revenue (growth) | 53,009 | 55,447 (+4.6%) | 59,122 (+6.6%) | 63,176 (+6.9%) |
+| Base: organic baseline | 53,009 | 55,447 | 58,794 | 62,480 |
+| Base: programme uplift (M1 to M4) | - | - | 328 | 696 |
+| Optimistic: total revenue (growth) | 53,009 | 56,135 (+5.9%) | 61,024 (+8.7%) | 66,495 (+9.0%) |
+| Optimistic: organic baseline | 53,009 | 56,135 | 60,521 | 65,414 |
+| Optimistic: programme uplift (M1 to M4) | - | - | 503 | 1,081 |
+
+[build]
+| THB million (base case) | FY2025A | FY2026E | FY2027E | FY2028E |
+|:---|---:|---:|---:|---:|
+| Rental and services, organic | 43,721 | 46,827 | 49,871 | 52,863 |
+| Uplift, M1 Gen Z visits | - | - | 156 | 330 |
+| Uplift, M2 international visits | - | - | 68 | 145 |
+| Uplift, M3 O2O conversion (counted in M1, M2, M4) | - | - | 0 | 0 |
+| Uplift, M4 The 1 BIZ partner stores | - | - | 104 | 220 |
+| Rental and services, total | 43,721 | 46,827 | 50,199 | 53,559 |
+| Hotel | 1,962 | 2,062 | 2,227 | 2,405 |
+| Residential | 4,351 | 4,340 | 4,774 | 5,252 |
+| Other income | 2,975 | 2,218 | 1,922 | 1,960 |
+| Total revenue | 53,009 | 55,447 | 59,122 | 63,176 |
+| Total revenue growth | - | +4.6% | +6.6% | +6.9% |
+| Rental and services growth | - | +7.1% | +7.2% | +6.7% |
+
+[f1]
+| Scenario | R&S growth FY2027E / FY2028E | Total revenue growth FY2027E / FY2028E | Gap to 7.0% (points) FY2027E / FY2028E | Total revenue CAGR FY2026E to FY2028E | F1 revenue test met (7.0% or more in both years) |
+|:---|---:|---:|---:|---:|---:|
+| Conservative | +4.3% / +4.3% | +3.3% / +3.9% | -3.7 / -3.1 | 3.6% | No |
+| Base | +7.2% / +6.7% | +6.6% / +6.9% | -0.4 / -0.1 | 6.7% | No |
+| Optimistic | +9.1% / +8.6% | +8.7% / +9.0% | +1.7 / +2.0 | 8.8% | Yes |
+
+[bud]
+| THB million | Q1 | Q2 | Q3 | Q4 | FY2027E |
+|:---|---:|---:|---:|---:|---:|
+| Gross ceiling, lines 1 to 11 (Section 4.5) | 1,005 | 605 | 180 | 970 | 2,760 |
+| Less: already in the FY2026E cost base (flagships at their latest disclosed editions, The 1 BIZ flat) | 950 | 350 | 50 | 850 | 2,200 |
+| Net-new spend charged to SG&A | 55 | 255 | 130 | 120 | 560 |
+
+[pl]
+| THB million | FY2025A | 6M26A | 2H26E | FY2026E | FY2027E | FY2028E |
+|:---|---:|---:|---:|---:|---:|---:|
+| Total revenue | 53,009 | 26,457 | 28,990 | 55,447 | 59,122 | 63,176 |
+| Cost of sales and services | 21,035 | 10,092 | 11,680 | 21,772 | 23,683 | 25,389 |
+| SG&A before net-new marketing | 8,692 | 4,329 | 4,929 | 9,258 | 9,721 | 10,207 |
+| Net-new marketing (plan) | - | - | - | - | 560 | 560 |
+| Operating profit | 23,281 | 12,035 | 12,380 | 24,415 | 25,158 | 27,020 |
+| Net finance cost, income tax and others | 4,105 | 2,123 | 2,165 | 4,288 | 4,327 | 4,610 |
+| Minority interest | 335 | 191 | 191 | 382 | 401 | 421 |
+| Net profit to parent | 18,841 | 9,721 | 10,024 | 19,745 | 20,430 | 21,989 |
+| Net margin | 35.5% | 36.7% | 34.6% | 35.6% | 34.6% | 34.8% |
+| SG&A including net-new marketing, % of revenue | 16.4% | 16.4% | 17.0% | 16.7% | 17.4% | 17.0% |
+| Net margin without the plan | - | - | - | 35.6% | 35.2% | 35.4% |
+| Core net margin (excluding Rama 2 lease interest) | 32.3% | 36.0% | - | 34.9% | 33.9% | 34.2% |
+
+[mt]
+| Scenario | Net profit (net margin) FY2026E | FY2027E | FY2028E | FY2027E margin without the plan | FY2027E core margin | FY2027E profit above the 35.5% floor (THB m) |
+|:---|---:|---:|---:|---:|---:|---:|
+| Conservative | 19,104 (35.0%) | 18,473 (32.8%) | 18,709 (32.0%) | 33.6% | 32.1% | -1,510 |
+| Base | 19,745 (35.6%) | 20,430 (34.6%) | 21,989 (34.8%) | 35.2% | 33.9% | -558 |
+| Optimistic | 20,140 (35.9%) | 21,915 (35.9%) | 24,457 (36.8%) | 36.6% | 35.3% | 252 |
+
+== TEXT VALUES ==
+gross = 2,760
+net_new = 560
+emb = 2,200
+tier_a = 240
+support = 320
+lines411 = 860
+flag = 1,900
+flag_prior = 2,000
+gross_pct25 = 5.2%
+gross_pct27 = 4.7%
+nn_pct27 = 0.95%
+q_net = 55 / 255 / 130 / 120
+tranche2 = 155
+cm_low = 42.6%
+cm_base = 60.0%
+cm_high = 86.3%
+romi_base = 1.67
+req_a_low = 564
+pct_a_low = 1.2%
+vis_a_low = 6.1
+pv_a_low = 1.11
+req_b_low = 1,315
+pct_b_low = 2.8%
+vis_b_low = 14.3
+pv_b_low = 2.58
+req_a_base = 400
+pct_a_base = 0.9%
+vis_a_base = 4.4
+pv_a_base = 0.78
+req_b_base = 933
+pct_b_base = 2.0%
+vis_b_base = 10.2
+pv_b_base = 1.83
+req_a_high = 278
+pct_a_high = 0.6%
+vis_a_high = 3.0
+pv_a_high = 0.55
+req_b_high = 649
+pct_b_high = 1.4%
+vis_b_high = 7.1
+pv_b_high = 1.27
+pctrev_b_base = 1.7%
+pctrev_a_base = 0.7%
+vis_half_b = 20.3
+visshare_b = 2.0%
+rpv = 91.8
+rpv_pct_b = 2.0%
+rs26_base = 46,827
+rev26_base = 55,447
+u1 = 1.25%
+u2 = 0.55%
+u4 = 0.83%
+u_raw = 2.63%
+u_full = 1.32%
+intl_share = 13.7%
+biz_share = 16.7%
+p_be = 67%
+p_be_a = 29%
+req28_pct = 1.76%
+pb_cost_a = 240
+pb_req_a = 400
+pb_pct_a = 0.9%
+pb_c27_a = 197
+pb_c28_a = 418
+pb_cum_a = 135
+pb_cov27_a = 82%
+pb_cov28_a = 174%
+pb_yrs_a = 1.2
+pb_cost_b = 560
+pb_req_b = 933
+pb_pct_b = 2.0%
+pb_c27_b = 197
+pb_c28_b = 418
+pb_cum_b = -505
+pb_cov27_b = 35%
+pb_cov28_b = 75%
+pb_yrs_b = not reached
+pb_cost_c = 2,760
+pb_req_c = 4,597
+pb_pct_c = 9.8%
+pb_c27_c = 197
+pb_c28_c = 418
+pb_cum_c = -4,905
+pb_cov27_c = 7%
+pb_cov28_c = 15%
+pb_yrs_c = not reached
+revc26 = 54,516
+rsc26 = 46,272
+npc26 = 19,104
+mgc26 = 35.0%
+grc26 = +2.8%
+grsc26 = +5.8%
+upc26 = 0
+cmc26 = 34.3%
+revc27 = 56,290
+rsc27 = 48,281
+npc27 = 18,473
+mgc27 = 32.8%
+grc27 = +3.3%
+grsc27 = +4.3%
+upc27 = 158
+cmc27 = 32.1%
+revc28 = 58,487
+rsc28 = 50,377
+npc28 = 18,709
+mgc28 = 32.0%
+grc28 = +3.9%
+grsc28 = +4.3%
+upc28 = 329
+cmc28 = 31.3%
+cagrc = 3.6%
+gap27c = -3.7
+gap28c = -3.1
+pbac = not reached
+pbbc = not reached
+pbhc = not reached
+romic = 0.59
+romiac = 1.37
+m0_27c = 33.6%
+m0_28c = 32.7%
+eff27c = -0.8
+eff28c = -0.7
+head27c = -1,510
+head28c = -2,054
+head0_27c = -1,082
+absorb27c = -1,888
+revb26 = 55,447
+rsb26 = 46,827
+npb26 = 19,745
+mgb26 = 35.6%
+grb26 = +4.6%
+grsb26 = +7.1%
+upb26 = 0
+cmb26 = 34.9%
+revb27 = 59,122
+rsb27 = 50,199
+npb27 = 20,430
+mgb27 = 34.6%
+grb27 = +6.6%
+grsb27 = +7.2%
+upb27 = 328
+cmb27 = 33.9%
+revb28 = 63,176
+rsb28 = 53,559
+npb28 = 21,989
+mgb28 = 34.8%
+grb28 = +6.9%
+grsb28 = +6.7%
+upb28 = 696
+cmb28 = 34.2%
+cagrb = 6.7%
+gap27b = -0.4
+gap28b = -0.1
+pbab = 1.2
+pbbb = not reached
+pbhb = 7.9 (beyond FY2028E)
+romib = 1.24
+romiab = 2.90
+m0_27b = 35.2%
+m0_28b = 35.4%
+eff27b = -0.7
+eff28b = -0.6
+head27b = -558
+head28b = -439
+head0_27b = -151
+absorb27b = -698
+revo26 = 56,135
+rso26 = 47,160
+npo26 = 20,140
+mgo26 = 35.9%
+gro26 = +5.9%
+grso26 = +7.9%
+upo26 = 0
+cmo26 = 35.2%
+revo27 = 61,024
+rso27 = 51,436
+npo27 = 21,915
+mgo27 = 35.9%
+gro27 = +8.7%
+grso27 = +9.1%
+upo27 = 503
+cmo27 = 35.3%
+revo28 = 66,495
+rso28 = 55,834
+npo28 = 24,457
+mgo28 = 36.8%
+gro28 = +9.0%
+grso28 = +8.6%
+upo28 = 1,081
+cmo28 = 36.2%
+cagro = 8.8%
+gap27o = +1.7
+gap28o = +2.0
+pbao = 0.8
+pbbo = 3.9 (beyond FY2028E)
+pbho = 1.3
+romio = 1.93
+romiao = 4.50
+m0_27o = 36.6%
+m0_28o = 37.3%
+eff27o = -0.6
+eff28o = -0.5
+head27o = 252
+head28o = 851
+head0_27o = 637
+absorb27o = 315
+gr26core_b = +7.1%
+org27 = +6.0%
+org28 = +6.3%
+orgrs27 = +6.5%
+orgrs28 = +6.0%
+m25 = 35.5%
+m25c = 32.3%
+m_h126c = 36.0%
+sga27_b = 17.4%
+sga28_b = 17.0%
+sga26_b = 16.7%
+sga25 = 16.4%
+rama_yr = 394
+rama_pts = 0.7%
+per100 = 0.14%
+tr2_pts = 0.22%
+support_pts = 0.43%
+fin_run = 4,068
+fin_up = 9.8%
+fin27_b = 4,149
+fin28_b = 4,232
+np_growth26_b = +4.8%
+np_growth27_b = +3.5%
+core26_growth = +15.7%
+core_2h_growth = +9.5%
+opm26_b = 44.0%
+opm27_b = 42.6%
+opm25 = 43.9%
+rs_cost_ratio26 = 38.7%
+rs_cost_ratio_2h25 = 39.6%
+rs_cost_ratio_1h26 = 38.8%
+rs_cost_ratio_1h25 = 40.3%
+g_rs_1h26 = +6.7%
+g_rs_2q26 = +7.5%
+g_sga_1h26 = +7.1%
+rs_fy26_c = +5.8%
+rs_fy26_b = +7.1%
+rs_fy26_o = +7.9%
+resi_fy26_b = -0.2%
+oth26_b = 2,218
+onoff_total = 2,649
+rama_at = 2,119
+oneoff_other = 1,234
+oneoff_inv = 1,415
+rama_q = 123
+sga_step = 727
+nla27 = 140,000
+nla27_pct = 5.8%
+tris_b27 = inside
+tris_b28 = outside
+tris_c28 = inside
+tris_c27 = inside
+tris_b28_gap = 5.3%
+visits = 510
+intl = 70
+rev_core25 = 51,775
+head_to_floor_b27 = 558
+np27_b_with = 20,430
+np27_b_without = 20,721
+np_effect27_b = -290
+util_ratio = 13.7%
+core_gain_b27 = +1.6
+m26_b_vs25 = +0.1
+m27_b_vs25 = -1.0
+fx_1q26 = 291
+g_2h_b = 7.5%
+g_2h_c = 5.0%
+g_2h_o = 9.0%
+g_rs27_c = 4.0%
+g_rs28_c = 4.0%
+g_rs27_b = 6.5%
+g_rs28_b = 6.0%
+g_rs27_o = 8.0%
+g_rs28_o = 7.5%
+uplift_pts27 = +0.6
+uplift_pts28 = +0.6
+m_c27 = 32.8%
+m_c28 = 32.0%
+m_o27 = 35.9%
+m_o28 = 36.8%
+support_pts_b = 0.43%
+shortfall_pts_b27 = 0.9
+delivery_c = 0.5
+delivery_o = 1.5
+sga_cap = 18%
+pass_through = 50%
+q2_net = 255
+q1_net = 55
+fin25 = 3,705
+short27b = 0.4
+short28b = 0.1
+line1_cut = 100
+cons_head27_abs = 1,510
+pb_cum_b_abs = 505
+guc26 = 2.8%
+gsuc26 = 5.8%
+guc27 = 3.3%
+gsuc27 = 4.3%
+guc28 = 3.9%
+gsuc28 = 4.3%
+gub26 = 4.6%
+gsub26 = 7.1%
+gub27 = 6.6%
+gsub27 = 7.2%
+gub28 = 6.9%
+gsub28 = 6.7%
+guo26 = 5.9%
+gsuo26 = 7.9%
+guo27 = 8.7%
+gsuo27 = 9.1%
+guo28 = 9.0%
+gsuo28 = 8.6%
+rs_fy26_bu = 7.1%
+gr26core_bu = 7.1%
+org27u = 6.0%
+org28u = 6.3%
+uplift_pts27u = 0.6
+eff27b_u = 0.7
+per100_pp = 0.14
+support_pp = 0.43
+rama_pp = 0.7
+core_gain_b27_u = 1.6
+m1_share28 = 47%
+m1_28 = 330
+call_3q26 = 16 November 2026
+flag1 = 600
+flag2 = 600
+flag3 = 800
+biz_mkt = 200
+bot_g26 = 2.4%
+bot_g27 = 2.1%
+tris_lo = 55,000
+tris_hi = 60,000
+tris_capex = 62
+sga_band_lo = 16%
+sga_band_hi = 18%
+sga_fy25_rep = 17%
+sga_4q25_rep = 18%
+cod_lo = 10
+cod_hi = 20
+floor_exact = 35.54%
+head_exact_b27 = 583
+absorb_exact_b27 = 729
+head_exact_c27 = 1,534
+head_exact_o27 = 226
+absorb_b27 = 698
+sga25_lfl = 16.8%
+sga_rise27 = 0.6
+sga_rise28 = 0.25
+nn_pts27 = 0.95
+core_np25 = 16,722
+core_np24 = 15,593
+core_g25 = 7%
+rs_org28 = 52,863
+gain28 = 1,392
+sga_fy25 = 8,692
+g_fin_b = 2%
+oneoff_pts = 3.2
+sga27_c = 18.6%
+sga28_c = 18.9%
+m14_share28 = 79%
+rs_fy26_at_1h = +6.7%
+need_2h_rs = +7.3%
+need_org27 = 6.9%
+need_org28 = 6.2%
+floor = 35.5%
+thresh_lo = 7.0%
+thresh_hi = 9.0%
+sga_inband = inside
