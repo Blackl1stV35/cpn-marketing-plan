@@ -1,6 +1,6 @@
 ## 5. Financials
 
-This chapter tests whether the Chapter 4 plan can repay its cost and whether CPN can carry it. FY2027 is the plan year, FY2026E the base year (6M26 actual plus a 2H26E estimate) and FY2028E the carry-over. Every forecast is a team proposal that model.py computes from Table 5.2 (run "python -I model.py"), not company guidance. CPN has reported only to 2Q26. Its calendar lists a 3Q26 earnings call on 16 November 2026, organised by SET (CPN's own call is not yet listed; Central Pattana Investor Relations, n.d.-a), but CPN has not announced the date of its 3Q26 MD&A filing (none was listed on 28 October 2026; Central Pattana Investor Relations, n.d.-b), so the model is rerun when the MD&A appears. In each of the last two quarters CPN filed its MD&A before its own earnings call: the 2Q26 MD&A on 10 August, 4 days before the call on 14 August, and the 1Q26 MD&A on 15 May, 3 days before the call on 18 May (Central Pattana, 2026g; Central Pattana Investor Relations, n.d.-a, n.d.-b). Two quarters are not a promise for 3Q26. Revenue is MD&A total revenue, which includes other income and excludes investment income (Central Pattana, 2026p). FY2025 profit held one-off Rama 2 gains of ฿1,234 million in other income and ฿1,415 million in lease interest before tax, ฿2,119 million after tax (Central Pattana, 2026p); the forecasts assume no new one-offs. CPN's core net profit, which excludes them, rose 7% in FY2025 (฿16,722 million against ฿15,593 million in FY2024; Central Pattana, 2026p, p. 5).
+This chapter tests whether the Chapter 4 plan can repay its cost and whether CPN can carry it. FY2027 is the plan year, FY2026E the base year (6M26 actual plus a 2H26E estimate) and FY2028E the carry-over. Every forecast is a team proposal that a Python script computes from Table 5.2 (the script is kept with the team's working files), not company guidance. CPN has reported only to 2Q26. Its calendar lists a 3Q26 earnings call on 16 November 2026, organised by SET (CPN's own call is not yet listed; Central Pattana Investor Relations, n.d.-a), but CPN has not announced the date of its 3Q26 MD&A filing (none was listed on 28 October 2026; Central Pattana Investor Relations, n.d.-b), so the model is rerun when the MD&A appears. In each of the last two quarters CPN filed its MD&A before its own earnings call: the 2Q26 MD&A on 10 August, 4 days before the call on 14 August, and the 1Q26 MD&A on 15 May, 3 days before the call on 18 May (Central Pattana, 2026g; Central Pattana Investor Relations, n.d.-a, n.d.-b). Two quarters are not a promise for 3Q26. Revenue is MD&A total revenue, which includes other income and excludes investment income (Central Pattana, 2026p). FY2025 profit held one-off Rama 2 gains of ฿1,234 million in other income and ฿1,415 million in lease interest before tax, ฿2,119 million after tax (Central Pattana, 2026p); the forecasts assume no new one-offs. CPN's core net profit, which excludes them, rose 7% in FY2025 (฿16,722 million against ฿15,593 million in FY2024; Central Pattana, 2026p, p. 5).
 
 **Table 5.1. Reported baseline (THB million; sums can differ by 1 or 2 because the MD&A rounds)**
 
@@ -117,7 +117,7 @@ The conservative case stresses growth, costs and delivery together: R&S grows 5.
 
 The organic baseline is what CPN would earn if marketing stayed at FY2026E levels. The programme uplift is the extra R&S revenue from M1, M2 and M4, each an assumed volume change (team assumption; Section 4.5 sets no visit-frequency or partner-sales KPI) times the pool it acts on and the 50% pass-through (Table 5.2 rows C1 to C5). Before pass-through they are worth 1.25%, 0.55% and 0.83% of organic R&S revenue; M3 is counted inside them. The base-case uplift is ฿328 million in FY2027E and ฿696 million in FY2028E (Table 5.7); in the model M1 (Gen Z) supplies 47% of the FY2028E figure and M1 plus M4 supply 79%, so two unsourced team assumptions (Table 5.2 rows C1 and C4) carry the case. Chapter 6 adopts these values as [Proposed] targets (K2, K5); they are set equal to the assumptions and are not evidence for them. No uplift is credited to the Primary segment (working adults and families); its effect sits inside the organic baseline. Benefits beyond FY2028E are not valued.
 
-**Table 5.7. Base-case revenue build (THB million; team proposal)**
+**Table 5.7. Base-case revenue build (THB million; team proposal; components are rounded and may not add exactly to the totals)**
 
 | THB million (base case) | FY2025A | FY2026E | FY2027E | FY2028E |
 |:---|---:|---:|---:|---:|
@@ -134,7 +134,7 @@ The organic baseline is what CPN would earn if marketing stayed at FY2026E level
 | Total revenue growth | - | +4.6% | +6.6% | +6.9% |
 | Rental and services growth | - | +7.1% | +7.2% | +6.7% |
 
-F1 asks for high-single-digit growth, which the team defines as 7.0% to 9.0%. The base case grows total revenue 6.6% in FY2027E and 6.9% in FY2028E, 0.4 and 0.1 points short, so the revenue half of F1 is just missed; R&S revenue, the line CPN guides, grows 7.2% and 6.7%. To pass, organic R&S growth would need to be about 6.9% in FY2027E (base 6.5%) and 6.2% in FY2028E (base 6.0%) (team calculation). Without the plan growth would be 6.0% and 6.3%, so the uplift adds 0.6 points. Only the optimistic case meets F1 (Table 5.8), and it is defined as target-met. TRIS projects operating revenue of ฿55,000 million to ฿60,000 million a year for 2026 to 2028 (TRIS Rating, 2026); our base case is inside that range to FY2027E and 5.3% above it in FY2028E.
+F1 asks for high-single-digit growth, which the team defines as 7.0% to 9.0%. The base case grows total revenue 6.6% in FY2027E and 6.9% in FY2028E, 0.4 and 0.1 points short, so the revenue half of F1 is just missed; R&S revenue, the line CPN guides, grows 7.2% and 6.7%. To pass, organic R&S growth would need to be about 6.9% in FY2027E (base 6.5%) and 6.2% in FY2028E (base 6.0%) (team calculation). Without the plan growth would be 6.0% and 6.3%, so the uplift adds 0.6 points. Only the optimistic case meets F1 (Table 5.8), and it is defined as target-met. TRIS projects operating revenue of ฿55,000 million to ฿60,000 million a year for 2026 to 2028 (TRIS Rating, 2026); our base case is inside that range to FY2027E and 2.0% above its top in FY2028E on TRIS's basis (operating revenue of ฿61,216 million, which excludes other income, against ฿60,000 million).
 
 **Table 5.8. F1 revenue test (team proposal)**
 
@@ -152,7 +152,7 @@ Table 5.9 bridges the Chapter 4 ceiling to the P&L. CPN reports one administrati
 
 | THB million | Q1 | Q2 | Q3 | Q4 | FY2027E |
 |:---|---:|---:|---:|---:|---:|
-| Gross ceiling, lines 1 to 11 (Section 4.5) | 1,005 | 605 | 180 | 970 | 2,760 |
+| Gross ceiling, lines 1 to 11 (Table 4.1) | 1,005 | 605 | 180 | 970 | 2,760 |
 | Less: already in the FY2026E cost base (flagships at their latest disclosed editions, The 1 BIZ flat) | 950 | 350 | 50 | 850 | 2,200 |
 | Net-new spend charged to SG&A | 55 | 255 | 130 | 120 | 560 |
 
@@ -181,7 +181,7 @@ Note. The FY2025A SG&A ratio of 16.4% uses reported revenue; on revenue excludin
 
 The base-case margin is 35.6% in FY2026E, 34.6% in FY2027E and 34.8% in FY2028E against the 35.5% floor (Table 5.10), which is FY2025's 18,841 / 53,009 = 35.54% rounded to 35.5% (Table 5.2 row V2; team calculation). Without the plan it would be 35.2% and 35.4%, so the plan costs 0.7 points of margin in FY2027E and the organic path already sits below the floor. Two base effects explain this: FY2025's 35.5% held ฿2,119 million of one-off profit (core margin 32.3%; Central Pattana, 2026p), and FY2026E holds the larger unrealised FX gains of 1Q26 (Central Pattana, 2026g). On CPN's core basis the margin rises from 32.3% to 33.9% in FY2027E, while the reported margin falls from 35.5% to 34.6% because FY2025's one-offs (3.2 points) do not recur. ฿394 million a year of after-tax Rama 2 lease interest (0.7 points) remains in reported profit; CPN gives no payment date, and if it is paid and the interest stops, the reported FY2027E margin would fall to about 33.9% (Central Pattana, 2026g).
 
-**Table 5.11. Margin test by scenario (THB million; team proposal)**
+**Table 5.11. Margin test by scenario (THB million; team proposal; components are rounded and may not add exactly to the totals)**
 
 | Scenario | Net profit (net margin) FY2026E | FY2027E | FY2028E | FY2027E margin without the plan | FY2027E core margin | FY2027E profit above the 35.5% floor (THB m) |
 |:---|---:|---:|---:|---:|---:|---:|
@@ -192,15 +192,3 @@ The base-case margin is 35.6% in FY2026E, 34.6% in FY2027E and 34.8% in FY2028E 
 Note. The last column uses the rounded floor of 35.5%. On the unrounded 35.54% floor (Table 5.2 row V2) the figures would be -1,534 (conservative), -583 (base) and 226 (optimistic) (team calculation).
 
 Only the optimistic case, which is defined as target-met and is not a forecast, holds the floor in both years (Table 5.11); the conservative case falls to 32.8% and 32.0%. In the base case FY2027E profit is ฿558 million after tax short of the rounded 35.5% floor, about ฿698 million more profit before tax; on the unrounded 35.54% floor the shortfall is about ฿583 million after tax and about ฿729 million before tax (team calculation). Each ฿100 million of marketing that earns no revenue lowers the margin by 0.14 points, and withholding the ฿320 million of support spend would add 0.43 points, so cutting marketing alone cannot restore the floor. Section 6 can use three flags: net margin below 35.5%, total revenue growth below 7.0%, and full-year SG&A above 18% of revenue (CPN reported 17% for FY2025 and 18% in 4Q25; Central Pattana, 2026p). The base case already breaches the first two in FY2027E (34.6% and 6.6%), so they report the F1 gap and cannot tell a plan on forecast from one failing; read them against the base path (34.6% and 6.6%). The operative trigger is SG&A: 17.4% in the base case but 18.6% in FY2027E and 18.9% in FY2028E in the conservative case (team calculation).
-
-### References added for Chapter 5
-
-Bank of Thailand. (2026, October 28). Monetary Policy Committee's decision 5/2026 (Press release No. 41/2026). https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html
-
-Central Pattana. (2026p, February 23). Management's discussion and analysis (MD&A) 4Q25 and 2025. https://investor.centralpattana.co.th/en/document/viewer/186185/management-discussion-and-analysis-year-2025
-
-Central Pattana. (2026q, August 14). 2Q26 corporate presentation [Investor presentation]. https://investor.centralpattana.co.th/en/document/viewer/202569/2q26-corporate-presentation
-
-Central Pattana Investor Relations. (n.d.-a). Calendar. Retrieved October 28, 2026, from https://investor.centralpattana.co.th/en/calendar
-
-Central Pattana Investor Relations. (n.d.-b). SET announcements. Retrieved October 28, 2026, from https://investor.centralpattana.co.th/en/newsroom/set-announcements

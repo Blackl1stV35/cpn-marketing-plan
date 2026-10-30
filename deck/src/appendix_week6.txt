@@ -3,7 +3,7 @@ Included for completeness ahead of Q&A. Both are portfolio / capital-allocation 
 1. BCG Growth-Share Matrix
 Axes: vertical = market growth rate of the segment's industry. Horizontal = CPN's relative competitive position (share / scale) within that industry — not CPN's revenue share of its own total portfolio.
 Segment | Relative Position | Market Growth | Quadrant
-Retail malls | High | Moderate–High | Star
+Retail malls | High | High | Star
 Residential | Low | Moderate–High | Question Mark
 Hotels | Low | High | Question Mark
 Offices | Low–Moderate | Moderate | Cash Cow (modest)
@@ -16,7 +16,7 @@ Residential (homes) — QUESTION MARK
 •     Market growth: Moderate-to-high headline — a 93% sales rate on existing supply and downtown asking prices rising up to 15% year-over-year, luxury-led (CBRE Thailand, 2026).
 •     Read: attractive segment, low relative share — CPN hasn't signalled a push for share leadership here, consistent with residential's role as a cross-sell / ecosystem piece rather than a standalone growth bet.
 Hotels (hospitality) — QUESTION MARK
-•     Relative position: Low — 11 properties, mostly Centara-branded or partnered (e.g. Hilton Pattaya), embedded inside mixed-use complexes — a landlord / co-development role, not independent operator scale.
+•     Relative position: Low — 11 properties at FY2025 year-end (team count), mostly Centara-branded or partnered (e.g. Hilton Pattaya), embedded inside mixed-use complexes — a landlord / co-development role, not independent operator scale.
 •     Market growth: High — a 2026 pipeline of 4,300+ new keys, luxury-led, with occupancy projected up by up to 2 points and RevPAR up 3–4% (CBRE Thailand, 2026).
 •     Read: the most attractive growth rate of the four segments, but CPN's role stays small and embedded rather than share-driving.
 Offices (commercial) — CASH COW (modest)
@@ -34,7 +34,7 @@ Residential | Medium | Medium | Selectivity
 Offices | Low | Low | Harvest / Divest
 Retail malls — High attractiveness × High strength → Invest / Grow
 •     Attractiveness: High, tempered by industry-wide occupancy softening and e-commerce pressure (CBRE Thailand, 2026).
-•     Strength: High — around 510 million annual visits, The 1's ~22M-member data ecosystem, FY2025 revenue of roughly ฿53.0bn at close to a 35% net margin, and net debt-to-equity improving to 0.49x (Central Pattana, 2026a; Central Retail Corporation, 2025).
+•     Strength: High — around 510 million annual visits, The 1's ~22M-member data ecosystem, FY2025 revenue of roughly ฿53.0bn at a 35.5% net margin (team calculation), and net debt-to-equity improving to 0.49x (Central Pattana, 2026a; Central Retail Corporation, 2025).
 •     → Clear priority for continued capital allocation.
 Hotels — High attractiveness × Low strength → Selectivity
 •     Attractiveness: High — the strongest growth signals of the four segments (CBRE Thailand, 2026).

@@ -268,7 +268,7 @@ def make_outline(core, back, comps, path):
         "Build the charts on S8 and S9 as native, editable charts; their data, axes and colours are under 'Text on the slide' on each page.",
         "Footer navigation (Situation, Strategy, Tactics, Financials, Controls) on S2 to S12; the current section is highlighted on S3 to S11 only.",
         "Paste the speaker notes into each slide's notes: %s words written, about %s spoken with numbers read aloud, which is %d s at 130 words a minute against the 510 s budget. Backup pages carry short notes; B6 lists owners and first answers." % ("{:,}".format(tot_words), "{:,}".format(tot_spoken), round(tot_spoken / 130.0 * 60)),
-        "Numbers and sources were checked against the report and the corrections log on 29 Oct 2026, and the report was aligned with the deck. Re-checked 30 Oct 2026 (32 points): deck points applied, report points open. B6 sources outside Chapters 4 to 6 (Central Retail, CPN 9 Apr 2026, S&P Yearbook, CPN IR page) are in the Sections 2–3 list.",
+        "Numbers and sources were checked against the report and the corrections log on 29 Oct 2026, and the report was aligned with the deck. Re-checked 30 Oct 2026 (32 points): every point is closed; points 4 and 20 concern the frozen presented deck and stay as they are. B6 sources outside Chapters 4 to 6 (Central Retail, CPN 9 Apr 2026, S&P Yearbook, CPN IR page) are in the merged reference list.",
         "Locked corrections: 23 provinces; Central Retail's loyalty ecosystem has 23M members in Thailand (we read it as The 1); 50% cut by 2034 vs 2024; Phaholyothin 1Q27; base case misses F1.",
     ]
     cy = y + 62

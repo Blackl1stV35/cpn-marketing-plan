@@ -136,27 +136,3 @@ F1 flags (net margin under 35.5%, revenue growth under 7.0%, SG&A over 18% of re
 The 2010 CentralWorld fire led to a ฿775 million write-off (Central Pattana, 2017). CPN's all-risk claim failed when the Supreme Court refused its appeal on 24 August 2017, about seven years later; its milestone page records a separate claim under terrorism cover (sum insured ฿3,500 million) in September 2017, with no amount stated (Central Pattana, n.d.-f, 2017). The plan therefore assumes no insurance recovery in the year.
 
 Marketing cuts cannot absorb the large cases. Crisis frees at most ฿1,545 million after 31 March, worth 2.1 points of margin, against a ฿10,542 million profit loss in the 2020 replay (team calculation). Liquidity decides those cases (team assessment). At December 2025 CPN held ฿6 billion of cash, ฿2.8 billion of short-term investments, ฿4 billion of undrawn committed lines and ฿11.4 billion of undrawn uncommitted lines against ฿20.2 billion of debt maturing within 12 months. TRIS projected funds from operations of about ฿30 billion over the next 12 months, listed uses of funds of about ฿24 billion of capex and investments in 2026 and annual dividends of around 60% of net profit, counted unencumbered assets with a book value of about ฿183 billion that could be pledged as collateral if needed, and rated liquidity adequate (TRIS Rating, 2026, p. 3). The ฿30 billion is TRIS's projection and may include the CPNREIT sublease proceeds of about ฿10 billion that risk 9 gives no credit; the team has not reconciled the two (team assessment). Only in W3 do operating cash flows collapse, so the uncommitted lines and the assets that could be pledged, not the committed lines alone, would have to bridge the ฿20.2 billion (team assessment).
-
-### References added for Chapter 6
-
-Central Pattana. (n.d.-c). Risk and crisis management. Retrieved October 28, 2026, from https://sustainability.centralpattana.co.th/en/governance-and-economic/risk-and-crisis-management
-
-Central Pattana. (n.d.-d). Emerging risk assessment. Retrieved October 28, 2026, from https://sustainability.centralpattana.co.th/en/document/viewer/313/emerging-risk-assessment
-
-Central Pattana. (n.d.-e). Current risk assessment. Retrieved October 28, 2026, from https://sustainability.centralpattana.co.th/en/document/viewer/312/current-risk-assessment
-
-Central Pattana. (n.d.-f). Milestone. Retrieved October 28, 2026, from https://www.centralpattana.co.th/en/about-us/milestone
-
-Central Pattana. (2017, August 24). The Supreme Court's order for the compensation regarding the fire at CentralWorld (Revised) (No. 051/2017/047) [SET announcement]. MarketScreener. https://www.marketscreener.com/CENTRAL-PATTANA-PCL-13170218/news/Central-Pattana-PCL-The-Supreme-Court-s-Order-for-the-Compensation-Regarding-the-Fire-at-CentralWo-25003555/
-
-Central Pattana. (2021). Annual report 2020 (56-1 One Report) [Page numbers cited are PDF pages]. https://investor.centralpattana.co.th/en/document/viewer/161862/annual-report-2020-56-1-one-report
-
-Central Pattana. (2022). Annual report 2021 (56-1 One Report) [Page numbers cited are PDF pages]. https://investor.centralpattana.co.th/en/document/viewer/161863/annual-report-2021-56-1-one-report
-
-Central Pattana. (2026r, September 8). Management team. Retrieved October 28, 2026, from https://www.centralpattana.co.th/en/about-us/management-structure/management-team
-
-Government Public Relations Department. (2026, January 16). Thailand tourism earns US$86.6 billion, arttracts [sic] higher-quality travelers in 2025. https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/466167
-
-Nation Thailand. (2026k, October 8). Thai consumer confidence index falls to 52.1 in September. https://www.nationthailand.com/business/economy/40072005
-
-Nation Thailand. (2026l, July 15). Thai household debt-to-GDP ratio falls amid restricted credit access. https://www.nationthailand.com/business/economy/40068669

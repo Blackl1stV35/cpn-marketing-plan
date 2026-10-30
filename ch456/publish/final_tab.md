@@ -2,9 +2,11 @@
 
 This chapter turns the Section 3 objectives into tactics for FY2027 (1 January to 31 December 2027), in support of the team thesis that CPN is using its capital to capture Gen Z share through sustainable positioning. Items marked [Proposed] are team proposals, not CPN guidance. Results that CPN reports for itself are labelled company-reported. In the FY2025 One Report, the 2Q26 MD&A and the releases reviewed, CPN publishes no customer-segment data (age, nationality or Gen Z share), although its business-segment revenue (rental and services, real estate sales, hotel) is published (Central Pattana Investor Relations, 2026, p. 15), so Section 4.5 builds a Gen Z baseline in the first 90 days and every Gen Z target is set against it. Owners are functions that Section 6.2 maps to the organisation.
 
-The Section 3.4 order of target markets is unchanged: working adults and families are the Primary segment, served by the base programmes and measured through P2 and S2, while Gen Z and young adults, the Secondary segment, receive the largest share of incremental tactics because of M1 and the team thesis.
+The Section 3.4 order of target markets is unchanged: working adults and families are the Primary segment, served by the base programmes and measured through P2 and S2, while Gen Z and young adults, the Secondary segment, receive the largest share of incremental tactics because of M1 and the team thesis. This chapter uses two marketing mixes: a B2B mix for tenants, who lease space, and a B2C mix for shoppers, who visit and buy.
 
 ### 4.1 Product
+
+A CPN product is a bundle, not floor space. A tenant buys floor space plus footfall from the whole mall, marketing support, member data through The 1, parking, security and cleaning, and the CPN brand. The break-even in Section 5 depends on this: it assumes tenants buy traffic, not square metres, so an uplift counts only where the bundle carries the tenant's sales.
 
 This section serves M1, M3, M4, M5 and F1. Gen Z and young adults receive the most incremental effort, working adults and families (Primary) are served by P2, and local brands by LEAD. Leasing and tenant mix owns it, with Development, Operations and Sustainability.
 
@@ -22,7 +24,22 @@ LEAD reported in March 2025 over 240 brands supported and over ฿3.8 billion pu
 | P6 | [Proposed] Make sustainability visible: extend recycle-for-points beyond centralwOrld, badge Green Partnership stores, host non-commercial youth groups in free community space | M5, M1 · Gen Z, tenants | Design Q1; roll-out Q2–Q4 | Sustainability; Operations | Potential energy savings of up to 37,496 kWh per store from CPN's tenant guideline, a potential and not a measured result (Central Pattana Investor Relations, 2026, p. 126); free space is non-commercial (Central Pattana, 2024d) |
 | P7 | [Proposed] Add Gen Z missions (sport, creator, recycling) to CENTRAL X's receipt scan, parking and tier benefits | M3, M1 · Gen Z | Design Q1; live Q2 | CRM and Digital | Scan Receipt at 44 centres and 25,000+ stores; 3.6 million scans a year is an expectation, not a result (Central Pattana, 2026n) |
 
-### 4.2 Pricing
+### 4.2 Price
+
+Pricing combines two bases. Value-based pricing sets rent by what a location can earn for the tenant, so the sites with the most traffic carry the most value. Competitive pricing benchmarks rent against rival centres (Section 2.3) and the market asking rent (Section 2.1). Anchor and flagship space works as a loss leader in the team's reading: a lower rent for a large brand can be repaid by the traffic it brings to smaller tenants nearby. CPN publishes no rent per square metre, so the team proposes no rent level.
+
+Table 4.3. Terms beyond the list price (what CPN discloses)
+
+| Term | What it means | What CPN discloses |
+|:---|:---|:---|
+| Allowance | Rent relief in fit-out or opening periods | Free trial space (Central Pattana, 2025e) |
+| Volume discount | Lower rent per square metre for larger leases | Not disclosed |
+| Seasonal allowance | Lower rent in low seasons | Not disclosed |
+| Payment period | Timing and frequency of rent payments | Not disclosed |
+| Credit terms | Deposits and payment terms | Not disclosed |
+| Price structure | Fixed and variable components of rent | Fixed and variable rent (Central Pattana Investor Relations, 2026, p. 441) |
+| Price differences by customer group | Anchors versus small tenants | Not disclosed |
+| Price differences by area | Bangkok versus provinces | Not disclosed; CPN publishes no rent per square metre |
 
 This section serves F1, M1, M2, M3 and M4 for B2B tenants, Gen Z and tourists. Leasing and Finance own rent; CRM and Marketing own The 1 offers and event access.
 
@@ -39,7 +56,21 @@ The 1 points last two years from the purchase year, are used oldest first and ge
 | R5 | [Proposed] Tourist offers: keep the welcome package free; add partner-card packages for Gulf from Q2, Europe from Q3 and India from Q4 (D3); set minimum spend at the ฿2,000 VAT-refund minimum; decide in February on extending the Grab offer, which runs to 31 March 2027, using redemption data | M2 · tourists | February decision; packages Q2–Q4 | Marketing; tourist desk | Central Pattana, 2025g, 2026k; ฿2,000 per supplier per day (Revenue Department of Thailand, 2024) |
 | R6 | [Proposed] Plan Q4 price communication around the 30 September 2027 end of the reduced 7% VAT rate | F1 · all segments | Prepare Q3; run Q4 | Finance; Marketing | KPMG, 2026 |
 
-### 4.3 Distribution (Place)
+### 4.3 Place (distribution)
+
+Leasing space is a direct channel with no intermediary: CPN's leasing team sells space to tenants itself, a zero-level channel. Coverage is selective. The malls sit in chosen locations and are not sold through every outlet, so each site's location and tenant mix decide which brands can be placed there.
+
+A tenant's choice of mall runs in five stages: need recognition (a brand wants a city or format), information search (footfall, sales and catchment data from the leasing team), evaluation (location, rent and tenant mix against rivals), decision (lease signing) and post-decision review (fit-out and sales after opening). The research in Section 4.5 supplies the visit and footfall data that the search and evaluation stages depend on.
+
+Table 4.2. Tenant choice: multi-attribute comparison (team assessment; weights are proposed)
+
+| Attribute | Weight (proposed) | CPN | Siam Piwat | The Mall |
+|:---|---:|:---|:---|:---|
+| Location and accessibility | 25% | 44 shopping centres and 16 community malls in 23 provinces | Siam area, central Bangkok (Siam Paragon, ICONSIAM) | Central Bangkok (Emporium, EmQuartier) |
+| Customer traffic | 25% | About 510 million visits a year (Section 2.2) | Not disclosed | Not disclosed |
+| Rent and lease conditions | 20% | Not disclosed | Not disclosed | Not disclosed |
+| Expected sales | 20% | Not disclosed | Not disclosed | Not disclosed |
+| Target customer | 10% | Mass to upper-middle; families and Gen Z (Section 2.1) | Luxury and tourist; Gen Z (Section 2.3) | Upper-middle (Section 2.3) |
 
 This section serves F1, M1, M2 and M3 for all four segments, with incremental effort weighted to Gen Z and tourists. Development and Operations own the network; Marketing and Digital own tourist and O2O channels.
 
@@ -55,7 +86,11 @@ CPN's own shopper channels are the Central Life X app and a LINE Official Accoun
 | D4 | [Proposed] CENTRAL X as the single app front door; count Central Retail in-store pick-up and Chat & Shop orders as qualifying events if those services are still offered and once data sharing is lawful (Section 4.5) | M3 · Gen Z, working adults | Design Q1; live Q3 | Digital; CRM | Central Group, 2020, 2021; Central Pattana, 2026n |
 | D5 | [Proposed] Pilot enrolment of Malaysian shoppers at Central i-City into The 1 Tourist before Thai trips, a hedge against the fall in Malaysian arrivals (Malaysia is not an M2 market) | F1 · tourists | Pilot Q2 | Marketing; International | Malaysia: 3.10 million arrivals to 17 October; arrivals down 11.87% in January–August (Nation Thailand, 2026g, 2026i) |
 
-### 4.4 Marketing Communications (Promotion)
+### 4.4 Promotion (marketing communications)
+
+Promotion uses four tools. Advertising is paid media, such as CPN's campaigns and The 1 channels. Public relations is earned media, such as festival and sustainability releases. Personal selling is the leasing team's direct work with tenants, the most important tool on the B2B side. Sales promotion is short-term offers to shoppers, such as member privileges and welcome packages.
+
+Mass communication builds awareness across the whole base, so it suits the awareness role of the campaigns. Differentiated, one-to-one communication converts: member channels and event registrations let the plan send tailored offers to one segment. The budget gives mass media the awareness role and member channels the conversion role (team reading).
 
 This section serves M1, M2, M3, M4, M5 and F1. Incremental media weight goes to Gen Z, then tourists, while working adults and families (Primary) are reached through the flagship seasons and the opening campaigns. Marketing owns it, with Sustainability for M5 and the CRM team for The 1.
 
@@ -91,7 +126,7 @@ In the FY2025 One Report (a team text search finds no mention of Gen Z), the 2Q2
 
 [Proposed] Tourist research uses The 1 Tourist registrations as a self-selected panel, recording nationality at registration if it is not already recorded (Central Pattana, 2026k), aggregated spend by nationality from payment partners CPN names (WeChat Pay, Alipay and MasterCard; whether they can supply nationality-level spend is an assumption to test) (Central Pattana, 2025g), and exit surveys of 150 respondents per market group at six centres (±8 points per group, diagnostic only; team calculation), benchmarked against TAT figures (Nation Thailand, 2026f, 2026h).
 
-[Proposed] The M5 tracker runs one wave a quarter with 400 respondents per target segment, asking an open unaided question on which developers come to mind for caring about the environment. A vendor specification uses 300 respondents as the minimum and calls quarterly waves the most common cadence (Standard Insights, 2026). At 400 respondents the margin is ±4.9 points at 50% and the smallest significant wave-to-wave change (5% level, two-sided) is 6.9 points at a 50% base (team calculation), so M5 targets are set above that after wave 0.
+[Proposed] The M5 tracker runs one wave a quarter with 400 respondents per target segment, asking an open unaided question on which developers come to mind for caring about the environment. A vendor specification uses 300 respondents as the minimum and calls quarterly waves the most common cadence (Standard Insights, 2026). At 400 respondents the margin is ±4.9 points at 50% and the smallest significant wave-to-wave change (5% level, two-sided) is 6.9 points at a 50% base (team calculation), so M5 targets are set above that after wave 0. The unaided question tests associative memory: a brand comes to mind when it is linked to a concept, so the tracker measures recall, not preference (team reading of the associative-network model).
 
 [Proposed] The team read the Thai Royal Gazette text of the Personal Data Protection Act; no official English translation was found, so a Thai-law reader should confirm these points. Consent must be explicit and separate from other text (s.19), minors who cannot consent alone need a guardian (s.20), data collected from another source need notice within 30 days and consent (s.25), objections to direct marketing must be honoured (s.32), breaches are reported within 72 hours (s.37), and administrative fines reach ฿1 million, ฿3 million or ฿5 million by tier (Personal Data Protection Act, B.E. 2562, 2019). The PDPC fined a computer trading company ฿7 million in 2025 for weak security, a missing breach report and no data protection officer (Tilleke & Gibbins, 2025). CPN's CCTV notice lists security purposes, not people counting (Central Pattana, n.d.-a). The intercept survey reaches only respondents aged 20 and over, in every wave, whom the team treats as able to consent alone (the age of majority under the Civil and Commercial Code; s.20 asks for a guardian for minors).
 
@@ -105,9 +140,11 @@ In the FY2025 One Report (a team text search finds no mention of Gen Z), the 2Q2
 | S6 | [Proposed] M5 tracker: unaided and aided sustainability association, 400 respondents per segment per wave | M5 · Gen Z, working adults | Wave 0 Q1; waves Q2–Q4 | Research and insights; Sustainability | Standard Insights, 2026; ±4.9 points (team calculation) |
 | S7 | [Proposed] Incrementality tests for each flagship: matched stores or weeks on The 1 transactions | M3, F1 · all segments | Each campaign | Research and insights; Finance | Company-reported results lack baselines: over 15 million participants and more than 33 million engagements (Central Pattana, 2026d); 429 million impressions and 10% tenant-sales growth (Central Pattana, 2026m) |
 
+### 4.6 Marketing Budget
+
 The budget below is a team proposal, not CPN guidance. CPN reports no marketing expense line separate from selling and administrative expenses (Central Pattana Investor Relations, 2026, p. 192), and its announced campaign budgets are headline figures, often joint with partners, so each line is a ceiling set against a disclosed comparator. Lines 1 to 3 hold the three flagship windows at or below the latest disclosed comparator; [Proposed] Songkran becomes a module of Summer Fest, and the Countdown is assumed inside the year-end season, which CPN does not confirm. Lines 4 to 11 add new programmes at stated fractions of comparators. [Proposed] Lines 4, 6 and 7 (฿310 million) are released in two halves, as Chapter 6 section 6.1 sets: the first half at gate G0; the second half of lines 4 and 7 (฿105 million) at gate G1, after the 90-day baseline report due by 31 March; and the second half of line 6 (฿50 million) only at gate G2 on 30 June, if the registrant data support it. The total is 5.2% of FY2025 total revenue of ฿53,009 million (Central Pattana, 2026a; team calculation) and feeds the Chapter 5 expense forecast.
 
-**Proposed FY2027 marketing budget by tactic (THB million)**
+**Table 4.1. FY2027 marketing budget, lines 1 to 11 (team proposal)**
 
 | Line | Tactic (section) | FY2027 ceiling (THB million) | Objectives | Main spend window | Disclosed comparator and basis |
 |---|---|---|---|---|---|
@@ -122,13 +159,13 @@ The budget below is a team proposal, not CPN guidance. CPN reports no marketing 
 | 9 | LEAD Year 9 and Thai-brand pop-ups (4.1, 4.2) | 30 | M1, M4 | Q1–Q3 | No LEAD budget disclosed (Central Pattana, 2025e); 5% of Summer Fest 2026 |
 | 10 | Sustainability storytelling (4.4) | 50 | M5 | Q2–Q4 | No budget disclosed; one twelfth of Summer Fest 2026 |
 | 11 | Marketing research (4.5) | 20 | M1–M5 | Q1–Q4 | No research spend disclosed; about 3% of Summer Fest 2026, pending agency quotations |
-| | Subtotal, lines 1 to 3 | 1,900 | | | Flagship windows |
-| | Subtotal, lines 4 to 11 | 860 | | | New and re-weighted programmes |
-| | **Total, lines 1 to 11** | **2,760** | M1–M5, F1 | Q1–Q4 | 5.2% of FY2025 total revenue (Central Pattana, 2026a; team calculation); four disclosed programmes sum to about ฿2,500 million on floor values (800 + 500 + 600 + 600), including one joint budget and a possible overlap of the Countdown with Magical Stars (Central Pattana, 2026s; Nation Thailand, 2025c; Thai Publica, 2026; The Thaiger, 2025), so the ceiling is about 10% above them because it adds lines 4 to 11 |
+|  | Subtotal, lines 1 to 3 | 1,900 |  |  | Flagship windows |
+|  | Subtotal, lines 4 to 11 | 860 |  |  | New and re-weighted programmes |
+|  | Total, lines 1 to 11 | 2,760 | M1–M5, F1 | Q1–Q4 | 5.2% of FY2025 total revenue (Central Pattana, 2026a; team calculation); four disclosed programmes sum to about ฿2,500 million on floor values (800 + 500 + 600 + 600), including one joint budget and a possible overlap of the Countdown with Magical Stars (Central Pattana, 2026s; Nation Thailand, 2025c; Thai Publica, 2026; The Thaiger, 2025), so the ceiling is about 10% above them because it adds lines 4 to 11 |
 
 ## 5. Financials
 
-This chapter tests whether the Chapter 4 plan can repay its cost and whether CPN can carry it. FY2027 is the plan year, FY2026E the base year (6M26 actual plus a 2H26E estimate) and FY2028E the carry-over. Every forecast is a team proposal that model.py computes from Table 5.2 (run "python -I model.py"), not company guidance. CPN has reported only to 2Q26. Its calendar lists a 3Q26 earnings call on 16 November 2026, organised by SET (CPN's own call is not yet listed; Central Pattana Investor Relations, n.d.-a), but CPN has not announced the date of its 3Q26 MD&A filing (none was listed on 28 October 2026; Central Pattana Investor Relations, n.d.-b), so the model is rerun when the MD&A appears. In each of the last two quarters CPN filed its MD&A before its own earnings call: the 2Q26 MD&A on 10 August, 4 days before the call on 14 August, and the 1Q26 MD&A on 15 May, 3 days before the call on 18 May (Central Pattana, 2026g; Central Pattana Investor Relations, n.d.-a, n.d.-b). Two quarters are not a promise for 3Q26. Revenue is MD&A total revenue, which includes other income and excludes investment income (Central Pattana, 2026p). FY2025 profit held one-off Rama 2 gains of ฿1,234 million in other income and ฿1,415 million in lease interest before tax, ฿2,119 million after tax (Central Pattana, 2026p); the forecasts assume no new one-offs. CPN's core net profit, which excludes them, rose 7% in FY2025 (฿16,722 million against ฿15,593 million in FY2024; Central Pattana, 2026p, p. 5).
+This chapter tests whether the Chapter 4 plan can repay its cost and whether CPN can carry it. FY2027 is the plan year, FY2026E the base year (6M26 actual plus a 2H26E estimate) and FY2028E the carry-over. Every forecast is a team proposal that a Python script computes from Table 5.2 (the script is kept with the team's working files), not company guidance. CPN has reported only to 2Q26. Its calendar lists a 3Q26 earnings call on 16 November 2026, organised by SET (CPN's own call is not yet listed; Central Pattana Investor Relations, n.d.-a), but CPN has not announced the date of its 3Q26 MD&A filing (none was listed on 28 October 2026; Central Pattana Investor Relations, n.d.-b), so the model is rerun when the MD&A appears. In each of the last two quarters CPN filed its MD&A before its own earnings call: the 2Q26 MD&A on 10 August, 4 days before the call on 14 August, and the 1Q26 MD&A on 15 May, 3 days before the call on 18 May (Central Pattana, 2026g; Central Pattana Investor Relations, n.d.-a, n.d.-b). Two quarters are not a promise for 3Q26. Revenue is MD&A total revenue, which includes other income and excludes investment income (Central Pattana, 2026p). FY2025 profit held one-off Rama 2 gains of ฿1,234 million in other income and ฿1,415 million in lease interest before tax, ฿2,119 million after tax (Central Pattana, 2026p); the forecasts assume no new one-offs. CPN's core net profit, which excludes them, rose 7% in FY2025 (฿16,722 million against ฿15,593 million in FY2024; Central Pattana, 2026p, p. 5).
 
 **Table 5.1. Reported baseline (THB million; sums can differ by 1 or 2 because the MD&A rounds)**
 
@@ -245,7 +282,7 @@ The conservative case stresses growth, costs and delivery together: R&S grows 5.
 
 The organic baseline is what CPN would earn if marketing stayed at FY2026E levels. The programme uplift is the extra R&S revenue from M1, M2 and M4, each an assumed volume change (team assumption; Section 4.5 sets no visit-frequency or partner-sales KPI) times the pool it acts on and the 50% pass-through (Table 5.2 rows C1 to C5). Before pass-through they are worth 1.25%, 0.55% and 0.83% of organic R&S revenue; M3 is counted inside them. The base-case uplift is ฿328 million in FY2027E and ฿696 million in FY2028E (Table 5.7); in the model M1 (Gen Z) supplies 47% of the FY2028E figure and M1 plus M4 supply 79%, so two unsourced team assumptions (Table 5.2 rows C1 and C4) carry the case. Chapter 6 adopts these values as [Proposed] targets (K2, K5); they are set equal to the assumptions and are not evidence for them. No uplift is credited to the Primary segment (working adults and families); its effect sits inside the organic baseline. Benefits beyond FY2028E are not valued.
 
-**Table 5.7. Base-case revenue build (THB million; team proposal)**
+**Table 5.7. Base-case revenue build (THB million; team proposal; components are rounded and may not add exactly to the totals)**
 
 | THB million (base case) | FY2025A | FY2026E | FY2027E | FY2028E |
 |:---|---:|---:|---:|---:|
@@ -262,7 +299,7 @@ The organic baseline is what CPN would earn if marketing stayed at FY2026E level
 | Total revenue growth | - | +4.6% | +6.6% | +6.9% |
 | Rental and services growth | - | +7.1% | +7.2% | +6.7% |
 
-F1 asks for high-single-digit growth, which the team defines as 7.0% to 9.0%. The base case grows total revenue 6.6% in FY2027E and 6.9% in FY2028E, 0.4 and 0.1 points short, so the revenue half of F1 is just missed; R&S revenue, the line CPN guides, grows 7.2% and 6.7%. To pass, organic R&S growth would need to be about 6.9% in FY2027E (base 6.5%) and 6.2% in FY2028E (base 6.0%) (team calculation). Without the plan growth would be 6.0% and 6.3%, so the uplift adds 0.6 points. Only the optimistic case meets F1 (Table 5.8), and it is defined as target-met. TRIS projects operating revenue of ฿55,000 million to ฿60,000 million a year for 2026 to 2028 (TRIS Rating, 2026); our base case is inside that range to FY2027E and 5.3% above it in FY2028E.
+F1 asks for high-single-digit growth, which the team defines as 7.0% to 9.0%. The base case grows total revenue 6.6% in FY2027E and 6.9% in FY2028E, 0.4 and 0.1 points short, so the revenue half of F1 is just missed; R&S revenue, the line CPN guides, grows 7.2% and 6.7%. To pass, organic R&S growth would need to be about 6.9% in FY2027E (base 6.5%) and 6.2% in FY2028E (base 6.0%) (team calculation). Without the plan growth would be 6.0% and 6.3%, so the uplift adds 0.6 points. Only the optimistic case meets F1 (Table 5.8), and it is defined as target-met. TRIS projects operating revenue of ฿55,000 million to ฿60,000 million a year for 2026 to 2028 (TRIS Rating, 2026); our base case is inside that range to FY2027E and 2.0% above its top in FY2028E on TRIS's basis (operating revenue of ฿61,216 million, which excludes other income, against ฿60,000 million).
 
 **Table 5.8. F1 revenue test (team proposal)**
 
@@ -280,7 +317,7 @@ Table 5.9 bridges the Chapter 4 ceiling to the P&L. CPN reports one administrati
 
 | THB million | Q1 | Q2 | Q3 | Q4 | FY2027E |
 |:---|---:|---:|---:|---:|---:|
-| Gross ceiling, lines 1 to 11 (Section 4.5) | 1,005 | 605 | 180 | 970 | 2,760 |
+| Gross ceiling, lines 1 to 11 (Table 4.1) | 1,005 | 605 | 180 | 970 | 2,760 |
 | Less: already in the FY2026E cost base (flagships at their latest disclosed editions, The 1 BIZ flat) | 950 | 350 | 50 | 850 | 2,200 |
 | Net-new spend charged to SG&A | 55 | 255 | 130 | 120 | 560 |
 
@@ -309,7 +346,7 @@ Note. The FY2025A SG&A ratio of 16.4% uses reported revenue; on revenue excludin
 
 The base-case margin is 35.6% in FY2026E, 34.6% in FY2027E and 34.8% in FY2028E against the 35.5% floor (Table 5.10), which is FY2025's 18,841 / 53,009 = 35.54% rounded to 35.5% (Table 5.2 row V2; team calculation). Without the plan it would be 35.2% and 35.4%, so the plan costs 0.7 points of margin in FY2027E and the organic path already sits below the floor. Two base effects explain this: FY2025's 35.5% held ฿2,119 million of one-off profit (core margin 32.3%; Central Pattana, 2026p), and FY2026E holds the larger unrealised FX gains of 1Q26 (Central Pattana, 2026g). On CPN's core basis the margin rises from 32.3% to 33.9% in FY2027E, while the reported margin falls from 35.5% to 34.6% because FY2025's one-offs (3.2 points) do not recur. ฿394 million a year of after-tax Rama 2 lease interest (0.7 points) remains in reported profit; CPN gives no payment date, and if it is paid and the interest stops, the reported FY2027E margin would fall to about 33.9% (Central Pattana, 2026g).
 
-**Table 5.11. Margin test by scenario (THB million; team proposal)**
+**Table 5.11. Margin test by scenario (THB million; team proposal; components are rounded and may not add exactly to the totals)**
 
 | Scenario | Net profit (net margin) FY2026E | FY2027E | FY2028E | FY2027E margin without the plan | FY2027E core margin | FY2027E profit above the 35.5% floor (THB m) |
 |:---|---:|---:|---:|---:|---:|---:|
@@ -462,9 +499,16 @@ Marketing cuts cannot absorb the large cases. Crisis frees at most ฿1,545 mill
 
 ## References
 
-Notes on this list. Letter suffixes on same-author, same-year entries (a, b, c) follow the order of first citation, a team convention that differs from the title order strict APA 7 requires, so that they match the in-text keys used throughout the plan. Keys 2025a and 2026b come from the Section 2–3 list unchanged, although the releases behind them are dated 30 October 2024 and 8 October 2025. Page numbers cited for Central Pattana Investor Relations (2026) are those printed in the One Report; its PDF file runs four to six pages ahead of them, and the 2020 and 2021 report entries say where PDF pages are used. Entries marked “Retrieved” are pages that change over time.
+Notes on this list, which covers Chapters 2 to 6. Letter suffixes on same-author, same-year entries (a, b, c) follow the order of first citation, a team convention that differs from the title order strict APA 7 requires, so that they match the in-text keys used throughout the plan. Keys 2025a and 2026b are unchanged from Chapters 2 and 3, although the releases behind them are dated 30 October 2024 and 8 October 2025. Page numbers cited for Central Pattana Investor Relations (2026) are those printed in the One Report; its PDF file runs four to six pages ahead of them, and the 2020 and 2021 report entries say where PDF pages are used. Entries marked “Retrieved” are pages that change over time.
 
+@ref Accenture. (2021). Central makes it personal: Using data to create unique experiences for each shopper [Case study]. https://www.accenture.com/gb-en/case-studies/retail/central-makes-it-personal
+@ref Bangkok Post. (2025). Central Pattana sees net profit surge by 13% in 2025. https://www.bangkokpost.com/property/3203730/central-pattana-sees-net-profit-surge-by-13-in-2025
+@ref Bangkok Post. (2026a). Central Pattana sees revenue rise by 8% to ฿13.1bn in Q2. https://www.bangkokpost.com/business/general/3299643/central-pattana-sees-revenue-rise-by-8-to-b131bn-in-q2
+@ref Bangkok Post. (2026b). CPN unveils ฿4.5bn Central Northville. https://www.bangkokpost.com/business/general/3280614/cpn-unveils-b45bn-central-northville
 @ref Bank of Thailand. (2026, October 28). Monetary Policy Committee's decision 5/2026 (Press release No. 41/2026). https://www.bot.or.th/en/news-and-media/news/mpc/news-20261028-5FWvBPSf.html
+@ref Bloomberg. (2025). Central Pattana's profit surges to record on big one-off boosts. https://www.bloomberg.com/news/articles/2025-11-14/central-pattana-s-profit-surges-to-record-on-big-one-off-boosts
+@ref CBRE Thailand. (2026). 2026 Thailand real estate market outlook. https://www.cbre.co.th/insights/reports/2026-thailand-real-estate-market-outlook
+@ref Central Group. (2019, November 26). Two nations, one success: Thailand's CPN and Japan's Mitsubishi Estate form a 70:30 joint venture to elevate Central Village towards Southeast Asia's top luxury outlet. https://www.centralgroup.com/en/newsroom/corporate-news/329/two-nations-one-success-thailand-s-cpn-and-japan-s-mitsubishi-estate-form-a-70-30-joint-venture-to-elevate-central-village-towards-southeast-asia-s-top-luxury-outlet
 @ref Central Group. (2020, December 2). Central Department Store strengthens its omnichannel leadership with the new "CENTRAL APP", aiming to become No. 1 omnichannel platform for lifestyle shopping [Press release]. https://www.centralgroup.com/en/newsroom/corporate-news/386/central-department-store-strengthens-its-omnichannel-leadership-with-the-new-central-app-aiming-to-become-no-1-omnichannel-platform-for-lifestyle-shopping
 @ref Central Group. (2021, January 19). Central and Robinson Department Stores deliver an omnichannel service "Central & Robinson With You during Covid-19" with 4 core strategies to help take care of the customers during the new wave of Covid-19 outbreaks [Press release]. https://www.centralgroup.com/en/newsroom/corporate-news/390/central-and-robinson-department-stores-deliver-an-omnichannel-service-central-and-robinson-with-you-during-covid-19-with-4-core-strategies-to-help-take-care-of-the-customers-during-the-new-wave-of-covid-19-outbreaks
 @ref Central Group. (2025, September 23). Central Group joins forces with Tourism Authority of Thailand (TAT) to elevate Thailand as a world-class quality tourism destination, rolling out mega events and year-end campaigns to capture the wave of tourism recovery [Press release]. ThaiPR.net. https://www.thaipr.net/?p=3645845
@@ -479,17 +523,21 @@ Notes on this list. Letter suffixes on same-author, same-year entries (a, b, c) 
 @ref Central Pattana. (2017, August 24). The Supreme Court's order for the compensation regarding the fire at CentralWorld (Revised) (No. 051/2017/047) [SET announcement]. MarketScreener. https://www.marketscreener.com/CENTRAL-PATTANA-PCL-13170218/news/Central-Pattana-PCL-The-Supreme-Court-s-Order-for-the-Compensation-Regarding-the-Fire-at-CentralWo-25003555/
 @ref Central Pattana. (2021). Annual report 2020 (56-1 One Report) [Page numbers cited are PDF pages]. https://investor.centralpattana.co.th/en/document/viewer/161862/annual-report-2020-56-1-one-report
 @ref Central Pattana. (2022). Annual report 2021 (56-1 One Report) [Page numbers cited are PDF pages]. https://investor.centralpattana.co.th/en/document/viewer/161863/annual-report-2021-56-1-one-report
+@ref Central Pattana. (2024a). 56-1 One Report 2023. https://sustainability.centralpattana.co.th/storage/esg-reporting-library/reporting-and-disclosure/sustainability-reports/2023/cpn-one-report-2023-en.pdf
 @ref Central Pattana. (2024b). Central Pattana has issued sustainability-linked bond to support clean energy projects, aiming to become a Net Zero greenhouse gas emissions organization by 2050. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1266/central-pattana-has-issued-sustainability-linked-bond-to-support-clean-energy-projects-aiming-to-become-a-net-zero-greenhouse-gas-emissions-organization-by-2050
+@ref Central Pattana. (2024c). Residential properties [data as of December 31, 2024]. https://www.centralpattana.co.th/en/investor-relations/assets-under-central-pattana/residential-properties
 @ref Central Pattana. (2024d). Sustainability-linked finance framework (2024 updated edition). https://sustainability.centralpattana.co.th/en/document/viewer/86/central-pattana-sustainability-link-finance-framework-2024-updated-edition
 @ref Central Pattana. (2024e, November 13). Highlighting Thailand's potential, Central Pattana unveils 3 strategic initiatives to boost global brand expansion and strengthen Thai brands for sustainable growth. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1281/highlighting-thailands-potential-central-pattana-unveils-3-strategic-initiatives-to-boost-global-brand-expansion-and-strengthen-thai-brands-for-sustainable-growth
 @ref Central Pattana. (2025a). Central Pattana invests 700 MB in The World's Great Celebration 2025. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1272/central-pattana-invests-700-mb-in-the-worlds-great-celebration-2025-joining-hands-with-tat-and-partners-to-boost-thai-economy-and-position-thailand-as-a-world-class-destination
 @ref Central Pattana. (2025b). Central Pattana invests THB 500 million in a nationwide Thai Maha Songkran Festival. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1365/central-pattana-invests-thb-500-million-in-a-nationwide-thai-maha-songkran-festival-to-boost-confidence-tourism-and-the-economy-during-q2-high-season
 @ref Central Pattana. (2025c). Central Pattana posts robust Q3/2025 results with strong revenue and profit growth, reaffirming the success of its Retail-Led Mixed-Use model. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1515/central-pattana-posts-robust-q32025-results-with-strong-revenue-and-profit-growth-reaffirming-the-success-of-its-retail-led-mixed-use-model
+@ref Central Pattana. (2025d). No.1 for 3 consecutive years — Thailand's Most Admired Company 2024–2025. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1355/no1-for-3-consecutive-years-central-pattana-wins-thailands-most-admired-company-2024-2025-reinforcing-central-shopping-centres-as-the-brand-in-consumers-hearts
 @ref Central Pattana. (2025e, March 4). Shining on success of "LEAD by Central Pattana" program, top retail course in hearts of new generation of entrepreneurs, helping encourage Thai SMEs and supporting country's economy. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1332/shining-on-success-of-lead-by-central-pattana-program-top-retail-course-in-hearts-of-new-generation-of-entrepreneurs-helping-encourage-thai-smes-and-supporting-countrys-economy
 @ref Central Pattana. (2025f, February 27). Central Pattana invests 600 million baht in "Summer Invitation 2025". https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1335/central-pattana-invests-600-million-baht-in-summer-invitation-2025-to-position-thailand-as-destination-of-the-year-and-transform-central-shopping-centres-nationwide-into-ultimate-summer-desti
 @ref Central Pattana. (2025g, July 24). First and only in Asia - Central Pattana targets high-end UAE customers and joins hands with UAE national CRM "Fazaa Card" to mark "Global Elite Destination" helping drive further tourism growth. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1450/first-and-only-in-asia-central-pattana-targets-high-end-uae-customers-and-joins-hands-with-uae-national-crm-fazaa-card-to-mark-global-elite-destination-helping-drive-further-tourism-growth
 @ref Central Pattana. (2026a). 2025 marks record growth in revenue, net profit, dividends and traffic. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1570/central-pattana-sets-new-highs-for-three-consecutive-years-2025-marks-record-growth-in-revenue-net-profit-dividends-and-traffic-reflecting-the-strength-of-retail-led-mixed-use-model
 @ref Central Pattana. (2026b). The Central Phaholyothin — THB 21 billion mega project. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1501/central-pattana-unveils-thb-21-billion-mega-project-the-central-phaholyothin-the-flagship-of-the-future-set-to-become-the-landmark-of-northern-bangkok
+@ref Central Pattana. (2026c). Corporate presentation 4Q2025 [Slide presentation]. https://hub.optiwise.io/storage/183/presentation/2026/cpn-corporate-4q2025.pdf
 @ref Central Pattana. (2026d, April 17). All-time high: 15 million join Central's Songkran nationwide, powering Thailand's global festival landmarks. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1601/all-time-high-15-million-join-centrals-songkran-nationwide-powering-thailands-global-festival-landmarks
 @ref Central Pattana. (2026e, July 3). Central Northville celebrates grand opening as Thailand's first longevity destination and the new urban lifestyle hub of north Bangkok. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1621/central-northville-celebrates-grand-opening-as-thailands-first-longevity-destination-and-the-new-urban-lifestyle-hub-of-north-bangkok
 @ref Central Pattana. (2026f, July 6). Central Pattana and Mitsubishi Estate unveil "CenTRal cENtrAL," a new project designed to strengthen Siam Square's position as a "Global Youth Culture Destination". https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1622/central-pattana-and-mitsubishi-estate-unveil-central-central-a-new-project-designed-to-strengthen-siam-squares-position-as-a-global-youth-culture-destination
@@ -506,16 +554,29 @@ Notes on this list. Letter suffixes on same-author, same-year entries (a, b, c) 
 @ref Central Pattana. (2026q, August 14). 2Q26 corporate presentation [Investor presentation]. https://investor.centralpattana.co.th/en/document/viewer/202569/2q26-corporate-presentation
 @ref Central Pattana. (2026r, September 8). Management team. Retrieved October 28, 2026, from https://www.centralpattana.co.th/en/about-us/management-structure/management-team
 @ref Central Pattana. (2026s, March 4). Central Pattana launches "Summer Fest 2026" with 1,000 events, aiming to position Thailand as a global summer destination. https://www.centralpattana.co.th/en/shopping/shopping-update/lifestyle-activities/1578/central-pattana-launches-summer-fest-2026-with-1000-events-aiming-to-position-thailand-as-a-global-summer-destination
+@ref Central Pattana. (2026t, April 9). Central Pattana reinforces its position as a world-class sustainable organization, consistently ranked in the Dow Jones Best-in-Class Indices and recognized with multiple Asia-level ESG awards, while advancing collaboration across all sectors to build a sustainable ecosystem [Press release]. ThaiPR.net. https://www.thaipr.net/en/business_en/3711713
 @ref Central Pattana Investor Relations. (n.d.-a). Calendar. Retrieved October 28, 2026, from https://investor.centralpattana.co.th/en/calendar
 @ref Central Pattana Investor Relations. (n.d.-b). SET announcements. Retrieved October 28, 2026, from https://investor.centralpattana.co.th/en/newsroom/set-announcements
+@ref Central Pattana Investor Relations. (n.d.-c). Performance highlights [Web page]. Retrieved October 29, 2026, from https://investor.centralpattana.co.th/en/results-and-reporting/performance-highlights
 @ref Central Pattana Investor Relations. (2026). 56-1 One Report 2025. https://investor.centralpattana.co.th/en/document/viewer/flipbook/188279/annual-report-2025-56-1-one-report
+@ref Central Retail Corporation. (2025, September 10). CRC redefines the benchmark with 5 customer insights, evolving its portfolio to serve every life stage and lifestyle. https://www.centralretail.com/en/newsroom/news-and-activities/1103/crc-redefines-the-benchmark-with-5-customer-insights-evolving-its-portfolio-to-serve-every-life-stage-and-lifestyle
+@ref Central Retail Corporation. (2026, August 14). Central Retail sets another record in Q2/2026, profit up 124% to THB 2,114 million, accelerating long-term growth with “New Heights, Next Growth”. https://www.centralretail.com/en/newsroom/news-and-activities/1439/central-retail-sets-another-record-in-q2-2026-profit-up-124-to-thb-2114-million-accelerating-long-term-growth-with-new-heights-next-growth
+@ref CPNREIT. (2024). Annual report 2023. https://cpnreit.listedcompany.com/misc/ar/20240430-cpnreit-ar2023-en.pdf
 @ref Cushman & Wakefield. (2026, October 8). Bangkok retail Q3 2026 [Market report]. https://assets.cushmanwakefield.com/-/media/cw/marketbeat-pdfs/2026/q3/apac-and-gc/bangkok-retail-mb-3q2026-final.pdf
 @ref DataReportal. (2025, November 8). Digital 2026: Thailand. https://datareportal.com/reports/digital-2026-thailand
+@ref GlobeNewswire. (2025). Central Pattana invests 120 billion Baht to transform Thailand's retail landscape. https://www.globenewswire.com/news-release/2025/03/25/3048898/0/en/Central-Pattana-invests-120-billion-Baht-Approximately-USD-3-5-billion-to-transform-Thailand-s-retail-landscape.html
 @ref Government Public Relations Department. (2026, January 16). Thailand tourism earns US$86.6 billion, arttracts [sic] higher-quality travelers in 2025. https://thailand.prd.go.th/en/content/category/detail/id/2078/iid/466167
+@ref Inside Retail Asia. (2025). Why visiting a mall in Thailand feels more like sightseeing than shopping. https://insideretail.asia/2025/06/15/why-visiting-a-mall-in-thailand-feels-more-like-sightseeing-than-shopping/
+@ref Inside Retail Asia. (2026). Siam Piwat: the retail company driving Thailand's luxury momentum. https://insideretail.asia/2026/03/16/siam-piwat-the-retail-company-driving-thailands-luxury-momentum/
 @ref JLL. (2026, August 14). Bangkok retail Q2 2026 [APPD market report]. https://research.jllapsites.com/appd-market-report/q2-2026-retail-bangkok/
 @ref KPMG. (2026, September 3). Thailand: Reduced 7% VAT rate extended through September 2027 [TaxNewsFlash]. https://kpmg.com/us/en/taxnewsflash/news/2026/09/thailand-reduced-7-percent-vat-rate-extended-through-september-2027.html
+@ref National Statistical Office. (2025). Statistical yearbook Thailand 2025. https://www.nso.go.th/public/e-book/Statistical-Yearbook/SYB-2025_webPage/Page_SYB_EN.html
+@ref Nation Thailand. (2021, October 1). 'Central Pattana' reveals a new business model with a focus on the business ecosystem of shopping centers to help its partners achieve sustainable growth with the 'Scaling Up Your Business' strategy. https://www.nationthailand.com/pr-news/business/40006915
 @ref Nation Thailand. (2025a). Thai retail sector sees robust growth, driven by online boom. https://www.nationthailand.com/business/economy/40052197
+@ref Nation Thailand. (2025b). Thai shoppers flock online amid economic slowdown as Shopee, Lazada and TikTok rake in billions. https://www.nationthailand.com/news/general/40057033
 @ref Nation Thailand. (2025c, December 12). Thai retail titans spend over $63 million on mega-events to capture high-season consumer spending. https://www.nationthailand.com/business/corporate/40059674
+@ref Nation Thailand. (2026a). Central Pattana Q1 profit rises 18% to 4.97bn baht. https://www.nationthailand.com/business/corporate/40066300
+@ref Nation Thailand. (2026b). Thailand's Q2 GDP expands 1.9% with 2026 growth forecast midpoint at 2.2%. https://www.nationthailand.com/business/economy/40069878
 @ref Nation Thailand. (2026c). Household debt climbs to 86.7% of GDP, exposing deeper economic fragility. https://www.nationthailand.com/business/economy/40064614
 @ref Nation Thailand. (2026d). Central Pattana joins Sun Group to shake up ASEAN retail with Vietnam push. https://www.nationthailand.com/business/corporate/40066983
 @ref Nation Thailand. (2026e, June 11). TAT forecasts 33 million foreign tourists as oil costs weigh on travel. https://www.nationthailand.com/news/tourism/40067283
@@ -526,17 +587,26 @@ Notes on this list. Letter suffixes on same-author, same-year entries (a, b, c) 
 @ref Nation Thailand. (2026j, January 6). Thailand welcomes 32.9m foreign tourists in 2025. https://www.nationthailand.com/news/general/40060860
 @ref Nation Thailand. (2026k, October 8). Thai consumer confidence index falls to 52.1 in September. https://www.nationthailand.com/business/economy/40072005
 @ref Nation Thailand. (2026l, July 15). Thai household debt-to-GDP ratio falls amid restricted credit access. https://www.nationthailand.com/business/economy/40068669
+@ref Nikkei Asia. (2026a). Thailand tourism takes hit as Chinese arrivals plunge 30%. https://asia.nikkei.com/business/travel-leisure/thailand-tourism-takes-hit-as-chinese-arrivals-plunge-30
+@ref Nikkei Asia. (2026b). Central Group's new Bangkok mall to open amid weak consumption. https://asia.nikkei.com/business/retail/central-group-s-new-bangkok-mall-to-open-amid-weak-consumption
 @ref Personal Data Protection Act, B.E. 2562 (2019). Royal Gazette, 136(69 A), 27 May 2019 [in Thai]. https://ratchakitcha.soc.go.th/documents/17082307.pdf
+@ref PS Global Consulting. (2026). Thailand's retail industry outlook: key trends shaping growth from Q4 2025 to 2026. https://psglobalconsulting.com/blog/thailands-retail-industry-outlook-key-trends-shaping-growth-from-q4-2025-to-2026
 @ref Revenue Department of Thailand. (2024, June 24). VAT refund for tourists: Conditions. https://vrtweb.rd.go.th/81.html
+@ref S&P Global. (2026). 2026 rankings: The Sustainability Yearbook [Web page]. https://www.spglobal.com/sustainable1/en/csa/yearbook/2026/ranking
 @ref Standard Insights. (2026, May 31). Brand tracking: What it measures and how it works. https://standard-insights.com/brand-tracking-what-it-measures-how-it-works/
 @ref Thai Examiner. (2026a). Thailand targets growth of over 10% in 2026 after foreign arrivals fell 7.23% in 2025. https://www.thaiexaminer.com/thai-news-foreigners/2026/01/06/thailand-targets-growth-of-over-10-in-2026-after-seeing-foreign-tourist-arrivals-fall-by-7-23-in-2025/
+@ref Thai Examiner. (2026b). Thailand losing appeal to Chinese tourists despite a gain in numbers from last year as Vietnam rises. https://www.thaiexaminer.com/thai-news-foreigners/2026/08/22/thailand-losing-appeal-to-chinese-tourists-despite-a-gain-in-numbers-from-last-year-as-vietnam-rises/
+@ref ThaiPR.net. (2025a). Central Pattana wins Prime Minister Award 2025 for Innovation for Sustainability. https://www.thaipr.net/en/business_en/3678051
+@ref ThaiPR.net. (2025b). CPN sustainability rankings, DJSI Best-in-Class Indices, ESG awards. https://www.thaipr.net/en/business_en/3571461
 @ref ThaiPR.net. (2026). Central Pattana reported strong Q2/2026 results. https://www.thaipr.net/en/business_en/3748724
 @ref Thai Publica. (2026, February 10). [Central Pattana x Central Retail launch The Great Chinese New Year 2026] [Press release copy; in Thai, title translated by the team]. https://thaipublica.org/2026/02/central-pattana-x-central-retail-the-great-chinese-new-year-pr-10022026/
 @ref The1 Central Limited. (n.d.-a). Privacy policy. Retrieved October 28, 2026, from https://www.the1.co.th/en/privacy
 @ref The1 Central Limited. (n.d.-b). The 1 App terms and conditions. Retrieved October 28, 2026, from https://www.the1.co.th/en/terms-and-conditions
 @ref The1 Central Limited. (n.d.-c). The 1 for business: Loyalty and rewards. Retrieved October 28, 2026, from https://the1.co.th/en/the1forbusiness/service/loyalty-rewards
 @ref The Nation. (2026, May 29). TikTok and AI reshape how Thai Gen Z makes digital buying choices. Asia News Network. https://asianews.network/?p=277153
+@ref The Story Thailand. (2025). Central Pattana, Ikano Centres launch THB 6 billion Megabangna expansion. https://www.thestorythailand.com/en/central-pattana-lkano-centres/
 @ref The Thaiger. (2025, December 19). Central Pattana commits 500 million baht to Thailand's biggest New Year 2026 countdown. https://thethaiger.com/hot-news/events/central-pattana-commits-500-million-baht-to-thailands-biggest-new-year-2026-countdown
 @ref Tilleke & Gibbins. (2025, August 1). More than a warning: Eight serious fines imposed in Thai data protection cases. https://www.tilleke.com/insights/more-than-a-warning-eight-serious-fines-imposed-in-thai-data-protection-cases
 @ref Tilleke & Gibbins. (2026, July 16). Thailand releases new draft PDPA guidance on lawful bases and marketing. https://www.tilleke.com/insights/thailand-releases-new-draft-pdpa-guidance-on-lawful-bases-and-marketing/
+@ref Tourism Authority of Thailand. (2024). Thailand welcomes over 35 million visitors in 2024. https://www.tatnews.org/2024/12/thailand-welcomes-over-35-million-visitors-in-2024-a-milestone-paving-the-way-for-2025/
 @ref TRIS Rating. (2026, February 26). Central Pattana PLC (CPN) rating action report. https://investor.centralpattana.co.th/storage/document/tris-rating-reports/2026/20260226-cpn-tris-2026-en.pdf
