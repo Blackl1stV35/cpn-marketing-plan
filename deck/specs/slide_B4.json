@@ -46,7 +46,7 @@
       ]
     ]
   },
-  "notes": "Backup slide, not presented. Table 5.2 lists the main team assumptions; the scenario table combines Tables 5.8 and 5.11. The base case misses both F1 tests in FY2027E and only the optimistic case, which is defined as target-met, passes.",
+  "notes": "Backup slide, not presented. Table 5.2 lists the main team assumptions; the scenario table combines Tables 5.8 and 5.11. The base case misses both F1 tests in FY2027E and only the optimistic case, which is defined as target-met, passes. The international row applies the 13.7% visit share to revenue, which assumes a foreign visit earns the same as a Thai visit (team assumption, not tested).",
   "sources": ["Central Pattana, 2026g", "Central Pattana, 2026p", "DataReportal, 2025", "team calculation"],
   "facts": [
     {"on_slide": "6.6% growth vs 7.0%; 34.6% margin vs our 35.5% floor (headline)", "meaning": "Base-case FY2027E total revenue growth is 6.6% against the 7.0% low end of high single digit; net margin 34.6% against our 35.5% floor (the team's calculation, not a CPN figure); F1 not met in the base case", "where": "ch5.md Table 5.8 row Base; Table 5.10 and 5.11 row Base", "cite": "team proposal"},
